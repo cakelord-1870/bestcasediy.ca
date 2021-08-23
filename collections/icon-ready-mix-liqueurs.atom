@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/icon-ready-mix-liqueurs.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2020-12-07T12:25:53-04:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/4983170531430</id>
+    <published>2020-12-07T12:25:53-04:00</published>
+    <updated>2020-12-07T12:25:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-shamrock-cream-glass-bottle-makes-1l"/>
+    <title>Icon Shamrock Cream (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63441_IconShamrockCream.jpg?v=1627320459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Irish whiskey style flavouring with a distinct, sweet and creamy taste, with subtle notes of chocolate and coffee.</span></p>
+<p><span><meta charset="utf-8">Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Pre-mix 70 mL (2.4 US fl oz) of warm water with 250 mL (84 US fl oz) of 40% ABV vodka or neutral alcohol. Add the mixture to the Icon Liqueurs Shamrock Cream Base 215 g (7.5 oz) while whisking thoroughly. Add this flavouring and top up to 1 L (33.8 US fl oz) with 40% ABV distilled spirit or vodka.</p>
+<h2 style="text-align: left;"><b>Crème Irlandaise</b></h2>
+<p>Arôme de style whisky irlandais avec un goût distinct, doux et crémeux, avec des notes subtiles de chocolat et de café.<br></p>
+<p><b>Instructions de mélange</b><br></p>
+<p>Pré-mélanger 70 ml (2,4 US fl oz) d'eau tiède avec 250 ml (84 US fl oz) de vodka 40% ABV ou d'alcool neutre. Ajouter le mélange à la Base de Crème ‘’Shamrock Icon Liqueurs 215 g (7,5 oz)’’ tout en fouettant soigneusement. Ajoutez cet arôme et remplissez jusqu'à 1 L (33,8 US fl oz) avec 40% d'alcool distillé ou de vodka.<br></p>
+<span style="font-size: 10pt; font-family: Arial; font-style: normal;" data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4983170531430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>63441</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4865389232230</id>
+    <published>2020-11-06T09:51:38-04:00</published>
+    <updated>2020-11-06T09:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-black-raspberry-royale-glass-bottle-makes-1l"/>
+    <title>Icon Black Raspberry Royale (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63501_IconBlackRaspRoyale.jpg?v=1627310980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A rich, velvety, French style liqueur flavouring with decadent dark berry notes and hints of honey and vanilla.</p>
+<p><meta charset="utf-8">Icon Liqueurs<span> is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span><br><br><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2>
+<span>Framboise Noire </span><b>Royale (Bouteille en Verre) Donne 1L</b>
+</h2>
+<p>Un arôme de liqueur riche et velouté de style français avec des notes de baies noires décadentes et des notes de miel et de vanille.<br></p>
+<p><span style="font-weight: 400;"> Icon Liqueurs est une gamme d'arômes de style liqueur qui rend la création de liqueurs plus facile que jamais ! L'emballage en bouteille permet de verser et de mélanger en quelques instants avant qu'ils soient prêts à être servis !</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span style="font-weight: 400;"> Versez le contenu dans une bouteille de 1 L, ajoutez 210 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 40% ABV.</span></p>
+<span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' style="font-size: 10pt; font-family: Arial; font-style: normal;"><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4865389232230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63501</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4865493336166</id>
+    <published>2020-11-03T13:38:00-04:00</published>
+    <updated>2020-11-03T13:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-rhubarb-ginger-gin-glass-bottle-makes-1l"/>
+    <title>Icon Rhubarb &amp; Ginger Gin (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63681_IconRhubarbandGinger.jpg?v=1627320125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A well-balanced gin liqueur flavouring with sweet rhubarb and fiery ginger notes overlaying a refreshing botanical base.</span></p>
+<p><span><meta charset="utf-8">Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 170 ml (5.7 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2><b>Gin Rhubarbe &amp; Gingembre</b></h2>
+<p><span style="font-weight: 400;">Un arôme de liqueur de gin bien équilibré avec des notes de rhubarbe douce et de gingembre recouvrant une base botanique rafraîchissante.</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span> Versez le contenu dans une bouteille de 1 L, ajoutez 170 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 40% ABV.</span></p>
+<span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' style="font-size: 10pt; font-family: Arial; font-style: normal;"><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4865493336166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63681</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4865479114854</id>
+    <published>2020-10-06T16:20:01-03:00</published>
+    <updated>2020-10-06T16:20:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-limoncello-glass-bottle-makes-1l"/>
+    <title>Icon Limoncello (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63561_IconLimoncello.jpg?v=1627318756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>An Italian style lemon liqueur flavouring with a fresh, citrus aroma and sweet, zesty taste.</span></p>
+<p><span><meta charset="utf-8">Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 90 ml (3.0 US fl oz) of water and top up with vodka or neutral alcohol at 50% ABV.</p>
+<h2><b>Limoncello (Bouteille en verre) Donne 1L</b></h2>
+<p><span>Un arôme de liqueur de citron de style italien avec un arôme frais d'agrumes sucré.</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span> Versez le contenu dans une bouteille de 1 L, ajoutez 90 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 50% ABV.</span></p>
+<span style="font-size: 10pt; font-family: Arial; font-style: normal;" data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4865479114854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63561</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4865397817446</id>
+    <published>2020-07-28T16:10:25-03:00</published>
+    <updated>2020-07-28T16:10:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-black-sambuca-glass-bottle-makes-1l"/>
+    <title>Icon Black Sambuca (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63601_BlackSambuca.jpg?v=1627312182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A vibrant, purple-coloured liqueur flavouring combining spicy aniseed with a sweet, bitter liquorice taste.</p>
+<p>Icon Liqueurs<span> is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><u></u><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle and top up with vodka or neutral alcohol at 50% ABV.</p>
+<h2 style="text-align: left;"><b>Icon - Black Sambuca (Bouteille en Verre) Donne 1L</b></h2>
+<p>Un arôme de liqueur vibrant de couleur pourpre alliant l'anis épicé à un goût de réglisse doux et amer.<br></p>
+<p><b> Instructions de mélange</b></p>
+<p><span style="font-weight: 400;">Ajoutez le contenu de la bouteille dans une bouteille de 1 L (33,8 US fl oz) et complétez avec de la vodka ou de l'alcool neutre à 50% ABV.</span></p>
+<span style="font-size: 10pt; font-family: Arial; font-style: normal;" data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4865397817446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63601</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4865462075494</id>
+    <published>2020-07-20T10:20:16-03:00</published>
+    <updated>2020-07-20T10:20:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-butterscotch-schnapps-glass-bottle-makes-1l"/>
+    <title>Icon Butterscotch Schnapps (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63621_ButterscotchSchnapps.jpg?v=1627312612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-mce-fragment="1">A mouth-watering, sweet and buttery liqueur flavouring with indulgent fudge and vanilla tones.</span></p>
+<p>Icon Liqueurs<span> is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span><br><br><strong><u>Mixing Instructions<br><br></u></strong><span>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 50 ml (1.7 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</span></p>
+<h2><b>Butterscotch Schnaps (Bouteille en verre) Donne 1L</b></h2>
+<p>Un arôme de liqueur alléchant, sucré et beurré avec des notes de fudge et de vanille.<br></p>
+<p><b> Instructions de mélange</b></p>
+<p><span>Ajoutez le contenu de la bouteille dans une bouteille de 1 L (33,8 US fl oz) et complétez avec de la vodka ou de l'alcool neutre à 50% ABV.</span></p>
+<span style="font-size: 10pt; font-family: Arial; font-style: normal;" data-sheets-value='{"1":2,"2":"Icon Liqueurs\n\nIcon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!\n\nIcon Liqueurs Cafelua Flavouring\n\nA bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.\n\nMixing Instructions\n\nAdd the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.\n\nIngredients\n\nInvert sugar syrup, fructose syrup, glucose syrup, flavourings, water, colour (E50d (sulphites)), humectant (E422), preservatives (sodium metbisulphite, potassium sorbate), thickener (E466).\n\nAllergy Advice\n\nFor allergens, see ingredients in bold."}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><span style="font-size: 13px; color: #000000; font-weight: normal; text-decoration: none; font-family: 'Arial'; font-style: normal; text-decoration-skip-ink: none;"></span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4865462075494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63621</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4719664365670</id>
+    <published>2020-04-08T15:18:08-03:00</published>
+    <updated>2020-04-08T15:18:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-melon-glass-bottle-makes-1l"/>
+    <title>Icon Melon (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63701_IconMelon.jpg?v=1627319607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A distinctive green liqueur flavouring with the refreshing taste of sweet, luscious melon. (Not available in the UK or NZ)</span></p>
+<p><span><meta charset="utf-8">Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 170 ml (5.7 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2><b>Melon (Bouteille en verre) Donne 1L</b></h2>
+<p><span>Un arôme distinctif de liqueur verte au goût rafraîchissant de melon sucré.</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> Versez le contenu dans une bouteille de 1 L, ajoutez 170 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 40% ABV.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4719664365670</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63701</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4719657386086</id>
+    <published>2020-04-08T15:13:35-03:00</published>
+    <updated>2020-04-08T15:13:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-chocolate-rum-glass-bottle-makes-1l"/>
+    <title>Icon Chocolate Rum (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63691_IconChocolateRum.jpg?v=1627317851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A luxurious flavouring blend of dark rum and indulgent chocolate with subtle sweet vanilla notes. </span></p>
+<p><span>Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2 style="text-align: center;"><b>Icon - Chocolate Rum<span> </span>(Bouteille en Verre) Donne 1L</b></h2>
+<p><span style="font-weight: 400;">Un mélange d'arômes luxueux de rhum brun et de chocolat indulgent avec des notes subtiles de vanille douce.</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span style="font-weight: 400;">Ajoutez le contenu de la bouteille dans une bouteille de 1 L (33,8 US fl oz) et complétez avec de la vodka ou de l'alcool neutre à 50% ABV.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4719657386086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63691</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4719653257318</id>
+    <published>2020-04-08T15:11:28-03:00</published>
+    <updated>2020-04-08T15:11:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-coconut-rum-glass-bottle-makes-1l"/>
+    <title>Icon Coconut Rum (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63461_iconcoconutrum.jpg?v=1627318248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A Caribbean style liqueur flavouring with the fresh, tropical taste of coconut and subtle hints of rum.</span></p>
+<p><span><meta charset="utf-8">Icon Liqueurs is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!</span></p>
+<p><strong><u>Mixing Instructions</u></strong></p>
+<p>Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 140 ml (4.7 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2 style="text-align: center;"><b>Icon - Coconut Rum (Bouteille en Verre) Donne 1L</b></h2>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Un arôme de liqueur de style rhum caribéen avec le goût frais et tropical de la noix de coco.</span></p>
+<p><b> Instructions de mélange</b></p>
+<p><span style="font-weight: 400;"> Versez le contenu dans une bouteille de 1 L, ajoutez 140 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 40% ABV.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4719653257318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63461</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4719652208742</id>
+    <published>2020-04-08T15:09:40-03:00</published>
+    <updated>2020-04-08T15:09:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-cafelua-glass-bottle-makes-1l"/>
+    <title>Icon Cafelua (Glass Bottle) Makes 1L</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/63481_IconCafelua.jpg?v=1627317410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p data-mce-fragment="1">A bold, Mexican style coffee liqueur flavouring with subtle rum notes and hints of vanilla.</p>
+<p data-mce-fragment="1">Icon Liqueurs<span data-mce-fragment="1"> is a liqueur style flavouring range that makes creating liqueurs easier than ever before! The convenient pouch or bottle packaging makes pouring and mixing take just a few moments before they are ready to serve!<br data-mce-fragment="1"></span><span data-mce-fragment="1"><br data-mce-fragment="1"></span><strong data-mce-fragment="1"><u data-mce-fragment="1">Mixing Instructions</u></strong></p>
+<p data-mce-fragment="1">Add the bottle contents to a 1 L (33.8 US fl oz) bottle, add 210 ml (7.1 US fl oz) of water and top up with vodka or neutral alcohol at 40% ABV.</p>
+<h2><b>Icon - Cafelua (Bouteille en verre) Donne 1L</b></h2>
+<p data-mce-fragment="1"><span style="font-weight: 400;">Un arôme audacieux de liqueur de café de style mexicain avec des notes de rhum et de vanille.</span></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1"> Instructions de mélange</b></p>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> Versez le contenu dans une bouteille de 1 L, ajoutez 210 ml d'eau et complétez avec de la vodka ou de l'alcool neutre à 40% ABV.</span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4719652208742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>63481</s:sku>
+      <s:grams>686</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3513111642214</id>
+    <published>2019-05-15T11:20:23-03:00</published>
+    <updated>2019-05-15T11:20:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-violet-gin"/>
+    <title>Icon - Violet Gin</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6367_ICONVIOLETGIN_1024x1024_3b0bccae-f223-4c2b-91c2-ddffb99c6439.jpg?v=1557925770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Just add 1-2 cups of vodka or other neutral tasting spirit to make these delicious liqueurs. Ready in 5 minutes.</span></p>
+<meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Sweet violet and full-bodied lavender style gin liqueur, reminiscent of parma violet sweets, balanced with juniper and subtle botanicals."}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Sweet violet and full-bodied lavender style gin liqueur, reminiscent of parma violet sweets, balanced with juniper and subtle botanicals.</span></p>
+<p><span>Still Spirits “Icon” Liqueurs (Makes 750 ml)</span></p>
+<h1><span>Icon - Violet Gin</span></h1>
+<p><span>Ajoutez simplement 1 ou 2 tasses de vodka ou autre alcool au goût neutre pour confectionner ces délicieuses liqueurs. Prêt en 5 minutes. </span></p>
+<meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Liqueur de gin à la lavande douce, violette et corsée, rappelant le temps des fêtes. Équilibrée de genièvre et d'un goût botanique.&quot;}" data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Liqueur de gin à la lavande douce, violette et corsée, rappelant le temps des fêtes. Équilibrée de genièvre et d'un goût botanique.</span></p>
+<p><span>Liqueurs «Icon» de Still Spirits (Donne 750 ml)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3513111642214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6367</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479219941416</id>
+    <published>2018-03-15T17:37:11-03:00</published>
+    <updated>2018-03-15T17:37:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/icon-herbal-liqueur-jager-style"/>
+    <title>Icon - Herbal Liqueur (Jäger style)</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6340_HERBALLIQUOR.jpg?v=1544642100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Just add 1-2 cups of vodka or other neutral tasting spirit to make these delicious liqueurs. Ready in 5 minutes.</span></p>
+<p><span>This strong liqueur is a reddish brown German style herbal liqueur. Serve extremely cold.</span></p>
+<p><span>Still Spirits “Icon” Liqueurs (Makes 750 ml)</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Icon - Liqueur aux herbes (à la Jäger)</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Ajoutez simplement 1 ou 2 tasses de vodka ou autre alcool au goût neutre pour confectionner ces délicieuses liqueurs. Prêt en 5 minutes. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Cette liqueur forte est une liqueur aux herbes de style allemand brun rougeâtre. Servir extrêmement froid. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Liqueurs «Icon» de Still Spirits (Donne 750 ml)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Icon Ready Mix Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479219941416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6340</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

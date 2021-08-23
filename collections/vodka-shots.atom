@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/vodka-shots.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2018-03-15T17:36:50-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215058984</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/vodka-shots-lemon"/>
+    <title>Vodka Shots - Lemon</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/vs_lemon_d03953de-b17c-40d9-953a-10b1224b0400.jpg?v=1521334804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The lemon vodka style is very popular in the southern regions of Eastern Europe where the fruit is plentiful and vodka is the beverage of choice. This essence is true to style and delivers a zesty citrus explosion mouthful in every shot. Its smooth mellow lemony notes also include a subtle hint of fresh lemon rind.</span></p>
+<p><span>Still Spirits “Vodka Shots” (Makes 1 L)</span></p>
+<h1><span>Vodka Shots - Citron</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Le style de la vodka au citron est très populaire dans les régions de l’Europe de l’Est, où les fruits sont abondants et où la vodka est la boisson de choix. Cette essence est fidèle au style et offre une bouchée explosive d'agrumes à chaque coup. Ses notes citronnées incluent également un soupçon subtil de zeste de citron frais. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vodka Shots Still Spirits (Donne 1 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vodka Shots</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215058984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6504</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215026216</id>
+    <published>2018-03-15T17:36:49-03:00</published>
+    <updated>2018-03-15T17:36:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/vodka-shots-peach"/>
+    <title>Vodka Shots - Peach</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/vs_peach_6588d5fb-bb0e-4a38-a123-a7409fdca65d.jpg?v=1521334812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Peach vodka has been made across Eastern Europe for centuries and it's not hard to understand why. In a word, it's absolutely delicious. Okay, that's two words, but you get the idea. It's smooth and very mellow, with long lingering flavours and more-ish aromas that tantalize the nostrils with the scent of juicy fresh peaches.</span></p>
+<p><span>Still Spirits “Vodka Shots” (Makes 1 L)</span></p>
+<h1><span>Vodka Shots - Pêche</span></h1>
+<p><span>La vodka à la pêche est fabriquée dans l'Europe de l'Est depuis des siècles et il n'est pas difficile de comprendre pourquoi. En un mot, c'est absolument délicieux. D'accord, ce sont deux mots, mais vous voyez l'idée. Il est doux et très moelleux, avec des saveurs persistantes et des arômes plus subtils qui ravissent les narines avec le parfum de pêches fraîches juteuses.</span></p>
+<p><span>Still Spirits “Vodka Shots” (Donne 1 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vodka Shots</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215026216</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6500</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214993448</id>
+    <published>2018-03-15T17:36:49-03:00</published>
+    <updated>2018-03-15T17:36:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/vodka-shots-raspberry"/>
+    <title>Vodka Shots - Raspberry</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/vs_raspberry_056afb03-ec29-41d0-9e5c-52d7b98e0d4b.jpg?v=1521334821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Perfect for enticing martinis, refreshing frozen drinks on a hot afternoon, and for cocktails that sing for summer, this raspberry vodka really rewards. It is rich in color and intense in flavor, with the unmistakable taste of sun-ripened raspberries shining through. A real treat!</span></p>
+<p><span>Still Spirits “Vodka Shots” (Makes 1 L)</span></p>
+<h1><span>Vodka Shots - Framboise</span></h1>
+<p><span>Parfaite pour les martinis séduisants, les boissons glacées et les cocktails pour l’été, cette vodka à la framboise est une véritable récompense. Il est riche en couleurs et en saveurs intenses, avec le goût inimitable des framboises. Un vrai régal!</span></p>
+<p> Still Spirits “Vodka Shots” (Donne 1 L)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vodka Shots</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214993448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6506</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214960680</id>
+    <published>2018-03-15T17:36:49-03:00</published>
+    <updated>2018-03-15T17:36:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/vodka-shots-vanilla"/>
+    <title>Vodka Shots - Vanilla</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/vs_vanilla_64952d0b-c749-4b11-9ed7-5dfefe2f51e9.jpg?v=1521334830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Now you can experience the same intense explosion of rich flat-leafed vanilla flavor complemented with subtle hints of butterscotch and chocolate, without going to the expense of purchasing a premium-priced original. Enjoy with ice, a mixer, or as the correct flavor base for a number of fantastic cocktails.</span></p>
+<p><span>Still Spirits “Vodka Shots” (Makes 1 L)</span></p>
+<h1><span>Vodka Shots - Vanille</span></h1>
+<p><span>Vous pouvez maintenant vivre la même explosion intense de saveur riche de vanille à feuilles plates, complétée par de subtiles notes de caramel au beurre et de chocolat. À savourer avec des glaçons ou comme base de saveur appropriée pour de nombreux cocktails fantastiques.</span></p>
+<p><span>Still Spirits “Vodka Shots” (Donne 1 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vodka Shots</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214960680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6502</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

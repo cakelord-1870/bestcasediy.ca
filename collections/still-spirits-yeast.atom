@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/still-spirits-yeast.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2018-03-15T17:36:50-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215190056</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-yeast-classic-8"/>
+    <title>Yeast - Turbo Classic 8</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/turbo_yeast_classic.jpg?v=1521336195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Most popular choice all around!</p>
+<p>Formulated to be used with 8 kg dextrose. Classic 8 is the best selling Turbo Yeast world-wide, performing excellently under most conditions. It is fast, capable of fermenting 6kg of sugar in 36 hours but reaches 18% ABV when 8kg of sugar is used and has excellent temperature tolerance. Classic has been further improved with the inclusion of new mineral absorbents, improving quality. We recommend you use Turbo Carbon as it will significantly improve the performance of Classic Turbo yeasts.</p>
+<h1>Levure - Turbo Classic 8</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Choix le plus populaire! </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Formulé pour être utilisé avec 8 kg de dextrose. Le Classic 8 est la levure Turbo la plus vendue au monde, offrant d'excellentes performances dans la plupart des conditions. Il est rapide, capable de fermenter 6 kg de sucre en 36 heures, mais atteint 18% en volume lorsque 8 kg de sucre est utilisé et présente une excellente tolérance à la température. Classic a encore été amélioré avec l’inclusion de nouveaux minéraux, améliorant ainsi la qualité. Nous vous recommandons d'utiliser Turbo Carbon, car cela améliorera considérablement les performances des levures Classic Turbo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Yeasts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215190056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6030</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215157288</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-yeast-fast"/>
+    <title>Yeast - Turbo Fast</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/turbo_yeast_fast.jpg?v=1521336209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When it's needed tomorrow!</p>
+<p>Formulated to be used with 6 kg dextrose. Express is the fastest Turbo on the planet, fermenting out 6kg of sugar in less than 24 hours and producing very good quality. It is important that water start temperature is correct (listed on package) and only 6kg of sugar is used to get maximum speed. We recommend you use Turbo Carbon as it will significantly improve the performance of Express Turbo.</p>
+<h1>Levure - Turbo Fast</h1>
+<p><span>Quand c'est nécessaire demain! </span></p>
+<p><span>Formulé pour être utilisé avec 6 kg de dextrose. Express est le Turbo le plus rapide de la planète. Il fait fermenter 6 kg de sucre en moins de 24 heures et produit une très bonne qualité. Il est important que la température de départ de l'eau soit correcte (indiquée sur l'emballage) et que seulement 6 kg de sucre soient utilisés pour obtenir une vitesse maximale. Nous vous recommandons d'utiliser Turbo Carbon, car cela améliorera considérablement les performances d'Express Turbo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Yeasts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215157288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>6045</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215124520</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-yeast-pure"/>
+    <title>Yeast - Turbo Pure</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/turbo_yeast_pure.jpg?v=1521336229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Highest quality and best tasting!</p>
+<p>Formulated to be used with 7kg dextrose. Triple Distilled Turbo should be used when you want the highest quality. Only use where cool air temperature (between 18–24°C) can be maintained. This is a revolutionary breakthrough in Turbo Yeast development making it possible to produce “triple distilled” quality alcohol. It is essential to use Turbo Carbon with Pure Turbo Yeast.</p>
+<h1>Levure - Turbo Pure</h1>
+<div id="tw-source">
+<p id="u4EBdf" class="tw-lang-selector-wrapper">Plus haute qualité et meilleure dégustation!</p>
+</div>
+<div class="oSioSc">
+<div id="tw-target">
+<div class="gsrt tw-ta-container tw-nfl" id="tw-target-text-container">
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Formulé pour être utilisé avec 7 kg de dextrose. Triple Distilled Turbo devrait être utilisé lorsque vous voulez la plus haute qualité. Utilisez uniquement lorsque la température de l'air frais (entre 18 et 24 ° C) peut être maintenue. Il s’agit d’une avancée révolutionnaire dans le développement des levures Turbo, qui permet de produire un alcool de qualité «triple distillation». Il est essentiel d’utiliser le Turbo Carbon avec la levure Pure Turbo.</span></p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Yeasts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215124520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>6035</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/still-spirits-additive.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2018-03-15T17:37:12-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220236328</id>
+    <published>2018-03-15T17:37:12-03:00</published>
+    <updated>2018-03-15T17:37:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ht-alpha-amylase-enzyme-4g"/>
+    <title>Alpha Amylase Enzyme 4g</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/alpha_am.jpg?v=1521230473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make up a soup with 15 L of water and 4 kg of starch.</p>
+<p>Add the 4 g sachet of Alpha Amylase and keep at 70 degrees C overnight and your starch will be converted to sugar.</p>
+<p>Measure using a refractometer or simply taste for sweetness.</p>
+<p>If you want a higher temperature, our Alpha Amylase unlike many others can handle temperatures up to 85 degrees before denaturing.</p>
+<p><span>To be used with Distiller's Yeasts when starch is used in your recipe.</span></p>
+<p><span>Can also be used to assist in conversion for beer recipes using high amounts of adjuncts.</span></p>
+<h1><strong>Alpha Amylase Enzyme 4g</strong></h1>
+<p><span style="font-weight: 400;">Préparez une soupe avec 15 L d’eau et 4 kg d’amidon.</span></p>
+<p><span style="font-weight: 400;">Ajoutez le sachet de 4 g d'Alpha Amylase et maintenez à 70 ° C toute la nuit. Votre amidon sera converti en sucre.</span></p>
+<p><span style="font-weight: 400;">Mesurer à l'aide d'un réfractomètre ou simplement goûter à la douceur.</span></p>
+<p><span style="font-weight: 400;">Si vous souhaitez une température plus élevée, notre Alpha Amylase, contrairement à beaucoup d'autres, peut supporter des températures allant jusqu'à 85 degrés avant la dénaturation.</span><strong><br></strong></p>
+<p><span style="font-weight: 400;">À utiliser avec les ‘’Distiller’s Yeats’’ lorsque l'amidon est utilisé dans votre recette.</span></p>
+<p><span style="font-weight: 400;">Peut également être utilisé pour aider à la conversion de recettes de bière en utilisant de grandes quantités d’additifs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220236328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>6010</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217614888</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-base-pack-a"/>
+    <title>Top Shelf Base - Pack A</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_base_a.jpg?v=1521306966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gives the ideal finished thickness and sweetness to liqueurs.</p>
+<p>Add alcohol as indicated on the essence bottle in a large mixing bowl. Slowly add pack contents while stirring with a whisk. Add essence and top up to 1.125L (40oz) with water.</p>
+<h1>Top Shelf Base - Pack A</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Donne l'épaisseur finale et la douceur idéales aux liqueurs. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Ajouter l'alcool comme indiqué sur la bouteille d'essence dans un grand bol à mélanger. Ajoutez lentement le contenu du paquet en remuant avec un fouet. Ajoutez de l'essence et complétez à 1,125 L (40 oz) avec de l'eau.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217614888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6400</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217582120</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-base-pack-b"/>
+    <title>Top Shelf Base - Pack B</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_base_b.jpg?v=1521306974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gives the ideal finished thickness and sweetness to liqueurs.</p>
+<p>Add alcohol as indicated on the essence bottle in a large mixing bowl. Slowly add pack contents while stirring with a whisk. Add essence and top up to 1.125L (40oz) with water.</p>
+<h1>Top Shelf Base - Pack B</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Donne l'épaisseur finale et la douceur idéales aux liqueurs.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Ajouter l'alcool comme indiqué sur la bouteille d'essence dans un grand bol à mélanger. Ajoutez lentement le contenu du paquet en remuant avec un fouet. Ajoutez de l'essence et complétez à 1,125 L (40 oz) avec de l'eau.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217582120</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6402</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217549352</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-base-pack-c"/>
+    <title>Top Shelf Base - Pack C</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_base_c.jpg?v=1521306981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gives the ideal finished thickness and sweetness to liqueurs.</p>
+<p>Add alcohol as indicated on the essence bottle in a large mixing bowl. Slowly add pack contents while stirring with a whisk. Add essence and top up to 1.125L (40oz) with water.</p>
+<h1>Top Shelf Base - Pack C</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Donne l'épaisseur finale et la douceur idéales aux liqueurs.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Ajouter l'alcool comme indiqué sur la bouteille d'essence dans un grand bol à mélanger. Ajoutez lentement le contenu du paquet en remuant avec un fouet. Ajoutez de l'essence et complétez à 1,125 L (40 oz) avec de l'eau.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217549352</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6404</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479216959528</id>
+    <published>2018-03-15T17:36:58-03:00</published>
+    <updated>2018-03-15T17:36:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-cream-base"/>
+    <title>Top Shelf Base - Cream</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_base_cream_400g.jpg?v=1521306933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gives the ideal finished thickness and sweetness to cream liqueurs.</p>
+<p>Slowly add pack contents into 220mls of cold water, mixing thoroughly with a whisk. Add alcohol as per essence bottle and top up to 1.123L (40oz) with water.</p>
+<h1>Top Shelf Base - Crème</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Donne l'épaisseur et la douceur finies idéales aux liqueurs à la crème. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Ajoutez lentement le contenu du paquet dans 220 ml d’eau froide en mélangeant bien au fouet. Ajoutez de l'alcool selon la bouteille d'essence et complétez avec de l'eau jusqu'à 1,123 L (40 oz).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479216959528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6408</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479216828456</id>
+    <published>2018-03-15T17:36:58-03:00</published>
+    <updated>2018-03-15T17:36:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-distilling-conditioner"/>
+    <title>Top Shelf Additive - Distilling Conditioner</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/distilling_conditioner_e0140c48-defb-4bbf-94cc-030fb95de831.jpg?v=1521309212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add during distillation to prevent foaming for better efficiency and less mess. Use 1 capful.</p>
+<h1>Top Shelf Additive - Conditionneur de distillation</h1>
+<p><span>Ajoutez pendant la distillation pour éviter la formation de mousse, pour une meilleure efficacité et moins de dégâts. Utilisez 1 bouchon.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479216828456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6455</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479216730152</id>
+    <published>2018-03-15T17:36:57-03:00</published>
+    <updated>2018-03-15T17:36:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-glycerin"/>
+    <title>Top Shelf Additive - Glycerin</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/glycerine_af0b8c84-2c24-4279-84ff-30f77d2e4d90.jpg?v=1521309231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Can be added to liqueurs to improve body, texture and mouth feel. Use at the rate of 5 ml per litre of finished product. Treats 10 litres of liqueur.</p>
+<h1>Top Shelf Additive - Glycerine</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Peut être ajouté aux liqueurs pour améliorer le corps, la texture et la sensation en bouche. Utiliser à raison de 5 ml par litre de produit fini. Traite 10 litres de liqueur.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479216730152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6450</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215878184</id>
+    <published>2018-03-15T17:36:53-03:00</published>
+    <updated>2018-03-15T17:36:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-schnapps-base"/>
+    <title>Top Shelf Base - Schnapps</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_schnapps_base.jpg?v=1521306987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gives the ideal finished thickness and sweetness to schnapps.</p>
+<p>Add alcohol as indicated on the essence bottle in a large mixing bowl. Slowly add pack contents while stirring with a whisk. Add essence and top up with water to 1.125L (40oz)</p>
+<h1>Top Shelf Base - Schnaps</h1>
+<p><span>Donne l'épaisseur et la douceur finies idéales au schnaps. </span></p>
+<p><span>Ajouter l'alcool comme indiqué sur la bouteille d'essence dans un grand bol à mélanger. Ajoutez lentement le contenu du paquet en remuant avec un fouet. Ajoutez de l'essence et complétez avec de l'eau jusqu'à 1,125 L (40 oz)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215878184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6406</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215255592</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-carbon"/>
+    <title>Turbo Carbon</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/turbo_carbon.jpg?v=1521334540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For ultimate quality, add with any Turbo yeast!</p>
+<p>Turbo Carbon is specifically designed for use during fermentation. It has a unique activated internal pore structure which removes impurities not taken out by post filtration. It significantly improves the performance of all Turbo Yeasts and is essential for use with Triple Distilled Turbo Yeast. You should still continue to filter, choosing from the range of Still Spirits activated carbon filter products.</p>
+<h1><span>Turbo Carbone</span></h1>
+<p><span>Pour une qualité ultime, ajoutez-le à n'importe quelle levure Turbo! </span></p>
+<p><span>Turbo Carbon est spécialement conçu pour être utilisé pendant la fermentation. Il possède une structure de pores interne activée unique qui élimine les impuretés non éliminées par post-filtration. Il améliore considérablement les performances de toutes les levures Turbo et est essentiel pour une utilisation avec la levure Turbo triple distillation. Vous devez toujours continuer à filtrer en choisissant parmi la gamme de filtres à charbon actif Still Spirits.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215255592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7551</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215222824</id>
+    <published>2018-03-15T17:36:50-03:00</published>
+    <updated>2018-03-15T17:36:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-clear"/>
+    <title>Turbo Clear</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/turbo_clear.jpg?v=1521334550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed specifically for Turbo Yeast! Improves flavours and eliminates unpleasant aromas! Contains twice as much clearing agent as other similar products.</p>
+<p>Turbo Clear is designed specifically for alcohol base. It contains more of the active ingredients than wine clearing agents and works much better. Turbo Clear is added directly into your turbo wash and within 24 hours removes over 95% of the yeast cells, solids and other compounds from the alcohol base. If Turbo Clear is not used then yeast cells will break open releasing off flavours and smell into your alcohol. For the very best alcohol QUALITY use Turbo clear in every batch and rack after it’s clear. The alcohol produced is clean and with virtually no smell.</p>
+<h1>Turbo Clear</h1>
+<p><span>Conçu spécifiquement pour la levure Turbo! Améliore les saveurs et élimine les arômes désagréables! Contient deux fois plus d'agent de compensation que d'autres produits similaires. </span></p>
+<p><span>Turbo Clear est spécialement conçu pour l'alcool. Il contient plus d'ingrédients actifs que d'agents de clarification du vin et fonctionne beaucoup mieux. Turbo Clear est ajouté directement dans votre lavage turbo et élimine plus de 95% des cellules de levure, des solides et d’autres composés de la base alcoolique dans les 24 heures. Si Turbo Clear n'est pas utilisé, les cellules de levure s'ouvriront, libérant ainsi les arômes et les odeurs de votre alcool. Pour obtenir la meilleure qualité d’alcool, utilisez Turbo clear dans chaque lot et chaque support. L'alcool produit est propre et pratiquement sans odeur.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215222824</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>6055</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214633000</id>
+    <published>2018-03-15T17:36:48-03:00</published>
+    <updated>2018-03-15T17:36:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/still-spirits-10l-ingredient-pack"/>
+    <title>Still Spirits 10L Ingredient Pack</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/10_liter_pack.jpg?v=1521304665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>For use with the Air Still system. Contains all the ingredients to produce 10L of wash for distilling through the Air Still system. This pack does not contain any carbon blocks. These are available separately in packs of 10 blocks.</span></p>
+<h1><strong>Emballage d'ingrédients Still Spirits 10L</strong></h1>
+<p><strong><span style="font-weight: 400;">À utiliser avec le système Air Still. Contient tous les ingrédients pour produire 10 litres de moût à distiller dans le système Air Still. Ce pack ne contient aucun bloc de carbone. Ceux-ci sont disponibles séparément par paquets de 10.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Additives</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214633000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>7554</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

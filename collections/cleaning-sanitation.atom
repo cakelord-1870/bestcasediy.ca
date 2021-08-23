@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/cleaning-sanitation.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2020-10-07T10:44:00-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/4943100346470</id>
+    <published>2020-10-07T10:44:00-03:00</published>
+    <updated>2020-10-07T10:44:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bucket-blaster-keg-washer"/>
+    <title>Bucket Blaster Keg Washer</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7541_bucketblaster.jpg?v=1627302591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bucket Blaster is a great way to get your kegs, fermenters, fermzilla, carboy's or other brewery gear clean while you attend to other, more enjoyable tasks, like brewing!</p>
+<p>Simply set up the keg washer basin with your cleaner or sanitizer, set a keg or carboy on over the jet nozzle, power up pump and let the keg washer do the work.</p>
+<p>This unit comes with a 15L bucket which doubles as a storage container when you are not using the system. This unit has a large 15L bucket making it much less likely for you to spill liquid on your floor.</p>
+<p>This system includes a 2000 liter per hour pump, the 15L bucket, a powerful jet nozzle, 3/8 EVABarrier tubing, a duotight tee piece, a grey and black ball lock disconnect and the stainless stand. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4943100346470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>7541</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4815033696358</id>
+    <published>2020-05-06T10:52:29-03:00</published>
+    <updated>2020-05-06T10:52:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-washer-deluxe-stainless-steel"/>
+    <title>Bottle Washer - Deluxe Stainless Steel</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Fermtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Stainlessbottlewasher.jpg?v=1588773330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fermtech<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Make cleaning/rinsing a breeze with this Deluxe Stainless Steel Bottle Washer by Vintage Shop. Simply connect to any utility sink/hose Spigot for an easy to use washing station. Pressing a bottle, tube, or carboy down on the device releases a high pressure blast that will wash away most particles as well as rinse. Lift the bottle to stop the spray.</span></p>
+<h5>Specially designed for cleaning carboys and bottles.</h5>
+<ul id="details">
+<li>Stainless steel construction.</li>
+<li>Easily attaches to almost any faucet (regular garden tap, ¾” NPT thread). An adapter may be required.</li>
+<li>Automatic soft closing valve avoids banging on pipes.</li>
+<li>Spring is not replaceable. Spring is warrantied to provide more than 60.000 usages.</li>
+</ul>
+<h1><span>Nettoyeur de bouteilles</span></h1>
+<p>Facilitez le nettoyage / rinçage avec ce lave-bouteilles de luxe en acier inoxydable de Vintage Shop. Connectez-vous simplement à n'importe quel évier / tuyau flexible pour une station de lavage facile à utiliser. Un tube ou une bonbonne sur l'appareil libère un jet à haute pression qui se débarrassera de la plupart des particules pendant le rinçage. <br><br>Spécialement conçu pour nettoyer les bonbonnes et les bouteilles. </p>
+<div>
+<ul>
+<li style="margin-left: 15px;">Construction en acier inoxydable. </li>
+<li style="margin-left: 15px;">Se fixe facilement à presque tous les robinets (robinet de jardin ordinaire, filetage NPT ¾ ”). Un adaptateur peut être nécessaire. </li>
+<li style="margin-left: 15px;">La soupape de fermeture douce automatique évite les coups sur les tuyaux. </li>
+<li style="margin-left: 15px;">Le ressort n'est pas remplaçable. Le ressort est garanti pour fournir plus de 60 000 utilisations.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4815033696358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>7333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3949473726566</id>
+    <published>2019-08-23T08:37:15-03:00</published>
+    <updated>2019-08-23T08:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/sanitizer-dish-monster-cleaner"/>
+    <title>Sanitizer Dish - Monster Cleaner</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7403_MONSTERCLEANER01.jpg?v=1566560247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>The Monster Cleaner is simply the best sanitizer you could think of. The Monster Cleaner allows for sanitization of all types of bottles. From PET beer, wine, and champagne bottles to Test Jars, Easy Siphons, Samplers, PET Carboys, Growlers, Gallon Jugs, and more!</p>
+<p>Easy to assemble, it is a breeze to use and clean. It also acts as a versatile addition to the top of the Bottle Drying Tree with no adaptor required. May also be used independently on any flat surface.</p>
+<p>Features:</p>
+<ul>
+<li>Comes with an adapter so the PET carboys will fit and can be sanitized (any container up to 55 mm in neck diameter).</li>
+<li>Will take all types of bottles (PET beer bottles, wine bottles, champagne bottles).</li>
+<li>Use the versatile adapter to easily sanitize a a variety of sizes and shapes, including Test Jars, Easy Siphons, Samplers and more.</li>
+<li>Will fit on top of the Bottle Drying Tree with no adapter required. Can also be used on any flat surface.</li>
+<li>Size is perfect to sanitize Growlers and Gallon Jugs.</li>
+<li>BPA free.</li>
+<li>Made with food grade materials.</li>
+</ul>
+<p><i>Not recommended to sanitize large glass carboys.</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3949473726566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>7403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3949473333350</id>
+    <published>2019-08-23T08:36:32-03:00</published>
+    <updated>2019-08-23T08:36:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-tree-insert"/>
+    <title>Bottle Tree Insert</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7401_BOTTLETREEINSERT.jpg?v=1566560205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Drip dry additional bottles on the Bottle Drying tree. Sold individually. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3949473333350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3949473202278</id>
+    <published>2019-08-23T08:35:07-03:00</published>
+    <updated>2019-08-23T08:35:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-drying-tree-45-bottles"/>
+    <title>Bottle Drying Tree (45 bottles)</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7400_BOTTLETREE45.jpg?v=1566560178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Let your bottles drip dry after sanitizing.With this bottle tower you will be able to stack up to 10 easily assembled and unassembled inserts plus the new Monster Cleaner (sold separately) as your top insert.</p>
+<p><strong>Features:</strong></p>
+<ul id="details">
+<li>You can install a hose if you wish to drain it directly to a sink (5/16” ID hose).</li>
+<li>Top of the bottle drainer will fit the Monster Cleaner with no adapter required.</li>
+<li>PET carboys and FerMonsters ™ can be placed on top to drain.</li>
+<li>BPA free.</li>
+<li>Made with food grade materials.</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3949473202278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3924428750950</id>
+    <published>2019-08-07T13:14:21-03:00</published>
+    <updated>2019-08-07T13:14:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-spray-ball-micro"/>
+    <title>Ss Brewtech Spray Ball Micro</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78477_SSCIPMICROSPRAYBALL.jpg?v=1562328121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p>Ss Brewtech's clean in place (CIP) micro spray ball makes cleaning your brewing equipment (almost) effortless. </p>
+<div><strong>Features:</strong></div>
+</div>
+<ul>
+<li>304 Stainless steel construction</li>
+<li>Only 2.5" long and 3/4" wide</li>
+<li>1/2" MPT fitting</li>
+<li>2 bar / 29 psi recommended </li>
+<li>Works great with Chugger 1/2" MPT pumps</li>
+<li>Recommended to use with the <span>1/2" Hose Barb</span>
+</li>
+<li><span><a href="https://ssbrewtech.zendesk.com/hc/en-us/article_attachments/115016965366/CIP_MICROsprayBALL.pdf" target="_blank" rel="noopener noreferrer">Simple CIP Build Guide</a></span></li>
+<li>Does not include TC clamp or gasket</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3924428750950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>78477</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3924427079782</id>
+    <published>2019-08-07T13:14:02-03:00</published>
+    <updated>2019-08-07T13:14:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-keg-washer"/>
+    <title>Ss Brewtech Keg Washer</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78473_SSHOMEKEGWASHER.jpg?v=1562327776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            289.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Ss Brewtech Keg WaSsher offers the homebrewer a convenient way to clean any classic Cornelius-style kegs (corny or other similar variants).  </p>
+<p>To operate, simply remove the keg’s lid, <span>tilt</span><span> and insert the spray ball attachment into the keg’s lid opening, and then rotate the keg to secure the lip against the Washer’s silicone baseplate seal. Secure the locknut and snug the entire assembly down.  Attach the two ball lock quick disconnect fittings to the gas-in and liquid-out posts ensuring there are no kinks in the silicone tube</span><span>. Lastly, turn your keg upside down and put the entire assembly into a standard 5-gallon bucket that contains 2 gallons of your preferred cleaning solution, then activate the pump. Now go grab a beer and relax while the Keg WaSsher does the rest.</span></p>
+<p><span>No need to disassemble or remove QD posts, dip tubes, or other fittings, all parts are cleaned in place. No more extra-long scrub brushes or elbow grease. Since we designed this washer to fit inside a 5-gallon bucket, you can easily clean kegs in batches by setting up a wash station with 3 </span><span>discrete</span><span> buckets to perform cleaning, fresh water rinse, and acid sanitizer cycles. All while leaving the washer attached to a single keg, just jump from one bucket to next until the keg is cleaned, sanitized and ready for use. Since the Keg WaSsher only requires 2 gallons of cleaning solution, the result is less chemical waste and less environmental impact than traditional cleaning methods.</span></p>
+<p><strong>Features:</strong></p>
+<meta charset="utf-8">
+<ul>
+<li>Hands free operation</li>
+<li>Chemical resistant submersible pump</li>
+<li>Attaches to common ball-lock Cornelius-style kegs w/ removable lids</li>
+<li>Powerful CIP spray ball</li>
+<li>Entire assembly fits in 5-gallon bucket</li>
+<li>Cleans inside of keg and ports simultaneously</li>
+<li>Easily attaches/detaches from kegs</li>
+<li>Perform clean, rinse, and sanitize steps all with the same unit</li>
+</ul>
+<p> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4rLVjnS7pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3924427079782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>78473</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3924221493350</id>
+    <published>2019-08-07T13:14:00-03:00</published>
+    <updated>2019-08-07T13:14:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-cip-spray-ball"/>
+    <title>Ss Brewtech CIP Spray Ball</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78448_SSCIPSPRAYBALL.jpg?v=1562327572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Ss Brewtech's clean in place (CIP) spray ball makes cleaning your brewing equipment (almost) effortless. Use it on anything with a 3" triclamp. From kettles and fermenters to brite tanks and unitanks, it will easily clean it all.</p>
+<div><strong>Features:</strong></div>
+<ul>
+<li>304 Stainless Steel</li>
+<li>3" TC cap with 1/2" MPT</li>
+<li>CIP spray ball attachment</li>
+<li>3" TC gasket not included</li>
+<li>Tri clover clamp not included</li>
+</ul>
+<a href="https://ssbrewtech.zendesk.com/hc/en-us/article_attachments/115017182706/CIP_3inch_1bbl.pdf" target="_blank" rel="noopener noreferrer">Simple CIP Build Guide for 1 bbl tanks</a> <br>
+<ul></ul>
+<meta charset="utf-8"><iframe width="560" height="315" src="https://www.youtube.com/embed/w_TbA-TsP_0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3924221493350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>78448</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479229050920</id>
+    <published>2018-03-15T17:37:50-03:00</published>
+    <updated>2018-03-15T17:37:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/5-star-pbw-powdered-brewery-wash"/>
+    <title>Powdered Brewery Wash (1 lbs)</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>Five Star</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/PBW_e9017e08-f6ac-46fe-a959-bc5cd9b3e028.jpg?v=1526993596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Five Star<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Powerful alkaline cleaner for brewing equipment. Stainless steel and environmentally friendly. Uses oxygen to penetrate carbon and protein soils. Contains sodium metasilicate and sodium carbonate. Non-hazardous &amp; non-corrosive.</p>
+<h1 style="text-align: left;">Nettoyant en poudre pour brasserie <br>(1 lb)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span>Nettoyant alcalin puissant pour le matériel de brassage. Acier inoxydable et respectueux de l'environnement. Utilise de l'oxygène pour pénétrer dans les sols carbonés et protéinés. Contient du métasilicate de sodium et du carbonate de sodium. Non dangereux et non corrosif.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229050920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>7047</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228493864</id>
+    <published>2018-03-15T17:37:47-03:00</published>
+    <updated>2018-03-15T17:37:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/beer-faucet-2-in-1-plug-brush"/>
+    <title>Tap (2-in-1) Plug/Brush</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/353825_large_2b834ec8-57f7-4543-ba2f-123b6346239d.jpg?v=1521476591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stay dust and bug free, or dip in sanitize solution to clean out your faucets.</p>
+<h1><span>Tap (2-en-1) Plug / Brosse</span></h1>
+<p><span>Restez sans poussière et sans insectes, ou plongez dans une solution désinfectante pour nettoyer vos robinets.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228493864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7282</s:sku>
+      <s:grams>4</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224299560</id>
+    <published>2018-03-15T17:37:29-03:00</published>
+    <updated>2018-03-15T17:37:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/star-san-4oz"/>
+    <title>Sanitizers</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/star_san_small_467056b8-1228-43ed-b02a-5b6e46eee15c.jpg?v=1603388503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            7.49 - 33.99
+            <a href="https://bestcasediy.ca/products/star-san-4oz">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Both Star San and Phosphoric Acid are acid-based no-rinse sanitizers that are effective, easy to use and work in just 1-2 minutes. The best sanitizers for beer and wine equipment.</p>
+<p>Star San includes a foaming agent, while Phosphoric Acid is non-foaming.</p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Assainissants</span></h1>
+<p><span lang="fr"><span>Star San et Phosphoric Acid sont des assainissants sans rinçage à base d’acide faciles à utiliser et efficaces en seulement 1 à 2 minutes. Les meilleurs désinfectants pour l'équipement de la bière et du vin. Star San contient un agent moussant, tandis que l'acide phosphorique ne mousse pas.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224299560</id>
+      <title>Star San 4oz</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>7044</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224299560</id>
+      <title>Star San 8oz</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>7045</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224299560</id>
+      <title>Star San 32oz</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>7046</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224299560</id>
+      <title>Star San 16oz</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479222923304</id>
+    <published>2018-03-15T17:37:23-03:00</published>
+    <updated>2018-03-15T17:37:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carboy-drainer"/>
+    <title>Carboy Drainer</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/carboy_drainer.jpg?v=1521211971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Great tool for letting your carboys drip dry after being cleaned.</p>
+<h1>Égouttoir pour Tourie</h1>
+<p>Excellent outil pour faire égoutter vos touries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479222923304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>7211</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218040872</id>
+    <published>2018-03-15T17:37:03-03:00</published>
+    <updated>2018-03-15T17:37:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/the-double-blast-bottle-washer"/>
+    <title>Bottle Washer - The Double Blast</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Fermtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/bottle_washer_double_blast_a2dd4065-ddb5-4d6d-a142-280f1ebb1b15.jpg?v=1521204771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fermtech<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Instantly connects and disconnects. Press down to rinse, lift to stop. Wide base guarantees stable operation in any sink. Eliminates all stress on faucets and water-hammer damage to pipes. Temperature resistant to 140°F. Includes custom nozzle for carboys.</p>
+<p>*Note "The Jet" adapter will work with this product also.</p>
+<h1><span>Nettoyeur de bouteille - Double</span></h1>
+<ul>
+<li>Élimine les coups de bélier sur les tuyaux</li>
+<li>Résiste à la température jusqu'à 140F</li>
+<li>Utiliser le système à déconnexion rapide pour connecter et déconnecter instantannément</li>
+<li>La large base assure une stabilité d'opération</li>
+<li>Facile à utiliser. Peser pour rinçer. Relever pour arrêter</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218040872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>7331</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479213944872</id>
+    <published>2018-03-15T17:36:44-03:00</published>
+    <updated>2018-03-15T17:36:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-washer-the-blast"/>
+    <title>Bottle Washer - Single Blast</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Fermtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/the_blast.jpg?v=1521204701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fermtech<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Make cleaning/rinsing a breeze with "the blast" bottle Washer by Fermtech. Simply connect to any utility sink/hose Spigot for an easy to use washing station. Pressing a bottle, tube, or carboy down on the device releases a high pressure blast that will wash away most particles as well as rinse. Lift the bottle to stop the spray.</span></p>
+<meta charset="utf-8">
+<p><span>*Note "The Jet" adapter will work with this product also.</span></p>
+<h1><span>Nettoyeur de bouteilles - Single</span></h1>
+<p><span>Nettoie en profondeur et enlève radicalement les résidus les plus tenaces dans les bouteilles de bière, de vin et les touries. Fixez simplement à votre robinet et profitez de sa puissance pour un nettoyage ultra propre.<br></span></p>
+<ul>
+<li>Propulse un jet d'eau compact qui nettoie toutes les sortes de bouteilles et de tourie</li>
+<li>Fait en acier inoxydable pour une longue durée de vie</li>
+<li>Raccord de tuyau de jardin pour une connextion facile à votre robinet</li>
+</ul>
+<p><span>*Adaptateur de robinet (vendu séparément) est requis pour une connexion à un robinet de cuisine</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479213944872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>7330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479213912104</id>
+    <published>2018-03-15T17:36:44-03:00</published>
+    <updated>2018-03-15T17:36:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-washer-faucet-adaptor"/>
+    <title>Bottle Washer - Faucet Adaptor</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Fermtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/faucet_adapter.jpg?v=1521204667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fermtech<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fits a variety of North American standard size faucets.</p>
+<h1><span>Adaptateur à robinet</span></h1>
+<p><span>Pour la majorité des robinets Nord-Américain.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479213912104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>7334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479213846568</id>
+    <published>2018-03-15T17:36:44-03:00</published>
+    <updated>2018-03-15T17:36:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/brush-l-shape-carboy"/>
+    <title>Brush - L Shape Carboy</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/brush_carboy_L.jpg?v=1521207928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brush bent into L shape for easy cleaning of carboys.</p>
+<h1>Brosse - Forme de L</h1>
+<p>Une brosse en forme de L pour nettoyer facilement votre tourie.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479213846568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>7315</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479213584424</id>
+    <published>2018-03-15T17:36:42-03:00</published>
+    <updated>2018-03-15T17:36:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-washer-2-in-1-tray"/>
+    <title>Bottle Washer - 2 In 1 Tray</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/bottle_washer_2_in_1_tray_b9a6bdfb-9f51-41c1-a39e-4201f896d7a0.jpg?v=1521204642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The 2 in 1 bottle washer easily allows you to wash (rinse) 12 wine/beer bottles at the same time.
+<ul id="details">
+<li>BPA Free</li>
+<li><span>Stack up to 4 trays for drying.</span></li>
+</ul>
+<h2 itemprop="name">JETS POUR NETTOYAGE DE BOUTEILLES</h2>
+<p><span>Conçu pour laver ou rincer 12 bouteilles de bière ou de vin simultanément. Convient à la plupart des éviers et à la plupart des bouteilles. Empilez jusqu'à 4 plateaux pour sécher. Les bouteilles doivent avoir la même hauteur dans chaque plateaux pour assurer une stabilité. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479213584424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7772</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

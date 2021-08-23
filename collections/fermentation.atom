@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/fermentation.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-07-22T12:59:05-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6608790683750</id>
+    <published>2021-07-22T12:59:05-03:00</published>
+    <updated>2021-07-22T12:59:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/grainfather-conical-replacement-cooling-pump"/>
+    <title>Grainfather Conical - Replacement Cooling Pump</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Grainfather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/70013_GrainfatherReplacementCoolingPump.jpg?v=1626969430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grainfather<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Replacement pump for the Grainfather Cooling Pump Kit.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6608790683750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>70013</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/1591562436710</id>
+    <published>2021-07-22T12:31:05-03:00</published>
+    <updated>2021-07-22T12:31:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/funnel-small-12-cm"/>
+    <title>Funnel - Small (12 cm)</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7119_Funnel-Small.jpg?v=1627047473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1"><span>Small food-grade plastic funnel for transferring liquids or topping up bottles/carboys.</span></div>
+<ul id="details" data-mce-fragment="1">
+<li data-mce-fragment="1">BPA Free.</li>
+<li data-mce-fragment="1">Smooth inner surface make them easy to clean and sanitize.</li>
+</ul>
+<h2 style="text-align: left;"><b>Entonnoir - Petit (12 cm)</b></h2>
+<p><span style="font-weight: 400;">Petit entonnoir en plastique de qualité alimentaire pour le transfert de liquides ou le remplissage de bouteilles/bonbonnes.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sans BPA.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Surface intérieure lisse les rend faciles à nettoyer et à désinfecter.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Wine Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/1591562436710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7119</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6612992884838</id>
+    <published>2021-07-22T12:30:50-03:00</published>
+    <updated>2021-07-22T12:30:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/funnel-large-25-cm"/>
+    <title>Funnel - Large (25 cm)</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7118_Funnel-Large.jpg?v=1627047364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1"><span>Large food-grade plastic funnel for transferring liquids or topping up bottles/carboys.</span></div>
+<ul id="details" data-mce-fragment="1">
+<li data-mce-fragment="1">BPA Free.</li>
+<li data-mce-fragment="1">Smooth inner surface make them easy to clean and sanitize.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Wine Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6612992884838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>7118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6588121907302</id>
+    <published>2021-06-07T12:23:49-03:00</published>
+    <updated>2021-06-07T12:23:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carboy-11-3l-pet"/>
+    <title>Carboy - 11.3L PET</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/11.5litrecarboy.jpg?v=1623072458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Vintage Shop Carboys do not use any plasticizer and are made with 100% Virgin material. Made with Food grade materials and BPA free.</li>
+<li>Ideal for secondary fermentations of both wine and beer.</li>
+<li>Also perfect for bulk aging wine.</li>
+<li>Completely taste and odour-free. It is also stain resistant.</li>
+<li>There are no ribs on the sides to collect yeast or sediment. Therefore it is very easy to clean, inside and out.</li>
+<li>Impermeable to oxygen.</li>
+<li>Safe to reuse over and over, if properly sanitized before and after each use.</li>
+<li>Takes our # 10 stopper.</li>
+<li>Can stand up to 15 psi of pressure.</li>
+<li>Made in Canada.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6588121907302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>7741</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582112714854</id>
+    <published>2021-06-03T10:16:19-03:00</published>
+    <updated>2021-06-03T10:16:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-55l-graduation-sticker"/>
+    <title>FermZilla - 55L Graduation Sticker</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75292_Fermzilla55LGraduationSticker.jpg?v=1622042113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Replacement volume marker sticker for FermZilla 55L.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582112714854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>75292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582073950310</id>
+    <published>2021-06-03T10:14:27-03:00</published>
+    <updated>2021-06-03T10:14:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-55l-replacement-tank"/>
+    <title>FermZilla - 55L Replacement Tank</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75291_Fermzilla-55LReplacementTank.jpg?v=1622034765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Replacement 55L FermZilla tank.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582073950310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>75291</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4331116003430</id>
+    <published>2021-06-03T10:12:50-03:00</published>
+    <updated>2021-06-03T10:12:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-graduation-sticker"/>
+    <title>FermZilla - 27L Graduation Sticker</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75302_FERMZILLAGRADSTICKER.jpg?v=1572443165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Replacement volume marker sticker for FermZilla 27 L.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4331116003430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>75302</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4331394596966</id>
+    <published>2021-06-03T10:06:30-03:00</published>
+    <updated>2021-06-03T10:06:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-27l-replacement-tank"/>
+    <title>FermZilla - 27L Replacement Tank</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75305_FERMZILLATANK.jpg?v=1572448371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Replacement 27 L FermZilla tank.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4331394596966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>75305</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6586164871270</id>
+    <published>2021-06-03T10:02:55-03:00</published>
+    <updated>2021-06-03T10:02:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-liquid-gas-post-connection-for-carb-cap-yellow"/>
+    <title>FermZilla - Liquid/Gas Post Connection For Carb Cap Yellow</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75371-GasLiquidPostYellow.jpg?v=1622725054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This plastic carbonation cap has been designed to suit soda bottes, coke bottles, and FermZilla lids. </p>
+<span data-sheets-value='{"1":2,"2":"This collection container fits all the FermZilla conical fermenters.\n\nThe clear body is made from Tritan from Eastman Plastics.  This heat tolerant plastic is BPA, and plasticiser free.\n\nThe Lid is made from impact resistant HDPE.\n\nBoth lid and body can handle boiling wort.\n\nThis yeast collection container can fit the FermZilla fermenters and is primarily used for collection and addition of hops and yeast via the butterfly valve.\n\nThis collectoin container can also be used for yeast starters meaning that you can create the yeast starter in this collection container directly then attach to the valve of the FermZilla so you can pitch yeast without needing to open the lid.  This collection container has been designed to work with the magnetic stirrer machine.\n\nThe ports on the side of this collection container are the same as a standard coke bottle or soft drink bottle.  The threads are designed to suit the stainless carbonation caps KL00826 or plastic carbonation caps KL10788.  These carbonation caps will enable you to purge oxygen for dry hopping, attach carbonation stone and carbonate liquid in the FermZilla, oxygenate wort and are useful for many other reasons."}' data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><br><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6586164871270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>75371</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565237260390</id>
+    <published>2021-05-10T16:44:30-03:00</published>
+    <updated>2021-05-10T16:44:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-90-degree-blow-off-1-2"/>
+    <title>Ss Brewtech 90 Degree Blow off 1/2&quot;</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78493SsBrewtech90DegreeBlowoff.jpg?v=1618935161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">Custom tooled for FTSs/Bucket lids!</li>
+<li data-mce-fragment="1">Fits into blow off / airlock hole</li>
+<li data-mce-fragment="1">1/2" hose barb</li>
+<li data-mce-fragment="1">304 Stainless construction</li>
+<li data-mce-fragment="1">Includes 1 spare o-ring</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565237260390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>78493</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565234278502</id>
+    <published>2021-05-10T16:42:16-03:00</published>
+    <updated>2021-05-10T16:42:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-thermowell"/>
+    <title>Ss Brewtech Thermowell</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78492SsBrewtechThermowell.jpg?v=1618934956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1">304 Stainless steel</li>
+<li data-mce-fragment="1">Designed to install into 17mm holes<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">6.5 mm inner diameter</li>
+<li data-mce-fragment="1">100 mm length (into the vessel)</li>
+<li data-mce-fragment="1">Standard in Chronical fermenters and Brewmaster Edition Brew Buckets.</li>
+<li data-mce-fragment="1">Compatible, but does not include LCD Thermometer</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565234278502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>78492</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565231231078</id>
+    <published>2021-05-10T16:39:41-03:00</published>
+    <updated>2021-05-10T16:39:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-7-gallon-lid-gasket"/>
+    <title>Ss Brewtech 7 Gallon Lid Gasket</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78491SsBrewtech7gallidgasket.jpg?v=1618934434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="description bottom" itemprop="description" data-mce-fragment="1">Replacement gasket for Ss fermenters (Brew Buckets and Chronicals)<br>
+</div>
+<div class="description bottom" itemprop="description" data-mce-fragment="1"><br></div>
+<div class="description bottom" itemprop="description" data-mce-fragment="1"><br></div>
+<h2 style="text-align: center;" data-mce-fragment="1"><b data-mce-fragment="1">Joint de couvercle Ss Brewtech 7 gallons</b></h2>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-style="font-weight: 400;" data-mce-fragment="1">Joint de rechange pour fermenteurs Ss (Brew Buckets et Chronicals)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565231231078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>78491</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565220581478</id>
+    <published>2021-05-10T16:36:32-03:00</published>
+    <updated>2021-05-10T16:36:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-3-8-racking-arm"/>
+    <title>Ss Brewtech 3/8 Racking Arm</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Racking_Arm_1_2000x_f4d9adaf-0f63-4b42-bb89-4251af653a9d.jpg?v=1620675382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">3/8" Mini Ball Valve</li>
+<li data-mce-fragment="1">304 Stainless Steel</li>
+<li data-mce-fragment="1">Includes Racking Arm</li>
+<li data-mce-fragment="1">All O-rings included</li>
+<li data-mce-fragment="1">Add valve to upgrade standard Chronical to BME</li>
+<li data-mce-fragment="1">Replacement sample valve for BME Chronicals</li>
+<li data-mce-fragment="1">Replacement valve for all Brew Buckets</li>
+</ul>
+<h2 data-mce-fragment="1"><b data-mce-fragment="1">Bras de soutirage SS Brewtech 3/8</b></h2>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Mini vanne à bille 3/8 "</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">304 en acier inoxydable</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Comprend un bras de rayonnage</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Tous les joints toriques sont inclus</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Ajouter une valve pour mettre à niveau le standard Chronical vers BME</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Valve d'échantillonnage de rechange pour BME Chronicals</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Valve de remplacement pour tous les seaux d'infusion</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565220581478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>78490</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565202165862</id>
+    <published>2021-05-10T16:32:20-03:00</published>
+    <updated>2021-05-10T16:32:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-bme-pressure-transfer-kit"/>
+    <title>Ss Brewtech BME Pressure Transfer Kit</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78489SsBrewtechBMEPressureTransferKit.jpg?v=1618932006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description bottom" data-mce-fragment="1" itemprop="description">
+<div class="description bottom" data-mce-fragment="1" itemprop="description">
+<div class="description bottom" itemprop="description" data-mce-fragment="1">
+<p data-mce-fragment="1">This kit is designed for owners of Chronical BME Fermenters and includes everything you need to introduce CO2 pressure into your fermenter <span data-mce-fragment="1">without removing the lid cap and risking O2 contamination. The Chronical BME's 3" Lid cap includes a PRV that prevents pressure from building to unsafe levels.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Due to the popularity of both open and closed transfers with Chronical BME users, this kit does not include the output side to the keg, so please add a TC 1/2" barb, 3/8" barb or 1/4" MFL fitting and the appropriate tubing for the type of transfer you plan on doing. </span></p>
+<p data-mce-fragment="1"><span><strong>Setup:</strong></span></p>
+<p data-mce-fragment="1">Begin by locating the 1/2" tubing and attach one side to the 3" TC lid cap's blow off barb that was included with the Chronical BME.  Then attach the other side of the 1/2" tubing to the 1.5" TC to 1/2" Barb fitting, using hose clamps to secure both connections. Then attach the 1.5" TC to 1/2" Barb fitting to the included 1.5" TC to 1/4" MFL fitting with a TC clamp and gasket. Lastly, the 1/4" MFL connection can interface with common gas line flare fittings used on CO2 regulators.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This kit only includes accessories to introduce pressure into your fermenter.  It does not include accessories for beer output.</span></p>
+<p data-mce-fragment="1"><strong><span>Kit Includes:</span></strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">(1) 1.5" TC to 1/2" Barb</li>
+<li data-mce-fragment="1">(1) 1.5" TC to 1/4" MFL</li>
+<li data-mce-fragment="1">(1) TC Clamp</li>
+<li data-mce-fragment="1">(1) TC Gasket</li>
+<li data-mce-fragment="1">(1) 5 ft Length of 1/2" Silicone Tubing</li>
+<li data-mce-fragment="1">(2) Hose Clamps</li>
+</ul>
+<h2><b>Kit de transfert de pression Ss Brewtech BME</b></h2>
+<p><span>Ce kit est conçu pour les propriétaires de fermenteurs Chronical BME et comprend tout ce dont vous avez besoin pour introduire une pression de CO2 dans votre fermenteur sans retirer le capuchon du couvercle et risquer une contamination par l'O2. Le capuchon du couvercle de 3" du Chronical BME comprend un PRV qui empêche la pression de monter à des niveaux dangereux.</span></p>
+<p><span>En raison de la popularité des transferts ouverts et fermés auprès des utilisateurs de Chronical BME, ce kit n'inclut pas le côté sortie du fût, veuillez donc ajouter un raccord TC 1/2 ", 3/8" ou 1/4 "MFL et la tubulure appropriée pour le type de transfert que vous prévoyez d'effectuer.</span></p>
+<p><strong><span>Installer:</span></strong></p>
+<p><span>Commencez par localiser le tube de 1/2 "et attachez un côté à la barbe de soufflage du capuchon de couvercle 3" TC qui était inclus avec le BME Chronical. Ensuite, fixez l'autre côté du tube 1/2 "au raccord cannelé de 1,5" TC à 1/2 ", à l'aide de colliers de serrage pour fixer les deux connexions. Ensuite, fixez le raccord cannelé de 1,5" TC à 1/2 "au raccord 1,5" inclus. Raccord MFL "TC à 1/4" avec collier et joint TC. Enfin, le raccord 1/4 "MFL peut s'interfacer avec les raccords évasés de ligne de gaz courants utilisés sur les régulateurs de CO2.</span></p>
+<p><span>Ce kit comprend uniquement des accessoires pour introduire la pression dans votre fermenteur. Il n'inclut pas les accessoires pour la production de bière.</span></p>
+<p><strong><span>Le kit comprend:</span></strong></p>
+<ul>
+<li><span>(1) 1,5 "TC à 1/2" Barb</span></li>
+<li><span>(1) 1,5 "TC à 1/4" MFL</span></li>
+<li><span>(1) pince TC</span></li>
+<li><span>(1) joint TC</span></li>
+<li><span>(1) 5 pi de longueur de tube en silicone de 1/2 "</span></li>
+<li><span>(2) Colliers de serrage</span></li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565202165862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>78489</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565199642726</id>
+    <published>2021-05-10T16:26:48-03:00</published>
+    <updated>2021-05-10T16:26:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-pressure-transfer-kit"/>
+    <title>Ss Brewtech Pressure Transfer Kit</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78488SsPressureTransferKit.jpg?v=1618931587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description bottom" data-mce-fragment="1" itemprop="description">
+<p data-mce-fragment="1">This kit is designed for owners of Standard Chronical Fermenters and includes everything you need to perform a pressurized transfer.  Simply attach the pressurized transfer fitting to your Chronical's lid with the included TC clamp and gasket.  Then attach the pressurized transfer fitting to your CO2 regulator. Lastly, install the 1/2" barb to the Chronical's racking valve, and run the included 1/2" tubing to a clean and sanitized keg. The pressurized transfer fitting includes a PRV that prevents pressure from building to unsafe levels within your Chronical.</p>
+<p data-mce-fragment="1"><span>Kit Includes:</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">(1) Pressurized Transfer Fitting</li>
+<li data-mce-fragment="1">(1) TC Clamp</li>
+<li data-mce-fragment="1">(1) TC Gasket</li>
+<li data-mce-fragment="1">(1) 1/2" Barb to 1/2" NPT</li>
+<li data-mce-fragment="1">(1) 5 ft Length of 1/2" Silicone Tubing</li>
+<li data-mce-fragment="1">(2) Hose Clamps</li>
+</ul>
+<h2><b><i>Kit de transfert de pression Ss Brewtech</i></b></h2>
+<p><span>Ce kit est conçu pour les propriétaires de fermenteurs chroniques standard et comprend tout ce dont vous avez besoin pour effectuer un transfert sous pression. Fixez simplement le raccord de transfert pressurisé au couvercle de votre Chronical avec le collier et le joint TC inclus. Fixez ensuite le raccord de transfert sous pression à votre régulateur de CO2. Enfin, installez le barbillon de 1/2 "sur la valve d'embrochage du Chronical et faites passer le tube de 1/2" inclus dans un fût propre et désinfecté. Le raccord de transfert sous pression comprend un PRV qui empêche la pression de monter à des niveaux dangereux dans votre Chronical.</span></p>
+<p><span>Le kit comprend:</span></p>
+<ul>
+<li><span>(1) Raccord de transfert pressurisé</span></li>
+<li><span>(1) pince TC</span></li>
+<li><span>(1) joint TC</span></li>
+<li><span>(1) 1/2 "Barb à 1/2" NPT</span></li>
+<li><span>(1) 5 pi de longueur de tube en silicone de 1/2 "</span></li>
+<li><span>(2) Colliers de serrage</span></li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565199642726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>78488</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6547100303462</id>
+    <published>2021-03-19T11:29:02-03:00</published>
+    <updated>2021-03-19T11:29:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/grainfather-conical-self-sealing-coupler-seal"/>
+    <title>Grainfather Conical - Self Sealing Coupler (Seal Only)</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Grainfather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grainfather<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement plastic o-ring for the Grainfather Conical's self sealing coupler.<br></p>
+<p> </p>
+<h1><span>Grainfather Conical - <br></span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6547100303462</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>7196</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6538777657446</id>
+    <published>2021-03-02T11:46:43-04:00</published>
+    <updated>2021-03-02T11:46:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-8-inch-gasket"/>
+    <title>Ss Brewtech 8 Inch TC Gasket</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/8inchGasketcopy.jpg?v=1614626055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="font-size: 10pt; font-family: Arial; font-style: normal;" data-sheets-value='{"1":2,"2":"Replacement O rings for Chronical and Unitank racking arm. \n\n4 pcs - 10mm x 1.2mm"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'></span>8" TC gasket for cooling coil lid on 20 gal, 1BBL Brite Tanks, and 1BBL Unitanks.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Grain Brewing</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6538777657446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>78487</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4972408537190</id>
+    <published>2020-11-25T12:42:23-04:00</published>
+    <updated>2020-11-25T12:42:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/copy-of-grainfather-conical-conical-coat"/>
+    <title>Grainfather Conical - Pro Controller</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Grainfather</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/conical_fermenter_pro_controller_-_close_up_3_1.jpg?v=1605808803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grainfather<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Upgrade your Grainfather Conical Fermenter controller and get built-in wireless control!  </p>
+<p data-mce-fragment="1">Already using the Grainfather Conical Fermenter? Get the new Grainfather Conical Fermenter Pro Controller, install it your current unit and benefit from wireless control.</p>
+<h1><span>Grainfather Conical - Controleur Pro<br></span></h1>
+<p><span>Mettez à niveau votre contrôleur de fermenteur conique Grainfather et obtenez un contrôle sans fil intégré! Vous utilisez déjà le fermenteur conique Grainfather? Procurez-vous le nouveau contrôleur Grainfather Conical Fermenter Pro, installez-le dans votre appareil actuel et bénéficiez d'un contrôle sans fil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4972408537190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>70012</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4972445335654</id>
+    <published>2020-11-25T12:34:49-04:00</published>
+    <updated>2020-11-25T12:34:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-brew-bucket-heating-chilling-upgrade-kit-7-gal"/>
+    <title>Ss Brewtech Brew Bucket Heating &amp; Chilling Upgrade Kit 7 gal</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/FTSs2-brew-bucket-7-gal_2000x-NoBG.jpg?v=1606146132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Only compatible with 7 Gallon Brew Buckets.</strong></p>
+<p><span style="font-weight: 400;">The FTSs² uses a precision temperature controller that constantly monitors the temperature of your fermentation to within 1° of its set point. When the temperature of your beer rises by over 1° the system kicks in and circulates your chill source liquid through the chiller coil until temperature is stabilized. The FTSs² system also incorporates a heating pad so if temperature of your beer drops the controller will activate the system to gently warm the beer back up to the controller’s set point.</span></p>
+<p><span style="font-weight: 400;">Your chill source can be as simple as a cooler with ice or as sophisticated as</span><span style="font-weight: 400;"> a glycol chiller.<br></span></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li><span>Fits standard and Brewmaster Edition 7 gal Brew Bucket</span></li>
+<li>Immersion chiller coil</li>
+<li>Dual input digital temp control</li>
+<li>Cone heating pad</li>
+<li>Neoprene insulation jacket</li>
+<li>Weldless thermowell</li>
+<li>Pro grade submersible pump</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4972445335654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>78486</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4954074841190</id>
+    <published>2020-10-26T11:07:58-03:00</published>
+    <updated>2020-10-26T11:07:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-30l-all-rounder-7-9-gal"/>
+    <title>FermZilla - 30L All Rounder (7.9 gal)</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/allrounder1.png?v=1603302589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>The most affordable pressurized fermenter on the market! While the All Rounder does not have a dump valve as the Fermzilla Conical does, it is pressure rated to the same 36.2 psi. That makes it the most affordable pressurized fermenter you can find!<br></p>
+<p>Made of super smooth, crystal clear PET means it is light weight and impossible to smash like glass. Plus the extra wide 4.75 inch opening means it's easy to clean.</p>
+<p><strong>What's Included:</strong></p>
+<ul>
+<li>FermZilla 30L All Rounder Fermenter</li>
+<li>Stainless Steel Stand</li>
+<li>Stainless Steel Handle</li>
+<li>Top Lid with PRV (35 psi)</li>
+<li>3-Piece Airlock</li>
+<li>Adhesive Thermometer</li>
+</ul>
+<p><span style="color: #ef3e36;"><strong>IMPORTANT NOTE</strong>:</span> This tank should not be used for hot liquid.  Do not put liquids inside this tank over 50C.  It will melt the tank.</p>
+<p><em>Occasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. These fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and are a warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.</em></p>
+<h1 class="Polaris-Header-Title--newDesignLanguageTitle_1wh8d">FermZilla - 30L All Rounder (7.9 gal)</h1>
+<div>Le fermenteur pressurisé le plus abordable du marché! Bien que le All Rounder n'ait pas de soupape de décharge comme le fait le Fermzilla Conical, il a une pression nominale de 36,2 psi. Cela en fait le fermenteur pressurisé le plus abordable que vous puissiez trouver! Tout ce dont vous avez besoin est d'ajouter le kit Fermzilla Pressure pour faire fermenter sous pression. </div>
+<div><br></div>
+<div>Fabriqué en PET ultra lisse et cristallin, il est léger et impossible à casser comme du verre. De plus, l'ouverture extra large de 4,75 pouces signifie qu'il est facile à nettoyer. </div>
+<div><br></div>
+<div>
+<b>Ce qui est inclu:</b> </div>
+<div>
+<ul>
+<li>Fermenteur polyvalent FermZilla 30L </li>
+<li>Support en acier inoxydable </li>
+<li>Poignée en acier inoxydable </li>
+<li>Couvercle supérieur avec PRV (35 psi) </li>
+<li>Sas 3 pièces </li>
+<li>Thermomètre adhésif </li>
+</ul>
+<span style="color: #ff0000;" color="#ff0000"><b>REMARQUE IMPORTANTE:</b></span> Ce réservoir ne doit pas être utilisé pour du liquide chaud. Ne mettez pas de liquides à l'intérieur de ce réservoir à plus de 50 ° C. Cela fera fondre le réservoir. </div>
+<div><br></div>
+<div><i>Parfois, ces unités peuvent être accompagnées de petites indentations / fossettes / bosses dues à l'expédition, ce n'est qu'une réalité de l'expédition de grands navires à parois minces moulés par soufflage. Ces fermenteurs sont conçus pour supporter des déformations mineures comme celle-ci. Il s'agissait d'une mise en œuvre nécessaire dans la conception afin qu'ils puissent résister à une aspiration accidentelle due à des chocs à froid et à une manipulation brutale en transit sans compromettre leur intégrité et leur capacité à supporter des pressions élevées. Toutes les petites bosses vont pousser et s'installer avec l'utilisation et la pression positive et ne sont qu'un problème et sont un remplacement de garantie dans les rares cas où elles commencent à montrer des motifs de stress blancs ou ont endommagé le plastique.  </i></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4954074841190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>7542</s:sku>
+      <s:grams>200000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4949558689894</id>
+    <published>2020-10-14T11:46:27-03:00</published>
+    <updated>2020-10-14T11:46:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/hydrometer-1"/>
+    <title>Hydrometer</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7111_HYDROMETER.jpg?v=1602685456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hydrometers are used to quickly measure the specify gravity or density of your beer or wine. The information correlates with the amount of sugar and thus allows you to determine how far along your fermentation is, and your alcohol content.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4949558689894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>7111</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4926768709734</id>
+    <published>2020-09-17T10:50:03-03:00</published>
+    <updated>2020-09-17T10:50:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carboy-fermonster-strainer"/>
+    <title>Carboy - Fermonster Strainer</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/mini_mesh.jpg?v=1600269781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            6.99 - 7.99
+            <a href="https://bestcasediy.ca/products/carboy-fermonster-strainer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Keep hops, chips, oak powder, grape skin, hops, fruit, or any other ingredient you can think of inside the Strainer without clogging your equipment.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">The Fermonster Strainer comes in 2 sizes:</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The Mini Mesh: </strong>Fits any carboy that takes a #10 Bung, including the Fermonster.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The MonsterMesh: </strong>Designed to grab onto the lip of the FerMonster, underneath the lid.</p>
+<p data-mce-fragment="1">You can use both the MonsterMesh and MiniMesh on the FerMonster at the same time.  This way you can have two infusions starting and/or ending at different times.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">BPA free and made out of food grade materials. The mesh is a #50 with a mazimum recomended temperature of 122F (80C).</p>
+<br>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4926768709734</id>
+      <title>Mini Mesh</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>77681</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4926768709734</id>
+      <title>MonsterMesh</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>77682</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4926743871590</id>
+    <published>2020-09-17T10:42:40-03:00</published>
+    <updated>2020-09-17T10:42:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carboy-fermonsters-ported-with-tap"/>
+    <title>Carboy - Fermonsters Ported with Tap</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/PortedFermonster.png?v=1600266491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            43.99 - 44.99
+            <a href="https://bestcasediy.ca/products/carboy-fermonsters-ported-with-tap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><b data-mce-fragment="1">Now the Fermonster has the option of coming with an easy to install tap! </b>The tap allows for easy racking and sampling!<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Easy to Clean! Wide Mouth (4” opening): </b>Allows you to reach your hand inside to clean the dirty shoulders and edges.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Smooth</b>, rib-less sides: Reduces residual yeast that can fall back in when racking.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Indented bottom: </b>Allows you to get more liquid and less sediment when racking.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">Easy to measure: </b>Brilliantly clear with markers of where to top up to.</p>
+<p data-mce-fragment="1"><b data-mce-fragment="1">100% Food-grade and BPA FREE!</b></p>
+<br>
+<p> </p>
+<h2 itemprop="name">TOURIE EN PLASTIQUE FERMONSTER AVEC ROBINET<br>
+</h2>
+<p><span>Cette tourie à grande ouverture est l'outil idéal pour la fermentation. Elle est étanche et robuste. Si elle est traitée avec soin, elle procurera des années de performance. Contrairement à une tourie ordinaire, elle a une grande ouverture permettant ainsi de rejoindre chaque recoin pour un nettoyage plus facile. Le couvercle se visse afin d'assurer qu'il puisse rester en place tout au long de la fermentation.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4926743871590</id>
+      <title>23 L</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>77621</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4926743871590</id>
+      <title>27 L</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>77641</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4871540998246</id>
+    <published>2020-07-06T11:30:43-03:00</published>
+    <updated>2020-07-06T11:30:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-55l-jacket"/>
+    <title>FermZilla - 55L Jacket</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/55LJacket.jpg?v=1593433389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Use this insulating jacket to regulate the fermentation temperature in your <strong>55L</strong> FermZilla.</p>
+<p>The jacket alone will help keep your fermenter warm in the colder months, or you can add a heat belt if the fermentation heat isn't enough to maintain temp. Conversely, you can freeze bottles of water and put them inside the jacket to keep the temperature from getting too hot.</p>
+<p>The jacket has the added benefit of protecting your fermenting beer from harmful UV light.</p>
+<p>Features a single sided zipper and draw string bottom.</p>
+<span data-sheets-value='{"1":2,"2":"This collection container fits all the FermZilla conical fermenters.\n\nThe clear body is made from Tritan from Eastman Plastics.  This heat tolerant plastic is BPA, and plasticiser free.\n\nThe Lid is made from impact resistant HDPE.\n\nBoth lid and body can handle boiling wort.\n\nThis yeast collection container can fit the FermZilla fermenters and is primarily used for collection and addition of hops and yeast via the butterfly valve.\n\nThis collectoin container can also be used for yeast starters meaning that you can create the yeast starter in this collection container directly then attach to the valve of the FermZilla so you can pitch yeast without needing to open the lid.  This collection container has been designed to work with the magnetic stirrer machine.\n\nThe ports on the side of this collection container are the same as a standard coke bottle or soft drink bottle.  The threads are designed to suit the stainless carbonation caps KL00826 or plastic carbonation caps KL10788.  These carbonation caps will enable you to purge oxygen for dry hopping, attach carbonation stone and carbonate liquid in the FermZilla, oxygenate wort and are useful for many other reasons."}' data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><br><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4871540998246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>75294</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4869043421286</id>
+    <published>2020-07-06T11:29:49-03:00</published>
+    <updated>2020-07-06T11:29:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/fermzilla-55l-starter-kit"/>
+    <title>FermZilla - 55L Starter Kit</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/fermzilla-55l-starter-kit.jpg?v=1593191087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            209.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'>The new and improved FermZilla 55L brought to you by the critical key minds and engineers behind the original Gen1 Fer</span></span></span><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'>mentasaurus. But with all the tweaks that make it the most cost effective conical fermenter to date! </span></span><br></p>
+<span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'></span></span>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'><br>The FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit  FermZilla - 55L<br><br></span></span><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'>The new FermZilla is a revolution in homebrewing allowing homebrewers a level of control that meets everyone's budget. With the FermZilla you have many of the benefits of a stainless conical fermenter.<br><br>Add the optional pressure kit to your FermZilla 55L and turn your FermZilla into a true unitank. Uni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. This extremely inexpensive upgrade will truly show you what the FermZilla was designed for.</span></p>
+<p><strong><br>New and Improved:</strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost effective conical fermenter to date! \n\nThe FermZilla has primarily been designed as a pressure fermentation, carbonation and dispensing vessel. To convert this vessel into a pressurised uni tank you will need to purchase 1 x - Stainless Steel Pressure Kit or the 1 x Premium Plastic Pressure Kit \nFermZilla -  27L\n\nThe new and improved FermZilla 27L brought to you by the critical key minds and engineers behind the original Gen1. But with all the tweaks that make it the most cost-effective conical fermenter to date! \n\nWe have discontinued selling the Fermentasaurus as the new FermZilla is here.  The new FermZilla is a revolution in home brewing allowing home brewers and small micro-breweries a level of control that meets everyone's budget.  With the FermZilla you have the many of the benefits of a much more expensive stainless conical fermenter but with the additional benefit of being able to see the fermentation process in action and also ferment at pressures up to 2.4bar.\n\nThis is an incredible product at an extremely attractive price point and available in FermZilla 27L and FermZilla 55L sizes.\n\n\nAdd the optional pressure kit to your FermZilla 27L and turn your FermZilla into a true uni tank. \nUni tanks are conical fermenters used both for fermentation and for carbonating and serving finished beer. \nThis extremely inexpensive upgrade will truly show you what the FermZilla was designed for\nKB01297 - FermZilla - Stainless Steel Pressure Kit\nor the NEW KB02113 - KegLand Red Plastic FermZilla Pressure Kit\nboth compatible with the Conical and All-Rounder Models in all sizes.\n\nThese units were designed for use with CO2.\n\nNew and Improved:\n1. Larger Dump Valve\n2. Larger opening\n3. Pressure rating 2.4bar (35psi)\n4. Designed to fit in the new WiFi Fermenter Fridges (coming soon)\n\n\nIn The Box\n1 x FermZilla 27L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)\n1 x Reinforced  Stainless Steel Stand with Handles\n1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]\n1 x Top Lid Screw Cap\n1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]\n1 x KegLand Adjustable Easy Opening Tool\n1 x Premium 3 Piece Airlock\n1 x Approximate Graduations Sticker \n1 x Strip Stick On Thermometer\n3 x Black Bottle Caps (Attached) \n1 x Grommet Bottle Cap (Airlock Port)\n1 x Spare Seals\n\n\nCollection container lid is not pressure rated*\n\nPlease note:\nWhen using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.\n\nOccasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But dont panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.&quot;}" data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'>1. Larger Dump Valve<br>2. Larger opening<br>3. Pressure rating 2.4bar (35psi)<br><br><br><strong>In The Box:<br></strong><br>1 x FermZilla 55L Tank with Butterfly Dump Valve Parts (Pre-Assembled &amp; Attached)<br>1 x Reinforced Stainless Steel Stand with Handles<br>1 x Top Lid with Red PRV (35psi) [2 x Male Cap Threads] [Up to 4 drill ports for accessories]<br>1 x Top Lid Screw Cap<br>1 x 1000mL Collection Container &amp; Lid* [2 x Male Cap Threads]<br>1 x KegLand Adjustable Easy Opening Tool<br>1 x Premium 3 Piece Airlock<br>1 x Approximate Graduations Sticker <br>1 x Strip Stick On Thermometer<br>3 x Black Bottle Caps (Attached) <br>1 x Grommet Bottle Cap (Airlock Port)<br>1 x Spare Seals<br>1 x Stainless Steel Handle<br><br><br><strong>Please note:<br></strong><br>When using this vessel under pressure. You must perform a water pressure check to ensure your connections are leak proof. To do this. Fill your FermZilla up with water, then apply a minimum of 15psi pressure to the vessel. Check for leaks around all Cap / Threads.<br><br>Occasionally these units may come with some small indentations/dimples/dents from shipping, this is just a reality of shipping large blow-moulded thin-walled vessels. But don't panic, these fermenters are designed to endure minor deformations such as this. This was a necessary implementation into the design so that they can withstand some accidental suction from cold crashing and rough handling in transit without compromising their integrity and ability to endure high pressures. All small dents will push out and settle with use and positive pressure and are only an issue and warrant replacement in the rare event they start to show white stress patterns or have damaged the plastic.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4869043421286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">209.99</s:price>
+      <s:sku>7529</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/still-spirits-equipment.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-08-12T12:45:31-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6620948693094</id>
+    <published>2021-08-12T12:45:31-03:00</published>
+    <updated>2021-08-12T12:45:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/finishing-carbon-500g"/>
+    <title>Finishing Carbon - 500g</title>
+    <s:type>Equipment</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/75701_Finishingcarbon.jpg?v=1628772983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Activated carbon can be used with any carbon purification system. Removes undesirable odours &amp; flavours from fermented bases.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6620948693094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>75701</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228919848</id>
+    <published>2018-03-15T17:37:49-03:00</published>
+    <updated>2018-03-15T17:37:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/alcoholmeter-proof-and-tralle-hydrometer"/>
+    <title>Alcoholmeter (Proof and Tralle Hydrometer)</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/alcoholmeter.jpg?v=1521202524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for testing alcohol proof.</p>
+<p>Different than a hydrometer which tests the sugar content, or specific gravity, of a liquid.</p>
+<h1>Alcoolmètre</h1>
+<p>Pour tester le degré d'alcool.</p>
+<p>Différent du hydromètre qui mesure le taux de sucre et la gravité du liquide</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228919848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>7584</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479227707432</id>
+    <published>2018-03-15T17:37:44-03:00</published>
+    <updated>2018-03-15T17:37:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/copper-tuns-t-500"/>
+    <title>Turbo 500 - Replacement Copper Saddles</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/51040_large_a3ee61d2-4054-4be6-a2c3-00a92015d7bd.jpg?v=1521476594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement copper saddles for T-500 condenser.</p>
+<h1><span>Turbo 500 - Selles en cuivre de remplacement</span></h1>
+<p><span>Selles en cuivre de remplacement pour le condenseur T-500.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479227707432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>7581</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479227445288</id>
+    <published>2018-03-15T17:37:43-03:00</published>
+    <updated>2018-03-15T17:37:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-replacement-spindle"/>
+    <title>EZ Filter - Replacement Spindle</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ez_filter_spindle_a34f2ed0-0419-446c-bbbd-cc188d2c9774.jpg?v=1521215896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spindle for use with EZ filter.</p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Ez Filter - Boulon de rechange</span></h1>
+<meta charset="utf-8">
+<p class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Broche à utiliser avec le filtre EZ.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479227445288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7576</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224758312</id>
+    <published>2018-03-15T17:37:31-03:00</published>
+    <updated>2018-03-15T17:37:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/replacement-carbon-filter-washers-10-pk"/>
+    <title>Filter Collector - Replacement Carbon Filter Washers</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/filter_collector_washers.jpg?v=1521225456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For use with the filter collector set. Replace washers when the foam no longer keeps its spongy texture.</p>
+<p>10 per pack.</p>
+<h1><span>Collecteur de filtre - Rondelles de filtre au charbon de rechange</span></h1>
+<p><span>À utiliser avec le jeu de collecteurs de filtres. Remplacez les rondelles lorsque la mousse ne conserve plus sa texture d'éponge. </span></p>
+<p><span>10 par paquet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224758312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>7558</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224266792</id>
+    <published>2018-03-15T17:37:29-03:00</published>
+    <updated>2018-03-15T17:37:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/t-500-replacement-temperature-probe"/>
+    <title>Turbo 500 - Replacement Temperature Probe</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/t500-temperaturesensorwithstainlesssteelprobe_large_4ef30874-88a1-40b0-b21a-dfd7c93aee6a.jpg?v=1521476608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement probe for use with T-500 (includes battery)</p>
+<h1><span>Turbo 500 - Sonde de température de remplacement</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224266792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7591</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223316520</id>
+    <published>2018-03-15T17:37:25-03:00</published>
+    <updated>2018-03-15T17:37:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/air-still-spirits-water-purification-system"/>
+    <title>Air Still - Water Purification System</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/air_still_a445c3b5-c21e-43a1-851b-dc8a48be063a.jpg?v=1521202469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Still Spirits Water Purifier is a revolutionary product which will be right at home amongst your everyday kitchen appliances. It is air cooled so it uses no water for cooling. Super easy to use. It has a 4 Litre total holding capacity. This unit heats slower and cools faster than other units commonly available throughout Canada by major retailers.</p>
+<h1>Air Still Purificateur d'Eau</h1>
+<p>Le purificateur d'eau Air Still est une machine revolutionaire qui trouvera facilement sa place dans votre collection d'appareil de cuisine. Le Air Still se refroidit sans eau, simplement avec de l'air. Il a une capacité de 4L. Cette machine chauffe lentement et refroidit rapidement comparé aux autres appareils communs disponible au Canada. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223316520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>7550</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223283752</id>
+    <published>2018-03-15T17:37:25-03:00</published>
+    <updated>2018-03-15T17:37:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/alchemist-series-alembic-pot-still"/>
+    <title>Alembic Dome - Complete Assembly</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/alembic_dome_complete_bf396b92-d9a5-48d0-9afc-d19c259b9202.jpg?v=1521202684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            469.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Alembic Dome - made up of the T500 Boiler with a Pot Alembic Dome Top and Pot Dome Alembic Condenser.</p>
+<p>Instead of stripping flavours, these components work by retaining and enhancing flavours.</p>
+<p><strong>The Pot Dome Alembic Condenser</strong> is best used with the T500 Boiler and the Pot Alembic Dome Top. This condenser is what differentiates this unit from the T500. It is what retains the flavour rather than stripping it out by refluxing. This comes with a thermometer, tubing and tap adaptor set.</p>
+<p><strong>The Alembic Dome Top</strong> is copper and fits on to your T500 Boiler. This can be used in place of the T500 Boiler's stainless steel lid. The large copper surafce area of this dome top acts as a catalyst with the vapour and helps enhance and concentrate the flavours and aromas as well as remove unwanted compounds.</p>
+<p>*Note this unit includeds only the Alembic condenser and Alembic dome top. T-500 boiler sold separately.</p>
+<h1>Ensemble du Dome Alembique</h1>
+<p>Ce Dome Alembique consiste d'un dome et d'un condensateur pour le T-500.<br><br>Ces composants ont comme fonction de maintenir et d'améliorer les saveurs plûtot que les dilluer. </p>
+<p><strong>Le condensateur</strong> inclut un thermomètre, des tubes et un adapteur pour le robinet.</p>
+<p><strong>Le Dome </strong>est composé de cuivre et s'attache au T-500. Il peut être échangé avec le couvercle en acier du T-500. La surface du dome en cuivre agit en tant que catalyseur avec les vapeurs, aide à concentrer les goût et les arômes ainsi que retirer les composants non-voulus. </p>
+<p><em><strong>*NOTE le T-500 n'est pas inclus avec l'ensemble du dome.</strong></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223283752</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">469.99</s:price>
+      <s:sku>7597</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223250984</id>
+    <published>2018-03-15T17:37:25-03:00</published>
+    <updated>2018-03-15T17:37:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/alembic-dome-replacement-thermometer"/>
+    <title>Alembic Dome - Replacement Thermometer</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/alembic_thermometer_9b90be26-0987-49eb-8878-af4ff31e54d8.jpg?v=1521202716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed for use with alembic dome condenser only.</p>
+<h1>Thermomètre pour le Dome Alembique</h1>
+<p>Conçu seulement pour le Dome Alembique.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223250984</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7599</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479222956072</id>
+    <published>2018-03-15T17:37:23-03:00</published>
+    <updated>2018-03-15T17:37:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carbon-filter-collector-set-only"/>
+    <title>Filter Collector System</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/filter_collector_set.jpg?v=1521216096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smaller version of the Still Spirits EZ filter system. Used to filter 1 L at a time.</p>
+<h1><span>Système de collecteur de filtre</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr">Version plus petite du Ez filter. Utilisé pour filtrer 1 L à la fois.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479222956072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7559</s:sku>
+      <s:grams>738</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479222792232</id>
+    <published>2018-03-15T17:37:23-03:00</published>
+    <updated>2018-03-15T17:37:23-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ceramic-boil-enhancers"/>
+    <title>Ceramic Boil Enhancers</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ceramic_boil_enhancers.jpg?v=1521212101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Still Spirits Ceramic Boil Enhancers (12g) Aids the start of the boil process, and ensures a smooth rolling boil.</p>
+<h1><strong>Activateur d'ébullition en céramique </strong></h1>
+<p><span style="font-weight: 400;">L’activateur d’ébullition en céramique Still Spirits (12g) aide le début du processus d'ébullition et assure un roulement en douceur.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479222792232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>7549</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221350440</id>
+    <published>2018-03-15T17:37:16-03:00</published>
+    <updated>2018-03-15T17:37:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-replacement-cartridge"/>
+    <title>EZ Filter - Replacement Cartridge</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7572_EZFilter-ReplacementCartridge.jpg?v=1622130117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The cartridge eliminates the need to handle powdered or granulated carbon. The cartridge's porous design allows the spirit or water to pass through and the unwanted flavours or chemicals to be absorbed by the activated carbon. It is fast, clean and easy to use. </span><span>Each cartridge is suitable for one batch of alcohol from a 25L still or 300L of water. </span></p>
+<div class="gsrt tw-ta-container tw-nfl" id="tw-target-text-container">
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">EZ Filter - Cartouche de remplacement</span></h1>
+<p><span lang="fr"><span>La cartouche élimine le besoin de manipuler du carbone en poudre ou granulé. La conception poreuse de la cartouche permet à l'essence ou à l'eau de passer et aux arômes ou produits chimiques indésirables d'être absorbés par le charbon actif. C'est rapide, propre et facile à utiliser. Chaque cartouche convient à un lot d’alcool d’un alembic de 25 L ou de 300 L d’eau.</span></span></p>
+<p> </p>
+<pre class="tw-data-text tw-ta tw-text-medium" lang="fr"></pre>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221350440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>7572</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221317672</id>
+    <published>2018-03-15T17:37:16-03:00</published>
+    <updated>2018-03-15T17:37:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-replacement-nut-bottom-cap"/>
+    <title>EZ Filter - Replacement Nut (Bottom Cap)</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ez_filter_nut.jpg?v=1521215793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cap for EZ filter spindle.</p>
+<h1>Ez Filter - Écrou de rechange </h1>
+<p>Écrou pour boulons du EZ filter</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221317672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7575</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221284904</id>
+    <published>2018-03-15T17:37:16-03:00</published>
+    <updated>2018-03-15T17:37:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-replacement-washers-10-pkg"/>
+    <title>EZ Filter - Replacement Washers (10 pkg.)</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ez_filter_washers_b76e244f-d256-4a75-bdf3-e67455b86fcf.jpg?v=1521215919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For use with the EZ Filter. Replace washers when the foam no longer keeps its spongy texture. Pack of 10.</p>
+<h1><span>EZ Filter - Rondelles de rechange (10 pièces)</span></h1>
+<p><span>À utiliser avec le Ez Filter. Remplacez les rondelles lorsque la mousse ne conserve plus sa texture d'éponges. Paquet de 10.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221284904</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>7574</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221252136</id>
+    <published>2018-03-15T17:37:16-03:00</published>
+    <updated>2018-03-15T17:37:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-system"/>
+    <title>EZ Filter System</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ez_filter.jpg?v=1521216050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A cartridge carbon filter. Fast, clean and easy to use. Specifically designed for the maximum purification of alcohol or water.The EZ Filter is the latest development in alcohol filtration. It uses a specially formulated solid activated carbon cartridge to remove unwanted flavours from alcohol. The EZfilter system is an essential component to creating completely neutral spirit, colourless, flavourless, and odorless!.</p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr">EZ Filter System</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Un filtre à charbon. Rapide, propre et facile à utiliser. Spécialement conçu pour la purification maximale d'alcool ou d'eau. Le filtre EZ est le dernier développement en matière de filtration d'alcool. Il utilise une cartouche de charbon actif solide spécialement formulée pour éliminer les arômes indésirables de l'alcool. Le système EZ filter est un composant essentiel pour la création d'un esprit totalement neutre, incolore, sans goût et sans odeur!.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221252136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>7570</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221186600</id>
+    <published>2018-03-15T17:37:16-03:00</published>
+    <updated>2018-03-15T17:37:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-in-line-filter"/>
+    <title>EZ Filter - Inline</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7571_EZFilter-Inline.jpg?v=1622131572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.2;">Have a spare fermentation bucket? Convert it into a carbon filter unit!</span></p>
+<p><span style="line-height: 1.2;">Fast, clean, easy to use. Simply attach in place of your Z Filter cartridge to convert your filtering process to the EZ Filter system. Specifically designed for the maximum purification of alcohol or water. The unique EZ Filter Cartridge is constructed from a specially formulated blend of carbons designed to deliver maximum performance. This blend of carbons has been selected with pore sizes ideal for removing impurities in distilled spirit or unwanted chemicals from water and is fast, clean and easy to use. Each cartridge is suitable for one batch of alcohol, or 300L of water.</span></p>
+<h1><span style="line-height: 1.2;"><span>Filtre EZ - Inline</span></span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Vous avez un seau de fermentation? Convertissez-le en une unité de filtre à charbon! </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Rapide, propre, facile à utiliser. Connectez simplement la cartouche de votre Z filter pour convertir votre processus de filtrage en système EZ Filter. Spécialement conçu pour la purification maximale d'alcool ou d'eau. La cartouche Ez filter unique est construite à partir d'un mélange de carbones spécialement conçu pour offrir des performances maximales. Ce mélange de carbones a été sélectionné avec des tailles de pores idéales pour éliminer les impuretés de l'eau distillée ou les produits chimiques indésirables de l'eau. Il est rapide, propre et facile à utiliser. Chaque cartouche convient à un lot d’alcool ou à 300 L d’eau.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221186600</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7571</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218303016</id>
+    <published>2018-03-15T17:37:04-03:00</published>
+    <updated>2018-03-15T17:37:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/replacement-carbon-cartridges-10-pk"/>
+    <title>Filter Collector - Replacement Carbon Cartridges</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/filter_collector_carbon_replacement.jpg?v=1521225438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small carbon filters designed to be used with the filter collector set. One filter is sufficient to filter 1 liter.</p>
+<p>10 per pack.</p>
+<h1><span>Filtre collecteur - Cartouches de carbone de remplacement</span></h1>
+<p><span>Petits filtres à charbon conçus pour être utilisés avec le collecteurs de filtres. Un filtre suffit pour filtrer 1 litre. </span></p>
+<p><span>10 par paquet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218303016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>7556</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218237480</id>
+    <published>2018-03-15T17:37:04-03:00</published>
+    <updated>2018-03-15T17:37:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/stainless-saddles-t-500"/>
+    <title>Turbo 500 - Replacement Stainless Saddles 500g</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7582_Turbo500-ReplacementStainlessSaddles.jpg?v=1622132287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement saddles for t-500 condenser. Use these in place of the ceramic - Stainless steel is more durable and will last longer.</p>
+<h1><span>Turbo 500 - Selles de rechange en acier inoxydable 500g</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Selles de remplacement pour le condenseur t-500. Utilisez-les à la place de la céramique - L'acier inoxydable est plus durable et durera plus longtemps.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218237480</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>7582</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218204712</id>
+    <published>2018-03-15T17:37:04-03:00</published>
+    <updated>2018-03-15T17:37:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/still-spirits-air-still-infuser-basket"/>
+    <title>Air Still - Infuser Basket</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/air_still_infuser_basket_ac0cfdcf-b336-4c3d-b7e1-72c4cdffa879.jpg?v=1521202448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The latest product in the Air Still range, this stainless steel basket is suitable to infuse vodka and gin with botanicals, lemon or orange peel, cinnamon sticks, chili or anything else you'd like to whack in!</span></p>
+<p><span> It is easily attached by clipping it into the side of the Air Still lid.</span></p>
+<h1><span>Air Still - Panier d'infusion</span></h1>
+<p><span>Fait à partir d'acié inoxydable, ce panier aide à infuser la vodka et le gin avec des saveurs d'agrumes et botaniques. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218204712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>7547</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218106408</id>
+    <published>2018-03-15T17:37:03-03:00</published>
+    <updated>2018-03-15T17:37:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/t-500-reflux-copper-condenser-only"/>
+    <title>Turbo 500 - Reflux Copper Condenser</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/copper_condenser_2_2ef4c411-26dc-458b-840e-1e6a576fd68c.jpg?v=1521334043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            379.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now with redesigned outlet block, prepacked with saddles, in a new craft carton, redesigned column nut, 2 different tap adaptors. The natural properties of copper further reduces impurities.</p>
+<h1><span>Turbo 500 - Condenseur à reflux en cuivre</span></h1>
+<p> <span style="font-weight: 400;">Maintenant, avec bloc de sortie redessiné, préemballé avec des selles, dans un nouveau carton d’emballage, écrou de colonne redessiné, 2 adaptateurs de robinet différents. Les propriétés naturelles du cuivre réduisent davantage les impuretés.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218106408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">379.99</s:price>
+      <s:sku>7598</s:sku>
+      <s:grams>3200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479218073640</id>
+    <published>2018-03-15T17:37:03-03:00</published>
+    <updated>2018-03-15T17:37:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/t-500-reflux-stainless-condenser-only"/>
+    <title>Turbo 500 - Reflux Stainless Condenser</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/stainless_condenser_d6821ed8-f3f4-4977-b806-c6fe7bf143e0.jpg?v=1521334279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            334.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now with redesigned outlet block, prepacked with saddles, in a new craft carton, redesigned column nut, 2 different tap adaptors.</p>
+<div id="tw-source">
+<h1 id="u4EBdf" class="tw-lang-selector-wrapper">Turbo 500 - Condenseur en acier inoxydable à reflux</h1>
+<p><span style="font-weight: 400;">Maintenant, avec bloc de sortie redessiné, préemballé avec des selles, dans un nouveau carton d’emballage, écrou de colonne redessiné, 2 adaptateurs de robinet différents.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479218073640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">334.99</s:price>
+      <s:sku>7563</s:sku>
+      <s:grams>3200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215321128</id>
+    <published>2018-03-15T17:36:51-03:00</published>
+    <updated>2018-03-15T17:36:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/turbo-500-t-500-boiler-only"/>
+    <title>Turbo 500  - Boiler Only</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/t500base.jpg?v=1629399720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            314.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The T-500 boiler can be used with both the T-500 reflux condensers and the Alembic Dome. Buy this as a replacement boiler or a kettle for making beer.</p>
+<h1>Turbo 500 - Bouilloire seulement</h1>
+<p><span>La bouilloire T-500 peut être utilisée avec les condenseurs de reflux T-500 et le dôme Alembic. Achetez-le comme une bouilloire pour la fabrication de la bière.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215321128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">314.99</s:price>
+      <s:sku>7565</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479215288360</id>
+    <published>2018-03-15T17:36:51-03:00</published>
+    <updated>2018-03-15T17:36:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/t-500-water-distiller-oil-extractor"/>
+    <title>Turbo 500 - Water Distiller/Oil Extractor w/Reflux</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/t500_complete.jpg?v=1521306126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            649.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.5;">Designed and assembled in New Zealand,  the world's most advanced fractionating column for home use. It includes stainless Steel Construction, faucet adaptor for ease of </span><span style="line-height: 21px;">water flow</span><span style="line-height: 1.5;"> adjustment, 25 L boiler with 1600w integrated element, boil dry reset, thermal cut out fuse and waste discharge tap. </span></p>
+<p><span style="line-height: 1.5;">Comes complete with boiler, reflux column, instructional DVD, and setup guide.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Turbo 500 - Distillateur d'eau / extracteur d'huile avec reflux</span></h1>
+<p><span lang="fr"><span>Conçue et assemblée en Nouvelle-Zélande, la colonne de fractionnement la plus avancée au monde pour un usage domestique. Il comprend une construction en acier inoxydable, un adaptateur de robinet pour faciliter le réglage du débit d'eau, une chaudière de 25 L avec élément intégré de 1600 W, une réinitialisation d'ébullition, un fusible à coupure thermique et un robinet d'évacuation des déchets.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479215288360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.98</s:price>
+      <s:sku>7561</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214927912</id>
+    <published>2018-03-15T17:36:49-03:00</published>
+    <updated>2018-03-15T17:36:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/water-flow-regulator-for-t-500"/>
+    <title>Turbo 500 - Water Flow Regulator</title>
+    <s:type></s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/water_flow_regulator_2_473a8885-3a73-44d3-ad74-9f9049f5d57c.jpg?v=1521334525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            124.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 litre reservoir with built in pump keeps consistent pressure going to your T-500. A particularly good solution for people on wells.</p>
+<h1><span>Turbo 500 - Régulateur de débit d'eau</span></h1>
+<p><span>Un réservoir de 3 litres avec pompe intégrée maintient une pression constante sur votre T-500. Une solution particulièrement intéressante pour les utilisateurs de puits.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214927912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.99</s:price>
+      <s:sku>7594</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214600232</id>
+    <published>2018-03-15T17:36:47-03:00</published>
+    <updated>2018-03-15T17:36:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-filter-replacement-separator"/>
+    <title>EZ Filter - Replacement Separator</title>
+    <s:type>Equipment - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ez_filter_seperator_96051128-430d-4505-bfad-9609ecd7e960.jpg?v=1521215886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Equipment - Still Spirits<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Separator for use with EZ filter.</p>
+<h1><span>EZ Filter - Séparateur de remplacement</span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Still Spirits Equipment</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214600232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7577</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

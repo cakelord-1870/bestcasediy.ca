@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/malts.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-05-06T15:52:39-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6572921389158</id>
+    <published>2021-05-06T15:52:39-03:00</published>
+    <updated>2021-05-06T15:52:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/golden-promise-bairds"/>
+    <title>Golden Promise - Bairds</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/PILSNER_23_large_acc9a7e8-4ee9-4d68-862a-f4a3cb58184c.jpg?v=1620234313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Golden Promise is a culturally significant malt within our range that is deeply ingrained in Scottish roots. It is marked by its sweet richness and fullness in flavour, perfect for IPAs, Scotch and English ales. Traced back over 50 years, when we founded our maltings in the heart of the Highlands, Golden Promise was the single-variety grown by Scottish farmers.</span><br></p>
+<p> </p>
+<h1 style="text-align: left;"><b>Golden Promise - Bairds (par lb)</b></h1>
+<p><span style="font-weight: 400;">Golden Promise est un malt d'importance culturelle au sein de notre gamme qui est profondément enraciné dans les racines écossaises. Il est marqué par sa richesse sucrée et sa plénitude gustative, parfait pour les IPA, les bières écossaises et anglaises. Retracé il y a plus de 50 ans, lorsque nous avons fondé nos malteries au cœur des Highlands, Golden Promise était le cépage unique cultivé par les agriculteurs écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6572921389158</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>4165</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6572921389158</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>4165</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4955750563942</id>
+    <published>2020-10-26T11:50:25-03:00</published>
+    <updated>2020-10-26T11:50:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-extract-dried-amber-1-kg"/>
+    <title>Malt Extract, Dried - Amber 1 kg</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Amber-coloured DME, great for a wide range of beer styles.</p>
+<ul></ul>
+<h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"><span style="color: #000000;" data-mce-style="color: #000000;" data-mce-fragment="1">Extrait de malt séché - Ambre 1 kg</span></h2>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr"><br></span></h1>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4955750563942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>41212</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4955752923238</id>
+    <published>2020-10-26T11:49:28-03:00</published>
+    <updated>2020-10-26T11:49:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-extract-dried-amber-22-7-kg"/>
+    <title>Malt Extract, Dried - Amber 22.7 kg</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Amber-coloured DME, great for a wide range of beer styles.</p>
+<ul></ul>
+<h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span style="color: #000000;" data-mce-fragment="1" data-mce-style="color: #000000;">Extrait de malt séché - Ambre 22.7 kg</span></h2>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4955752923238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>41213</s:sku>
+      <s:grams>22700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4859841937510</id>
+    <published>2020-06-19T12:29:14-03:00</published>
+    <updated>2020-06-19T12:29:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/can-add-a-beer-mix"/>
+    <title>Can-Add-A Beer Mix</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/40021_Can-Add-A.jpg?v=1592495895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The perfect compliment to your favorite canned beer kit. Simply add this mixture of natural beer ingredients to your next beer kit in place of 1kg of corn sugar.<br></span></p>
+<p><span>Better taste, better head, better body, <strong>better beer!</strong></span></p>
+<h2 style="text-align: center;"><span style="color: #000000;">Can-Add-A Melange pour la Biere</span></h2>
+<p><span style="color: #000000;">Le complément parfait à votre kit de bière en conserve préféré. Ajoutez simplement ce mélange d'ingrédients naturels à votre prochain kit de bière à la place d'un kilo de sucre de maïs. </span></p>
+<div>Meilleur goût, meilleure tête, meilleur corps, meilleure bière!<br>
+</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4859841937510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>40021</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4379750039654</id>
+    <published>2019-11-22T11:07:57-04:00</published>
+    <updated>2019-11-22T11:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-extract-liquid-dark-1-5-kg-pouch"/>
+    <title>Malt Extract, Liquid - Dark (1.5 kg Pouch)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4884_DarkLMEPouch_9983a64d-b1fd-4246-88e0-93d6a8f4cf26.jpg?v=1574435298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>100% malt extract. 2 - 2.5 SRM. No artificial colours or flavours. Cold-filled and nitrogen flushed to lock in all the natural flavours and aromas. </span><br></p>
+<ul></ul>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Extrait de malt, liquide - Dark (1.5 kg)</span></h1>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4379750039654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>4884</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4379749351526</id>
+    <published>2019-11-22T11:07:24-04:00</published>
+    <updated>2019-11-22T11:07:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-extract-liquid-light-1-8-kg-pouch"/>
+    <title>Malt Extract, Liquid - Light (1.8 kg Pouch)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4882_LightLMEPouch_b33a6c7b-2c63-4913-aa0f-1966c3cb8cd4.jpg?v=1574435261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>100% malt extract. 2 - 2.5 SRM. No artificial colours or flavours. Cold-filled and nitrogen flushed to lock in all the natural flavours and aromas. </span><br></p>
+<ul></ul>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Extrait de malt, liquide - Light (1.8 kg)</span></h1>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4379749351526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>4882</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4379748597862</id>
+    <published>2019-11-22T11:02:20-04:00</published>
+    <updated>2019-11-22T11:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-extract-liquid-light-1-5-kg-pouch"/>
+    <title>Malt Extract, Liquid - Light (1.5 kg Pouch)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4880_LightLMEPouch_2ce56218-7003-48a5-8400-5910392e5577.jpg?v=1574435215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>100% malt extract. 2 - 2.5 SRM. No artificial colours or flavours. Cold-filled and nitrogen flushed to lock in all the natural flavours and aromas. </span><br></p>
+<ul></ul>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Extrait de malt, liquide - Light (1.5 kg)</span></h1>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4379748597862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>4880</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/755426000991</id>
+    <published>2018-06-23T12:49:35-03:00</published>
+    <updated>2018-06-23T12:49:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-special-b"/>
+    <title>Malt - Special B</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Belgian-Special-B-1_1024x1024_fc615fa5-67fb-4a24-8276-f6b1ef193b24.jpeg?v=1528725453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The darkest of the Belgian caramel malts. Imparts a heavy, dark caramel taste with more subtle notes of burnt sugar, raisin, and dark dried fruits.</p>
+<p><span>Sold by the kg. </span></p>
+<h1><span>Malt - Special B</span></h1>
+<p><span>Le plus sombre des malts belges au caramel. Confère un goût de caramel foncé et prononcé avec des notes plus subtiles de sucre brûlé, de raisin sec et de fruits secs.</span></p>
+<p><span>Vendu au kg.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/755426000991</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4139</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/755426000991</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4139</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233711144</id>
+    <published>2018-03-21T16:08:09-03:00</published>
+    <updated>2018-03-21T16:08:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-malted-oats-horton-ridge-local-organic"/>
+    <title>Malt - Malted Oats, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/oats.jpg?v=1521659292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>Brewers malted oats are a relatively rare commodity with unique characteristics. Warm grainy flavour, and smooth texture make this perfect for full bodied beers.</p>
+<p>Colour: 3.2 ° L</p>
+<p>Moisture Max: N/A</p>
+<p>Extract CG Dry Min: N/A</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Malt - Avoine maltée, produits biologiques locaux de Horton Ridge</span></h1>
+<p><span lang="fr"><span>Local. Certifié biologique. Sol Malté. </span></span></p>
+<p><span lang="fr"><span>L’avoine maltée des brasseurs est un produit relativement rare avec des caractéristiques uniques. La saveur chaleureuse et granuleuse, ainsi que la texture douce, en font le produit idéal pour les bières corsées </span></span></p>
+<p><span lang="fr"><span>Couleur: 3.2 ° L </span></span></p>
+<p><span lang="fr"><span>Humidité Max: N / A </span></span></p>
+<p><span lang="fr"><span>Extrait CG Dry Min: N / A </span></span></p>
+<p><span lang="fr"><span>V</span></span><span lang="fr"><span>endu au kg.</span></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233711144</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4160</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233711144</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4160</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233678376</id>
+    <published>2018-03-21T16:08:07-03:00</published>
+    <updated>2018-03-21T16:08:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-cara-horton-horton-ridge-local-organic"/>
+    <title>Malt - Cara Horton, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/hort.jpg?v=1521659288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>An experimental crystal malt from the heart of Nova Scotia. Bitter burnt sugar notes, slight toast, and sweetness.</p>
+<p>Colour: 22 ° L</p>
+<p>Moisture Max: N/A</p>
+<p>Extract CG Dry Min: N/A</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<div id="tw-source">
+<h1 id="u4EBdf" class="tw-lang-selector-wrapper">Malt - Cara Horton, produit biologique local de Horton Ridge</h1>
+<p><span>Local. Certifié biologique. Sol Malté. </span></p>
+<p><span>Un malt cristallin expérimental du cœur de la Nouvelle-Écosse. Notes de sucre brûlé amer, léger pain grillé et douceur. </span></p>
+<p><span>Couleur: 22 ° L </span></p>
+<p><span>Humidité Max: N / A </span></p>
+<p><span>Extrait CG Dry Min: N / A </span></p>
+<p><span>Vendu au kg.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233678376</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4162</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233678376</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4162</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233645608</id>
+    <published>2018-03-21T16:08:04-03:00</published>
+    <updated>2018-03-21T16:08:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-cara-ridge-horton-ridge-local-organic"/>
+    <title>Malt - Cara Ridge, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Picture1.jpg?v=1521659286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>An experimental crystal malt from the heart of Nova Scotia. Soft notes of caramel, and a golden hue gives your beer another layer of complexity.</p>
+<p>Colour: 14 ° L</p>
+<p>Moisture Max: N/A</p>
+<p>Extract CG Dry Min: N/A</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Cara Ridge, produits biologiques locaux de Horton Ridge</span></h1>
+<p><span>Local. Certifié biologique. Sol Malté. </span></p>
+<p><span>Un malt cristallin expérimental du cœur de la Nouvelle-Écosse. De douces notes de caramel et une teinte dorée donnent à votre bière une nouvelle couche de complexité. </span></p>
+<p><span>Couleur: 14 ° L </span></p>
+<p><span>Humidité Max: N / A </span></p>
+<p><span>Extrait CG Dry Min: N / A </span></p>
+<p><span>Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233645608</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4157</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233645608</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4157</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233580072</id>
+    <published>2018-03-21T16:07:59-03:00</published>
+    <updated>2018-03-21T16:07:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-pilsner-horton-ridge-local-organic"/>
+    <title>Malt - Pilsner, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/File_000.jpg?v=1521659282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>Produce a crisp golden lager using this fine malt. Notes of sweet honey, and a light grainy aroma are perfect for those thirst quenching brews.</p>
+<p>Colour: 2.1 ° L</p>
+<p>Moisture Max: N/A</p>
+<p>Extract CG Dry Min: N/A</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Pilsner, Horton Ridge biologique local</span></h1>
+<p><span>Local. Certifié biologique. Sol Malté. </span></p>
+<p><span>Produisez une bière blonde dorée avec ce malt fin. Des notes de miel sucré et un léger parfum de grain sont parfaits pour les breuvages désaltérants </span></p>
+<p><span>Couleur: 2.1 ° L </span></p>
+<p><span>Humidité Max: N / A </span></p>
+<p><span>Extrait CG Dry Min: N / A </span></p>
+<p><span>Vendu au kg</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233580072</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4158</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233580072</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4158</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233514536</id>
+    <published>2018-03-21T16:07:56-03:00</published>
+    <updated>2018-03-21T16:07:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-wheat-malt-horton-ridge-local-organic"/>
+    <title>Malt - Wheat Malt, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/wheat.jpg?v=1521659278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>Floor malted wheat boasts sweet earthy aromas, and intense malt flavours. Use up to 100% for wheat beer styles or in smaller amounts for flavour accents.</p>
+<p>Colour: 1.8 ° L</p>
+<p>Moisture Max: N/A</p>
+<p>Extract CG Dry Min: N/A</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Wheat Malt, produits biologiques locaux de Horton Ridge</span></h1>
+<p><span>Local. Certifié biologique. Sol Malté. </span></p>
+<p><span>Le blé malté de sol présente des arômes sucrés de terre et intenses. Utilisez jusqu'à 100% pour les styles de bière de blé ou en plus petites quantités pour accentuer les arômes. </span></p>
+<p><span>Couleur: 1.8 ° L </span></p>
+<p><span>Humidité Max: N / A </span></p>
+<p><span>Extrait CG Dry Min: N / A </span></p>
+<p><span>Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233514536</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4159</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233514536</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4159</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233416232</id>
+    <published>2018-03-21T16:07:54-03:00</published>
+    <updated>2018-03-21T16:07:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/malt-winter-pale-malt-horton-ridge-local-organic"/>
+    <title>Malt - Winter Pale Malt, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/WInter_pale.jpg?v=1521659274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Organic. Floor Malted. </p>
+<p>Cool winters slow the malting process leading to cleaner, slightly grainy, yet neutral flavour. Great for light ales, American lagers, and other summer sippers.</p>
+<p>Colour: 3.5°L</p>
+<p>Extract CG Dry Min: 80.51</p>
+<p>Moisture Max: 5.31%</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Malt pâle d'hiver, produit biologique local de Horton Ridge</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Local. Biologique. Sol Malté. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Les hivers froids ralentissent le processus de maltage, donnant une saveur plus nette, légèrement granuleuse, mais neutre. Idéal pour les bières légères et les bières blondes américaines. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Couleur: 3.5 ° L </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Extrait CG Dry Min: 80.51 </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Humidité max: 5,31% </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vendu au kg.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233416232</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4161</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233416232</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4161</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233252392</id>
+    <published>2018-03-21T16:07:49-03:00</published>
+    <updated>2018-03-21T16:07:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/horton-ridge-local-organic-malt-summer-pale"/>
+    <title>Malt - Summer Pale Malt, Horton Ridge Local Organic</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/0279_9471555d-86f2-4470-bb48-a0784b673cd3.gif?v=1521659270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Organic. Floor Malted. </p>
+<p>Summer heat means richer character when it comes to floor malting. This intense pale malt is reminiscent of British Maris Otter. Use for fuller body ales and dark winter beers. </p>
+<p>Colour: 3.5°L</p>
+<p>Extract CG Dry Min: 80.51</p>
+<p>Moisture Max: 5.31%</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Malt pâle d'été, produit biologique local de Horton Ridge</span></h1>
+<p><span>Local. Biologique. Sol Malté. </span></p>
+<p><span>Un caractère plus riche en matière de maltage au sol. Ce malt pâle intense rappelle le britannique Maris Otter. Utilisez-le pour des bières plus sèches et des bières noires d'hiver. </span></p>
+<p><span>Couleur: 3.5 ° L </span></p>
+<p><span>Extrait CG Dry Min: 80.51 </span></p>
+<p><span>Humidité max: 5,31% </span></p>
+<p><span>Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233252392</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4152</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233252392</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4152</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233219624</id>
+    <published>2018-03-21T16:07:46-03:00</published>
+    <updated>2018-03-21T16:07:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/horton-local-organic-malt-vienna"/>
+    <title>Malt - Vienna, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/0279_9571dce5-044e-46e4-bf4c-e9669577e7b8.gif?v=1521659269"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Organic. Floor Malted. </p>
+<p>A more intense base malt than standard 2 row, brings more in depth character to European lagers. Hints of biscuit, and slight nutty profile. </p>
+<p>Colour:3.6°L</p>
+<p>Extract CG Dry Min: 79.02</p>
+<p>Moisture Max: 5%</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Malt - Vienna, Horton Ridge Biologique Locale</span></h1>
+<p><span lang="fr"><span>Local. Biologique. Sol Malté. </span></span></p>
+<p><span lang="fr"><span>Un malt de base plus intense que le standard à 2 rangs apporte davantage de caractère en profondeur aux lagers européennes. Notes de biscuit et léger profil de noisette. </span></span></p>
+<p><span lang="fr"><span>Couleur: 3.6 ° L </span></span></p>
+<p><span lang="fr"><span>Extrait CG Dry Min: 79.02 </span></span></p>
+<p><span lang="fr"><span>Humidité max: 5% </span></span></p>
+<p><span lang="fr"><span>Vendu au kg.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233219624</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4153</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233219624</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4153</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489233186856</id>
+    <published>2018-03-21T16:07:44-03:00</published>
+    <updated>2018-03-21T16:07:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/horton-ridge-local-organic-malt-munich"/>
+    <title>Malt - Munich, Horton Ridge Local Organic</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/0278.jpg?v=1521659265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="//cdn.shopify.com/s/files/1/0810/4433/files/logo_large.png?v=1497459640" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Local. Certified Organic. Floor Malted.</p>
+<p>A highly kilned base malt which retains it's diastatic power allowing it to self-convert. Perfect for darker, stronger euro lagers, or hearty ales.</p>
+<p>Colour: 3.5 ° L</p>
+<p>Moisture Max: 5.31%</p>
+<p>Extract CG Dry Min: 80.51</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Munich, Horton Ridge Biologique Locale</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Local. Certifié biologique. Sol Malté. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Un malt de base hautement cuit qui conserve son pouvoir diastatique lui permettant de se convertir. Parfait pour les euro-blondes plus sombres et plus forts. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Couleur: 3.5 ° L </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Humidité max: 5,31% </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Extrait CG Dry Min: 80.51 </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233186856</id>
+      <title>Whole</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489233186856</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">4.45</s:price>
+      <s:sku>4154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228952616</id>
+    <published>2018-03-15T17:37:50-03:00</published>
+    <updated>2018-03-15T17:37:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/acidulated-malt-1-kg"/>
+    <title>Malt - Acidulated</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/16968_large_4a82c0d8-917b-42b5-9879-cae949891ceb.jpg?v=1529513598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This malt is acidulated with lactic acid and can be used to lower mash pH.</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Malt - acidulé</span></h1>
+<p><span lang="fr"><span>Ce malt est acidulé avec de l'acide lactique et peut être utilisé pour abaisser le pH du moût. </span></span></p>
+<p><span lang="fr"><span>Vendu au kg.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228952616</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228952616</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228854312</id>
+    <published>2018-03-15T17:37:49-03:00</published>
+    <updated>2018-03-15T17:37:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/amber-malt"/>
+    <title>Malt - Amber</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/amber-malt_large_2a77dd27-ff0c-441d-af26-29cc09491f3a.jpg?v=1521476590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="ProductDescription">Gives a dry, biscuity and nut like flavour to ales and provides red hue.</span></p>
+<meta charset="utf-8">
+<p><span class="ProductDescription"><span>Sold by the kg.</span><br></span></p>
+<h1 class="tw-data-text tw-ta tw-text-large" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Malt - Ambre</span></h1>
+<p><span lang="fr"><span>Donne aux bières un goût sec, de biscuit et de noix, et donne une teinte rouge. </span></span></p>
+<p><span lang="fr"><span>Vendu au kg.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228854312</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4116</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228854312</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4116</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228821544</id>
+    <published>2018-03-15T17:37:49-03:00</published>
+    <updated>2018-03-15T17:37:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/aromatic-malt"/>
+    <title>Malt - Aromatic</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/aromatic-malt-grain_1_large_79185ba5-8904-4193-b2f2-7885996a1e2c.jpg?v=1521476590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This malt is typically used as a small proportion of the grist in the production of beers requiring some substantial depth of color and flavour. Can be thought of as an intense Munich malt.<br></span></p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Aromatique</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Ce malt est généralement utilisé comme une petite proportion de l'eau dans la production de bières nécessitant une certaine profondeur de couleur et de goût. Peut être considéré comme un malt intense de Munich. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228821544</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4130</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228821544</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4130</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228330024</id>
+    <published>2018-03-15T17:37:47-03:00</published>
+    <updated>2018-03-15T17:37:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/black-malt"/>
+    <title>Malt - Black</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Black-Malt_large_2cdf8474-6649-47c1-b35d-c3aa4a3f352f.jpg?v=1521476592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="ProductDescription">Use in small amounts for color adjustment with minimal flavour contribution. Can be used in conjunction with other roasted malts to intensify the color and add a distinct sharp roasted flavour.</span></p>
+<meta charset="utf-8">
+<p><span class="ProductDescription"><span>Sold by the kg.</span></span></p>
+<div id="tw-source">
+<h1 id="u4EBdf" class="tw-lang-selector-wrapper">Malt - Noir</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Utilisez-les en petites quantités pour ajuster la couleur avec un apport de goût minimal Peut être utilisé conjointement avec d'autres malts torréfiés pour intensifier la couleur et ajouter une saveur distincte et torréfiée. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vendu au kg.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228330024</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4114</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228330024</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4114</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228231720</id>
+    <published>2018-03-15T17:37:46-03:00</published>
+    <updated>2018-03-15T17:37:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/brown-malt"/>
+    <title>Malt - Brown</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Brown-Malt_large_8dec96bb-99bb-4e86-9cd2-e456e346d80f.jpg?v=1521476592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="ProductDescription">Imparts a dark roasted flavour and bitterness to beer. Works great in older styles of English ales such as brown ales and mild stouts and porters.</span></p>
+<meta charset="utf-8">
+<p><span class="ProductDescription"><span>Sold by the kg.</span></span></p>
+<h1><span class="ProductDescription"><span>Malt - Marron</span></span></h1>
+<p><span class="ProductDescription"><span>Confère à la bière une saveur grillé foncé et une amertume. Fonctionne très bien dans les styles de bières anglaises plus anciens, tels que les bières brunes, les stouts légers et les porters. </span></span></p>
+<p><span class="ProductDescription"><span>Vendu au kg.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228231720</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4115</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228231720</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4115</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228198952</id>
+    <published>2018-03-15T17:37:46-03:00</published>
+    <updated>2018-03-15T17:37:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/canadian-6-row"/>
+    <title>Malt - Canadian Premium 6-Row</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6-row_grande_large_56599d76-fe86-4c04-995f-b15ce29e5048.jpg?v=1521476592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>High enzyme content easily converts high percentages of unmalted corn, rice, oats, etc.</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Malt - Canadian Premium à 6 rangs</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une teneur élevée en enzymes convertit facilement des pourcentages élevés en maïs, riz, avoine non maltés. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vendu au kg.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228198952</id>
+      <title>Whole</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>4108</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228198952</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>4108</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228166184</id>
+    <published>2018-03-15T17:37:46-03:00</published>
+    <updated>2018-03-15T17:37:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/canadian-premium-2-row"/>
+    <title>Malt - Canadian Premium 2-Row</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6-row_grande_large_bb0226c7-e0dd-474d-bffc-915fcc2c89af.jpg?v=1521476593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Traditional, premium grade 2 -Row malt made from the finest Canadian barley malt varieties. This malt is a suitable base for all beer styles. Provides fermentable sugars, light malt colour, flavour, and aroma.</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Canadian Premium à 2 rangées</span></h1>
+<p><span>Malt traditionnel à 2 rangs de première qualité, fabriqué à partir des meilleures variétés de malt d'orge canadien. Ce malt est une base appropriée pour tous les styles de bière. Fournit des sucres fermentables, une légère couleur de malt, une saveur et un arôme. </span></p>
+<p><span>Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228166184</id>
+      <title>Whole</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>4105</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228166184</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>4105</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228133416</id>
+    <published>2018-03-15T17:37:46-03:00</published>
+    <updated>2018-03-15T17:37:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/cara-munich-malt"/>
+    <title>Malt - Cara Munich</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/cara-munich_large_b5acfd15-da0a-41c2-8fb5-950c0bad93b7.jpg?v=1521476593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A medium crystal made with Munich malt, deep in color and mildly toasty sweet flavour and aroma.</p>
+<meta charset="utf-8">
+<p><span>Sold by the kg.</span></p>
+<h1><span>Malt - Cara Munich</span></h1>
+<p><span>Cristal de taille moyenne à base de malt de Munich, de couleur foncée et légèrement sucré. </span></p>
+<p><span>Vendu au kg.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malts</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228133416</id>
+      <title>Whole</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4136</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228133416</id>
+      <title>Crushed</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4136</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

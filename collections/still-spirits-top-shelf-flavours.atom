@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/still-spirits-top-shelf-flavours.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-08-09T14:44:04-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6619792998502</id>
+    <published>2021-08-09T14:44:04-03:00</published>
+    <updated>2021-08-09T14:44:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-wild-eagle-bourbon"/>
+    <title>Top Shelf - Wild Eagle Bourbon</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6205_STILLSPIRITWILDEAGLEBOURBON_ddafbe8e-3e0e-4054-9a82-b1b68aad37bc.jpg?v=1628531093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Makes a malty, oak style Bourbon flavouring, with smooth vanilla &amp; spice notes.</span></p>
+<p><span>Add to 2.25 L (76 US fl oz) of 40% ABV distilled spirit or vodka. Makes three 750 ml (25 US fl oz) bottles.</span></p>
+<h2><span>Top Shelf Wild Eagle Bourbon</span></h2>
+<p><span>Donne un arôme de bourbon avec des notes douces de vanille et d'épices.</span></p>
+<p><span>Ajoutez à 2,25 L d'alcool à 40% ABV. Donne trois bouteilles de 750 ml.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6619792998502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6205</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4866676523110</id>
+    <published>2021-02-09T14:38:47-04:00</published>
+    <updated>2021-02-09T14:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/copy-of-top-shelf-sea-beast-spiced-rum"/>
+    <title>Top Shelf - Dark Spiced Rum</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6207_TSDarkSpicedRum.jpg?v=1627391070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Subtly sweet rum flavouring with intense chocolate and vanilla, prominent cinnamon and clove notes with hints of coffee.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf - Dark Spiced Rum<br></span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Subtilement doux avec des notes intenses de chocolat et de vanille, des notes dominantes de cannelle et de clou de girofle avec des notes de café.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Top Shelf Flavours Spirits Flacon de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4866676523110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6207</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4815066366054</id>
+    <published>2020-05-06T12:16:44-03:00</published>
+    <updated>2020-05-06T12:16:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-spiced-whiskey-liqueur"/>
+    <title>Top Shelf - Honey Spiced Whiskey Liqueur</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6171_SSHoneyspicedWhiskey.jpg?v=1626954365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A honey whiskey style liqueur flavouring, with notes of herbs and spices.</p>
+<p><span><span style="font-weight: 400;">Shake well and add contents and 850 ml (29 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base B</b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></span></p>
+<p><span> Alternatively use 250ml of sugar and 100ml of glucose.</span></p>
+<h2><span><b>Liqueur de miel épicé Still Spirits: </b></span></h2>
+<div>Un arôme de liqueur au miel et au whisky, avec des notes d'herbes et d'épices.</div>
+<div>
+<br>
+<p data-mce-fragment="1"><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;">Bien agiter et ajouter le contenu et 850 ml (29 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b data-mce-fragment="1">Top Shelf - Base B</b><span style="font-weight: 400;" data-mce-fragment="1" data-mce-style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+Vous pouvez également utiliser 250 ml de sucre et 100 ml de glucose.  </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4815066366054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6171</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855294660710</id>
+    <published>2019-06-18T08:58:20-03:00</published>
+    <updated>2019-06-18T08:58:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-violet-gin"/>
+    <title>Top Shelf - Violet Gin</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/6206__TopShelfVioletGin.jpg?v=1560859195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<div>
+<meta charset="utf-8">
+<meta charset="utf-8">
+</div>
+</div>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<div><span data-sheets-value='{"1":2,"2":"Makes a sweet violet &amp; delicate lavender gin style flavouring, with juniper and balanced botanical notes followed by a hint of citrus.\n\nTop Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Makes a sweet violet &amp; delicate lavender gin style flavouring, with juniper and balanced botanical notes followed by a hint of citrus.<br><br>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></div>
+<div></div>
+<h1>Top Shelf - Gin Violet</h1>
+<meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Donne un goût doux lavande et violette délicate, avec des notes de genièvre et de botanique équilibrées suivies d'une pointe d'agrumes.\n\nInstructions de mélange\n\nBien agiter et ajouter du contenu à 2,25 L (76 oz US) d'essence distillée à 40% d'alcool ou de vodka. Donne trois bouteilles de 750 ml (25 US fl oz).\n\n&quot;}" data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Donne un goût doux lavande et violette délicate, avec des notes de genièvre et de botanique équilibrées suivies d'une pointe d'agrumes.<br><br>Instructions de mélange<br><br>Bien agiter et ajouter du contenu à 2,25 L (76 oz US) d'essence distillée à 40% d'alcool ou de vodka. Donne trois bouteilles de 750 ml (25 US fl oz).<br><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855294660710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6206</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224070184</id>
+    <published>2018-03-15T17:37:28-03:00</published>
+    <updated>2018-03-15T17:37:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-butterscotch-schnapps"/>
+    <title>Top Shelf - Butterscotch Schnapps</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_butterscotch_schnapps.jpg?v=1521306625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Butterscotch taste sensation.</p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf Base - Schnapps </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 180ml of sugar and 100ml of glucose.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Top Shelf - Schnapps au caramel</span></h1>
+<p><span lang="fr"><span>Sensation de goût de caramel au beurre. </span></span></p>
+<p><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf Base - Schnaps </b><span style="font-weight: 400;">(constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span lang="fr"><span>Vous pouvez également utiliser 180 ml de sucre et 100 ml de glucose.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Schnapps</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224070184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6106</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224037416</id>
+    <published>2018-03-15T17:37:28-03:00</published>
+    <updated>2018-03-15T17:37:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-chocolate-mint"/>
+    <title>Top Shelf - Chocolate Mint</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_chocolate_mint.jpg?v=1521306783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Chocolate based with a clean refreshing mint aftertaste.</span></p>
+<p><span><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base B</b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></span></p>
+<p><span> Alternatively use 250ml of sugar and 100ml of glucose.</span></p>
+<h1>
+<span>Top Shelf - M</span><span lang="fr">enthe au chocolat</span>
+</h1>
+<p><span lang="fr"><span>À base de chocolat avec un arrière-goût de menthe rafraîchissante et propre. </span></span></p>
+<p><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base B</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span lang="fr"><span>Vous pouvez également utiliser 250 ml de sucre et 100 ml de glucose.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224037416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6144</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217909800</id>
+    <published>2018-03-15T17:37:02-03:00</published>
+    <updated>2018-03-15T17:37:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-absinthe"/>
+    <title>Top Shelf - Absinthe</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_absinthe.jpg?v=1521306383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Popular with artisans of the 1900's. Add sugar and water and wait for the 'Green Fairy' to be unleashed. Made with real wormwood.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Top Shelf - Absinthe </span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Populaire auprès des artisans des années 1900. Ajoutez du sucre et de l'eau et attendez que la «fée verte» soit libérée. Fabriqu<meta charset="utf-8">
+<span data-mce-fragment="1">é avec de la vraie absinthe.</span></span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Top Shelf Flavours Spirits de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217909800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6172</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217877032</id>
+    <published>2018-03-15T17:37:02-03:00</published>
+    <updated>2018-03-15T17:37:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-advocaat"/>
+    <title>Top Shelf - Advocaat Cream Liqueur</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_advocaat_cream.jpg?v=1521306393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A creamy custard liqueur with a smooth vanilla flavour.</span></p>
+<p><span><span style="font-weight: 400;">Shake well before use. Mix </span><b>Top Shelf Base - Cream </b><span style="font-weight: 400;">in 220 ml (7 US fl oz) of hot water. Add this flavouring followed by 500 ml (17 US fl oz) of 40% ABV neutral alcohol or vodka. Top up to 1.125 L (38 US fl oz) with water.</span></span></p>
+<p><span> Alternatively use 200ml of sugar and 500ml of cream.</span></p>
+<h1><span>Top Shelf - Liqueur à la crème Advocaat</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une liqueur de crème pâtissière au doux goût de vanille. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span style="font-weight: 400;">Bien agiter avant usage. Mélanger la </span><b>Top Shelf Base - Crème</b><span style="font-weight: 400;"> dans 220 ml (7 oz liq. US) d'eau chaude. Ajoutez cet arôme suivi de 500 ml (17 US fl oz) d'alcool neutre à 40% ABV ou de vodka. Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vous pouvez également utiliser 200 ml de sucre et 500 ml de crème.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Cream Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217877032</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6120</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217844264</id>
+    <published>2018-03-15T17:37:02-03:00</published>
+    <updated>2018-03-15T17:37:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-amaretto"/>
+    <title>Top Shelf - Amaretto</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_amaretto.jpg?v=1521306406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sweet, rich almond flavour liqueur popular in the Northern region of Italy</span></p>
+<p><span style="font-weight: 400;">Shake well and add contents and 850 ml (29 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base C </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 300ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Amaretto</span></h1>
+<p><span>Liqueur sucrée et riche au goût d’amande, populaire dans le nord de l’Italie </span></p>
+<p><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 850 ml (29 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base C</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span>Vous pouvez également utiliser 300 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217844264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6132</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217811496</id>
+    <published>2018-03-15T17:37:02-03:00</published>
+    <updated>2018-03-15T17:37:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-apple-brandy"/>
+    <title>Top Shelf - Apple Brandy</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_apple_brandy.jpg?v=1521306459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Distinctive fruity apple flavours, followed by rich brandy notes. Similar to Calvados Brandy.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf -  Brandy aux pommes</span></h1>
+<p><span>Des saveurs distinctives de pomme, suivies de riches notes de cognac. Similaire au Calvados Brandy. </span></p>
+<p><span>Top Shelf Flavours Spirits de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217811496</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6173</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217778728</id>
+    <published>2018-03-15T17:37:02-03:00</published>
+    <updated>2018-03-15T17:37:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-apple-schnapps"/>
+    <title>Top Shelf - Apple Schnapps</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_apple_schnapps.jpg?v=1521306475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delightfully crisp, just like Granny Smith apples!</p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf Base - Schnapps </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span><br></p>
+<p><span> Alternatively use 180ml of sugar and 100ml of glucose.<br></span></p>
+<h1><span>Top Shelf - Schnaps aux pommes</span></h1>
+<p dir="ltr" id="tw-target-text" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span lang="fr">Délicieusement croquants, tout comme les pommes Granny Smith! </span></p>
+<p dir="ltr" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf Base - Schnaps </b><span style="font-weight: 400;">(constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p dir="ltr" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span lang="fr">Vous pouvez également utiliser 180 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Schnapps</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217778728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6100</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217745960</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-apricot-brandy"/>
+    <title>Top Shelf - Apricot Brandy</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_apricot_brandy.jpg?v=1521306501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Delicious apricot infusion!</span></p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base B</b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 250ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Brandy à l'abricot</span></h1>
+<p><span>Délicieuse infusion d'abricot! </span></p>
+<p><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base B</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span>Vous pouvez également utiliser 250 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217745960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6134</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217713192</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-aussie-gold-rum"/>
+    <title>Top Shelf - Aussie Gold Rum</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_aussie_gold_rum.jpg?v=1521306518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A delicious rum with flavours of rich burnt sugar and American Oak that is not as sweet as the Classic Premium Queensland Gold Rum.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf - Aussie Gold Rum</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Un rhum délicieux aux saveurs riches de sucre brûlé et de chêne américain qui n’est pas aussi sucré que le rhum Premium Queensland Gold. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Top Shelf Flavours Spirits de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217713192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6174</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217680424</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-aussie-red-rum"/>
+    <title>Top Shelf - Aussie Red Rum</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_aussie_red_rum.jpg?v=1521306526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This coloured rum is super smooth while retaining all the burnt sugar and American white oak characteristics of a great golden rum.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf - Aussie Red Rum</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Ce rhum coloré est super doux tout en conservant toutes les caractéristiques du sucre brûlé et du chêne blanc américain d'un grand rhum doré. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Top Shelf Flavours Spirits Flacon de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217680424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6175</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217647656</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-banana-schnapps"/>
+    <title>Top Shelf - Banana Schnapps</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_banana_schnapps.jpg?v=1521306541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavenly fresh bananas.</p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf Base - Schnapps </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 180ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Schnapps à la banane</span></h1>
+<p dir="ltr" id="tw-target-text" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span lang="fr">Bananes fraîches. </span></p>
+<p dir="ltr" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf Base - Schnaps </b><span style="font-weight: 400;">(constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p dir="ltr" data-placeholder="Translation" class="tw-data-text tw-ta tw-text-small"><span lang="fr">Vous pouvez également utiliser 180 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Schnapps</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217647656</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6102</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217516584</id>
+    <published>2018-03-15T17:37:01-03:00</published>
+    <updated>2018-03-15T17:37:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-blackberry-schnapps"/>
+    <title>Top Shelf - Blackberry Schnapps</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_blackberry_schnapps.jpg?v=1521306568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mouthwatering sweet blackberries.</p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf Base - Schnapps </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 180ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Schnaps aux mûres</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Mûres sucrées alléchantes. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf Base - Schnaps </b><span style="font-weight: 400;">(constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vous pouvez également utiliser 180 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Schnapps</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217516584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6104</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217483816</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-black-sambuca"/>
+    <title>Top Shelf - Black Sambuca</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_black_sambuca.jpg?v=1521306558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A vibrant purple liqueur combining distinctive aniseed and delicate liquorice flavours.</span></p>
+<p><span style="font-weight: 400;">Shake well and add contents and 790 ml (27 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base A</b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 150ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Black Sambuca</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une liqueur mauve vibrante combinant des arômes distinctifs d'anis et de réglisse. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 790 ml (27 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base A</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vous pouvez également utiliser 150 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217483816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6136</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217451048</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-blue-curacao"/>
+    <title>Top Shelf - Blue Curacao</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_blue_curacao.jpg?v=1521306580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Bright blue, strong citrus orange flavour.</span></p>
+<p><span style="font-weight: 400;" data-mce-style="font-weight: 400;">Shake well and add contents and 850 ml (29 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base A</b><span style="font-weight: 400;" data-mce-style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span><span><span style="font-weight: 400;" data-mce-style="font-weight: 400;">.</span></span></p>
+<p><span> Alternatively use 150ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Blue Curacao</span></h1>
+<p><span>Bleu vif, forte saveur d'agrumes et d'orange. </span></p>
+<p><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 850 ml (29 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base A</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span>Vous pouvez également utiliser 150 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217451048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6138</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217418280</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-bourbon"/>
+    <title>Top Shelf - Bourbon</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_bourbon.jpg?v=1521306597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A dry style Bourbon with full flavour, typical of the well aged sour mash whiskeys.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf - Bourbon</span></h1>
+<p><span>Un bourbon de style sec, typique des whiskies acidulés bien vieillis. </span></p>
+<p><span>Top Shelf Flavours Spirits Flacon de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217418280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6176</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217385512</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-butterscotch-cream"/>
+    <title>Top Shelf - Butterscotch Cream Liqueur</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_butterscotch_cream.jpg?v=1521306611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delicious butterscotch, very easy drinking!</p>
+<p><span style="font-weight: 400;">Shake well before use. Mix </span><b>Top Shelf Base - Cream </b><span style="font-weight: 400;">in 220 ml (7 US fl oz) of hot water. Add this flavouring followed by 500 ml (17 US fl oz) of 40% ABV neutral alcohol or vodka. Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 200ml of sugar and 500ml of cream.</span></p>
+<h1>
+<span>Top Shelf - </span><span lang="fr">Liqueur à la crème au caramel</span>
+</h1>
+<p><span lang="fr"><span>Délicieux caramel au beurre, très facile à boire! </span></span></p>
+<p><span style="font-weight: 400;">Bien agiter avant usage. Mélanger la </span><b>Top Shelf Base - Crème</b><span style="font-weight: 400;"> dans 220 ml (7 oz liq. US) d'eau chaude. Ajoutez cet arôme suivi de 500 ml (17 US fl oz) d'alcool neutre à 40% ABV ou de vodka. Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span lang="fr"><span>Vous pouvez également utiliser 200 ml de sucre et 500 ml de crème.</span></span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Cream Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217385512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6122</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217352744</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-cafelua"/>
+    <title>Top Shelf - Cafelua</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_cafelua.jpg?v=1521306636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rich bold flavours of Mexican coffee!</span></p>
+<p><span style="font-weight: 400;">Shake well and add contents and 710 ml (24 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base C </b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 300ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Cafelua</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">De riches saveurs audacieuses de café mexicain! </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et </span><span style="font-weight: 400;">710 ml (24</span><span style="font-weight: 400;"> US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base C</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vous pouvez également utiliser 300 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217352744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217319976</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-candy-shots"/>
+    <title>Top Shelf - Candy Shots</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_candy_shots.jpg?v=1521306645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A liqueur with a sweet candy flavour.</span></p>
+<p><span style="font-weight: 400;">Shake well and add contents and 650 ml (22 US fl oz) 40% ABV neutral spirit or vodka to </span><b>Top Shelf - Base A</b><span style="font-weight: 400;"> (made up as per base instructions). Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 150ml of sugar and 100ml of glucose.</span></p>
+<h1><span>Top Shelf - Candy Shots</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une liqueur au bonbon sucré. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span style="font-weight: 400;">Bien agiter et ajouter le contenu et 650 ml (22 US fl oz) d'alcool neutre ou de vodka à 40% ABV à la </span><b>Top Shelf - Base A</b><span style="font-weight: 400;"> (constituée selon les instructions de la base). Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Vous pouvez également utiliser 150 ml de sucre et 100 ml de glucose.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217319976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6141</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217287208</id>
+    <published>2018-03-15T17:37:00-03:00</published>
+    <updated>2018-03-15T17:37:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-cappuccino-cream"/>
+    <title>Top Shelf - Cappuccino Cream Liqueur</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_cappuccino_cream.jpg?v=1521306660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heavenly rich coffee liqueur with just a hint of chocolate.</p>
+<p><span style="font-weight: 400;">Shake well before use. Mix </span><b>Top Shelf Base - Cream </b><span style="font-weight: 400;">in 220 ml (7 US fl oz) of hot water. Add this flavouring followed by 500 ml (17 US fl oz) of 40% ABV neutral alcohol or vodka. Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 200ml of sugar and 500ml of cream.</span></p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" dir="ltr">Top Shelf - Liqueur à la crème Cappuccino</h1>
+<p><span>Liqueur de café riche céleste avec juste un soupçon de chocolat. </span></p>
+<p><span style="font-weight: 400;">Bien agiter avant usage. Mélanger la </span><b>Top Shelf Base - Crème</b><span style="font-weight: 400;"> dans 220 ml (7 oz liq. US) d'eau chaude. Ajoutez cet arôme suivi de 500 ml (17 US fl oz) d'alcool neutre à 40% ABV ou de vodka. Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span>Vous pouvez également utiliser 200 ml de sucre et 500 ml de crème.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Cream Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217287208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6123</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217254440</id>
+    <published>2018-03-15T17:36:59-03:00</published>
+    <updated>2018-03-15T17:36:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-caramel-vodka"/>
+    <title>Top Shelf - Caramel Vodka</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_caramel_vodka.jpg?v=1521306688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Caramel Vodka has a smooth caramel flavour. Delicious on ice, in a mixer or served over ice cream.</span></p>
+<p><span>Top Shelf Flavours Spirits 50 ml bottle (Makes 2.25L)</span></p>
+<h1><span>Top Shelf - Caramel Vodka</span></h1>
+<p><span>La vodka au caramel a une saveur de caramel doux. Délicieux sur glace.</span></p>
+<p><span>Top Shelf Flavours Spirits de 50 ml (Donne 2,25 L)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Spirits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217254440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>6177</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479217221672</id>
+    <published>2018-03-15T17:36:59-03:00</published>
+    <updated>2018-03-15T17:36:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/top-shelf-caranilla-cream"/>
+    <title>Top Shelf - Caranilla Cream Liqueur</title>
+    <s:type>Ingredients - Still Spirits</s:type>
+    <s:vendor>Still Spirits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/ts_caranilla_cream.jpg?v=1521306712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Still Spirits<br>
+        <strong>Type: </strong>Ingredients - Still Spirits<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A delicious blend of vanilla and sweet caramel... mouthwatering!</span></p>
+<p><span style="font-weight: 400;">Shake well before use. Mix </span><b>Top Shelf Base - Cream </b><span style="font-weight: 400;">in 220 ml (7 US fl oz) of hot water. Add this flavouring followed by 500 ml (17 US fl oz) of 40% ABV neutral alcohol or vodka. Top up to 1.125 L (38 US fl oz) with water.</span></p>
+<p><span> Alternatively use 200ml of sugar and 500ml of cream.</span></p>
+<h1>
+<span>Top Shelf - </span><span lang="fr">Liqueur à la crème Caranilla</span>
+</h1>
+<p><span lang="fr"><span>Un délicieux mélange de vanille et de caramel sucré ... qui met l'eau à la bouche! </span></span></p>
+<p><span style="font-weight: 400;">Bien agiter avant usage. Mélanger la </span><b>Top Shelf Base - Crème</b><span style="font-weight: 400;"> dans 220 ml (7 oz liq. US) d'eau chaude. Ajoutez cet arôme suivi de 500 ml (17 US fl oz) d'alcool neutre à 40% ABV ou de vodka. Remplir jusqu'à 1,125 L (38 US fl oz) avec de l'eau.</span></p>
+<p><span lang="fr"><span>Vous pouvez également utiliser 200 ml de sucre et 500 ml de crème.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Top Shelf Cream Liqueurs</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479217221672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>6127</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/all-additives.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2020-10-26T11:34:18-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/4954057572454</id>
+    <published>2020-10-26T11:34:18-03:00</published>
+    <updated>2020-10-26T11:34:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-lime-4-fl-oz"/>
+    <title>Flavouring - Natural Lime (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4443_LimeFlavouring_46dbb948-f334-4f63-acb0-a41bc3a1d56b.jpg?v=1624892366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Lime</span> Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4954057572454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4443</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4954065961062</id>
+    <published>2020-10-26T11:30:01-03:00</published>
+    <updated>2020-10-26T11:30:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/brewing-spices-lime-peel"/>
+    <title>Brewing Spices - Lime Peel</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Brewers Best</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/LimePeel.jpg?v=1603301508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brewers Best<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Lime is valued both for the acidity of its juice &amp; the floral aroma of its zest. Commonly found in Wheat &amp; Belgian style beers where if used properly, can give an intense citrus taste and aroma.<br></p>
+<h2 style="text-align: center;"><span style="color: #000000;">Pelure de Lime</span></h2>
+<p><span>Les pelures de lime sont appréciés à la fois pour l'acidité de leur jus et l'arôme floral de leur zeste. On les trouve couramment dans les bières belges où, si elles sont utilisées correctement, elles peuvent donner un goût et un arôme d'agrumes intenses.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4954065961062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4313</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4889089704038</id>
+    <published>2020-07-24T10:50:59-03:00</published>
+    <updated>2020-07-24T10:50:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-cherry-4-fl-oz"/>
+    <title>Flavouring - Natural Cherry (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4439_CherryFlavouring.jpg?v=1624886140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Cerise</span> Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4889089704038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4439</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4889101205606</id>
+    <published>2020-07-24T10:50:57-03:00</published>
+    <updated>2020-07-24T10:50:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-peach-4-fl-oz"/>
+    <title>Flavouring - Natural Peach (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/peach.png?v=1624887095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Peche</span> Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4889101205606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4441</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4889103892582</id>
+    <published>2020-07-24T10:50:56-03:00</published>
+    <updated>2020-07-24T10:50:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/copy-of-flavouring-natural-espresso-bean-4-fl-oz"/>
+    <title>Flavouring - Natural Espresso Bean (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4442_EspressoFlavouring.jpg?v=1624887255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Grain d'espresso</span> Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4889103892582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>4442</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4889094062182</id>
+    <published>2020-07-24T10:50:54-03:00</published>
+    <updated>2020-07-24T10:50:54-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-raspberry-4-fl-oz-1"/>
+    <title>Flavouring - Natural Lemon (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4440_LemonFlavouring_f98add15-9df1-45ef-88d4-96eae1ca65a9.jpg?v=1624892276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Citron</span> Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4889094062182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>4440</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4857858719846</id>
+    <published>2020-06-15T14:58:45-03:00</published>
+    <updated>2020-06-15T14:58:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavour-pineapple-4-fl-oz"/>
+    <title>Natural Flavour - Pineapple (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4438_PineappleFlavouring.jpg?v=1624892984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - </span> Ananas Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4857858719846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>4438</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4857853313126</id>
+    <published>2020-06-15T14:55:09-03:00</published>
+    <updated>2020-06-15T14:55:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavour-habenero-4-fl-oz"/>
+    <title>Natural Flavour - Habenero (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/habenero.jpg?v=1592243720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - </span> Habanero Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4857853313126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>4437</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4857849413734</id>
+    <published>2020-06-15T14:51:29-03:00</published>
+    <updated>2020-06-15T14:51:29-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavour-watermelon-4-fl-oz"/>
+    <title>Natural Flavour - Watermelon (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4436_WatermelonFlavouring.jpg?v=1624893811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - </span> Melon D'Eau Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4857849413734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4436</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4857840730214</id>
+    <published>2020-06-15T14:28:46-03:00</published>
+    <updated>2020-06-15T14:28:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavour-mango-4-fl-oz"/>
+    <title>Natural Flavour - Mango (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4435_MangoFlavouring.jpg?v=1624892749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - </span> Mangue Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4857840730214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4435</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4857833160806</id>
+    <published>2020-06-15T14:28:46-03:00</published>
+    <updated>2020-06-15T14:28:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavour-chocolate-4-fl-oz"/>
+    <title>Natural Flavour - Chocolate (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4434_ChocolateFlavouring.jpg?v=1624894061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - </span> Chocolat Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4857833160806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4434</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4561276272742</id>
+    <published>2020-01-27T15:00:22-04:00</published>
+    <updated>2020-01-27T15:00:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/belgian-candi-sugar-dark-454-g"/>
+    <title>Belgian Candi Sugar - Dark (454 g)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case DIY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Belgian-Candi-Sugar-Dark_16oz.png?v=1580151650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case DIY<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Most commonly used in higher ABV Belgian style beers, Belgian Candi Sugar bumps up a beers original gravity while reducing the body and adding a deep caramelized flavour.</span></p>
+<p><span>Sold by the lb (454 g).</span></p>
+<h2 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Sucre belge - Noir (454 g)</span></h2>
+<p><span>Souvent utilisé dans les bières de style belge ABV supérieures, le sucre belge  renforce la gravité originale de la bière tout en réduisant le corps et en ajoutant une saveur caramélisée profonde.</span></p>
+<p><span>Vendu à la livre (454 g).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4561276272742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4418</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4561255104614</id>
+    <published>2020-01-27T14:37:04-04:00</published>
+    <updated>2020-01-27T14:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/belgian-candi-sugar-light-454-g"/>
+    <title>Belgian Candi Sugar - Light (454 g)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case DIY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Belgian-Candi-Sugar-Light_16oz.png?v=1580151403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case DIY<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Most commonly used in higher ABV Belgian style beers, Belgian Candi Sugar bumps up a beers original gravity, while reducing the body and enhancing the flavour.</span></p>
+<p><span>Sold by the lb (454 g).</span></p>
+<h2 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Sucre belge - Léger (454 g)</span></h2>
+<p><span>Souvent utilisé dans les bières de style belge ABV supérieures, le sucre belge  renforce la gravité originale de la bière tout en réduisant le corps et en ajoutant une saveur caramélisée profonde.</span></p>
+<p><span>Vendu à la livre (454 g).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4561255104614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4417</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4561224335462</id>
+    <published>2020-01-27T14:37:04-04:00</published>
+    <updated>2020-01-27T14:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/gypsum-1-lb"/>
+    <title>Gypsum (1 lb)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case DIY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/salt_800x600_f5b26407-292e-405b-b4f3-ae853781895f.jpg?v=1580150817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case DIY<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Calcium Sulfate. Used to add permanent hardness (Calcium ions) to brewing water. 1 gram in 1 gallon changes the salt levels by 61.5 ppm calcium, 147.5 ppm sulfate and adds 153.5 ppm to the hardness.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4561224335462</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>4404</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3951839379558</id>
+    <published>2019-08-28T12:09:08-03:00</published>
+    <updated>2019-08-28T12:09:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/phosphoric-acid-10-8oz"/>
+    <title>Phosphoric Acid 10% (8oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7427_phosphoricacid.jpg?v=1627394276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><span data-sheets-value='{"1":2,"2":"Most commonly used to lower sparge water pH as it is more stable than lactic acid at high temperatures. "}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Most commonly used to lower sparge water pH as it is more stable than lactic acid at high temperatures. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3951839379558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>7427</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933142712422</id>
+    <published>2019-07-23T13:24:48-03:00</published>
+    <updated>2019-07-23T13:24:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-passion-fruit"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - Passion Fruit</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4428_MJPASSIONFRUITFLAVOURING_grande_809ee19a-3826-4bde-9fb0-1542cf9e1ed2.jpg?v=1563899127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer.</span></p>
+<p><span>Create a huge range of unique beer creations with fantastic flavours to experiment with! Passion Fruit has a strong passion fruit aroma, with mild citrus notes. Fantastic for Pale Ales, Saison and Gose.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<h2><span>Mangrove Jack's Natural Beer Flavouring - Passion Fruit</span></h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques à expérimenter! Fruit de la passion avec de légères notes d'agrumes. Fantastique pour Pales Ales, Saison et Gose.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933142712422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4428</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933142450278</id>
+    <published>2019-07-23T13:23:38-03:00</published>
+    <updated>2019-07-23T13:23:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-manuka-style-honey"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - Manuka Style Honey</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4430_MJHONEYFLAVOURING_grande_7f2a09ff-dbc3-4d50-91cd-b9e1a1e8f0f3.jpg?v=1563899055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer.</span></p>
+<p><span>Create a huge range of unique beer creations with fantastic flavours to experiment with! Manuka Styled Honey has a strong Manuka styled honey aroma with sweet honey notes. Fantastic for Amber, Saison and Blondes.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<h2><span>Mangrove Jacks Natural Beer Flavouring - Manuka Style Honey</span></h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques à expérimenter! Manuka Styled Honey a un arôme puissant de miel, de style Manuka, avec des notes sucrées. </span><span>Fantastique pour Ambre, Saison et Blondes.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933142450278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4430</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933140320358</id>
+    <published>2019-07-23T13:16:19-03:00</published>
+    <updated>2019-07-23T13:16:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-coffee"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - Coffee</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4426_COFFEEBEERFLAVOURING_grande_a5359711-a7e6-4880-87b4-f6aee44aae4f.jpg?v=1563898659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer. </span><span>Create a huge range of unique beer creations with fantastic flavours to experiment with!</span></p>
+<p><span>American Oak has a subtle oak aroma with sweet woody notes and light smoky undertones. Great for Imperial Stouts, Old Ales and Flanders Red.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<h2><span>Mangrove Jack's Natural Beer Flavouring - Coffee</span></h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques! La saveur aux café a un fort arôme de café infusé, mais reste doux au goût. Fantastique pour Stouts, IPA, Porters.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933140320358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4426</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933139664998</id>
+    <published>2019-07-23T13:14:49-03:00</published>
+    <updated>2019-07-23T13:14:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-cherry"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - Cherry</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4427_MJCHEERFLAVOURING_grande_4ee2f552-b404-40d3-bdaf-95fad570473f.jpg?v=1563898942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer. </span><span>Create a huge range of unique beer creations with fantastic flavours to experiment with!</span></p>
+<p><span>American Oak has a subtle oak aroma with sweet woody notes and light smoky undertones. Great for Imperial Stouts, Old Ales and Flanders Red.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<meta charset="utf-8">
+<h2><span>Mangrove Jack's Natural Beer Flavouring - Cherry</span></h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques à expérimenter! Arôme de cerise fraîche, fruité, avec une saveur douce bien arrondie. </span></p>
+<p><span>Fantastique pour Red Ale, Porter, Blonde.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933139664998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4427</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933139173478</id>
+    <published>2019-07-23T13:12:43-03:00</published>
+    <updated>2019-07-23T13:12:43-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-american-oak"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - American Oak</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4425_MJAMERICANOAKFLAVOUR_grande_77221925-d260-4fe9-b59f-8b4f7004f724.jpg?v=1563898452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer. </span><span>Create a huge range of unique beer creations with fantastic flavours to experiment with!</span></p>
+<p><span>American Oak has a subtle oak aroma with sweet woody notes and light smoky undertones. Great for Imperial Stouts, Old Ales and Flanders Red.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<h2><span><strong>Mangrove Jack's Natural Beer Flavouring -  American Oak</strong></span></h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques! Le chêne américain a un arôme de chêne subtile avec des notes boisées douces et de légères nuances de fumée.</span></p>
+<p><span>Idéal pour les Stouts impériaux, Old Ales et Flanders Red.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933139173478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4425</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3933133701222</id>
+    <published>2019-07-23T12:55:28-03:00</published>
+    <updated>2019-07-23T12:55:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-natural-beer-flavouring-apricot"/>
+    <title>Mangrove Jack&apos;s Natural Beer Flavouring - Apricot</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4429_MJAPRICOTFLAVOURING_600x_2bf4797b-8ca5-489a-89a0-cdd1a69f11f9.jpg?v=1563898218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Add exciting natural flavouring to your beer! Derived from natural ingredients, Mangrove Jack's Natural Flavour Boosts allow you to add a new element of flavour to your beer.</span></p>
+<p><span>Create a huge range of unique beer creations with fantastic flavours to experiment with! Apricot has a fruity aroma with a well-rounded apricot flavour. Great for Wheat, Pale Ales and Pils.</span></p>
+<p><span><strong>How it works:</strong> With two ways to add Mangrove Jack's Natural Flavour Boosts to your beer, experimentation is easy. Either pour a full bottle of flavouring into your entire batch of beer before bottling or add 1.5 ml of flavouring per bottle before carbonation.</span></p>
+<p><span>For full instructions, see product label. The above is just a guide, flavour to your own taste.</span></p>
+<h2>Mangrove Jack's Natural Beer Flavouring - Apricot</h2>
+<p><span>Ajoutez des arômes naturels excitants à votre bière! Dérivés d'ingrédients naturels, les boosters de saveurs naturelles de Mangrove Jack vous permettent d'ajouter un nouvel élément de saveur à votre bière.</span></p>
+<p><span>Créez une vaste gamme de créations de bière uniques aux saveurs fantastiques à expérimenter! Une saveur d'abricot bien arrondi. Idéal pour les pâles Ales et les pils.</span></p>
+<p><span><strong>Comment ça marche:</strong> Expérimenter est facile grâce aux deux façons d’ajouter des boosters d’arôme naturels Mangrove Jack à votre bière. Versez une bouteille complète d’arôme dans votre lot de bière avant la mise en bouteille ou ajoutez 1,5 ml d’arôme par bouteille avant la carbonatation.</span></p>
+<p><span>Pour des instructions complètes, voir l'étiquette du produit. Ce qui précède n’est qu’un guide.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3933133701222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4429</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855311143014</id>
+    <published>2019-06-18T09:51:37-03:00</published>
+    <updated>2019-06-18T09:51:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-raspberry-4-fl-oz"/>
+    <title>Flavouring - Natural Raspberry (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4433_RaspberryFlavouring.jpg?v=1624889437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Framboise</span> (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855311143014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4433</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855310684262</id>
+    <published>2019-06-18T09:50:30-03:00</published>
+    <updated>2019-06-18T09:50:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-grapefruit-4-fl-oz"/>
+    <title>Flavouring - Natural Grapefruit (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4432_GrapefruitFlavouring_6e5aaef1-5314-47fc-ae2d-b82c7fcf787c.jpg?v=1624892202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - P</span>amplemousse (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855310684262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4432</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855307571302</id>
+    <published>2019-06-18T09:39:39-03:00</published>
+    <updated>2019-06-18T09:39:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/flavouring-natural-blood-orange-4-fl-oz"/>
+    <title>Flavouring - Natural Blood Orange (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4431_BloodOrangeFlavouring.jpg?v=1624892162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":14849,"3":{"1":0},"12":0,"14":[null,2,0],"15":"\"Helvetica Neue\", Helvetica, Arial, sans-serif","16":11}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding 1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1>
+<span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - O</span>range Sanguine Naturelle (4 oz liq.)</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855307571302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4431</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/1378155429990</id>
+    <published>2018-09-14T12:24:06-03:00</published>
+    <updated>2018-09-14T12:24:06-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/natural-flavouring-peanut-butter"/>
+    <title>Flavouring - Natural Peanut Butter (4 fl oz)</title>
+    <s:type>Ingredients - Beer</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/4423_PeanutButterFlavouring_779cfed5-d439-4c9c-b6b4-30f7beeee3ba.jpg?v=1624892438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Ingredients - Beer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>All natural flavouring for beer and wine. Start by adding 1 oz. per gallon and sample. Continue adding1 oz. at a time until satisfied with flavour profile.</span></p>
+<h1><span data-sheets-value='{"1":2,"2":"All natural flavouring for beer and wine. Start by adding 1 oz. per gallonand sample. Continue adding1 oz. at a time until satisfied with flavour profile."}' data-sheets-userformat='{"2":8403523,"3":{"1":0},"4":[null,2,16448250],"9":0,"12":0,"14":[null,2,0],"15":"Arial","16":11,"26":400}'>Aromatisant - Beurre d'arachide naturel (4 oz liq.)</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Arôme naturel pour la bière et le vin. Commencez par ajouter 1 oz. par gallon et échantillon. Continuez à ajouter 1 oz. à la fois jusqu'à ce que satisfait du profil de saveur</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beer Additive</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/1378155429990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>4423</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

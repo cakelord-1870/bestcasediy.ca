@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/festa-brew-beer-kits.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2020-06-04T11:47:01-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/755197149279</id>
+    <published>2020-06-04T11:47:01-03:00</published>
+    <updated>2020-06-04T11:47:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-seasonal-cerveza"/>
+    <title>Festa Brew - Seasonal Cerveza</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_407761e6-c821-4cc7-a173-c4630243d6be.jpg?v=1525092048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A very light coloured lager with a crisp mouth feel. A highly refreshing and clean tasting summer beer. Ready to drink in 3-4 weeks. Serve with a wedge of lime.</p>
+<p>Starting Gravity        1.040<br>Finishing Gravity      1.006<br>Alcohol by volume    5%<br>Bitterness (IBU's)      9</p>
+<p>Makes 23 litres (roughly 5 1/2 dozen). Quantities may be limited. As you know, Festa Brew commercial quality beer is super easy to make. Just pour and ferment! No water to add.</p>
+<p><br>*Festa Brew kits are available only to Nova Scotian retailers.</p>
+<h1>Festa Brew - Seasonal Cerveza</h1>
+<p><span>Une lager de couleur très claire avec une sensation de bouche croquante. Une bière d'été très rafraîchissante et au goût propre. Prêt à boire dans 3-4 semaines. Servir avec un morceau de lime. </span></p>
+<p><span>Gravité de départ 1.040 </span></p>
+<p><span>Gravité de finition 1.006 </span></p>
+<p><span>Alcool en volume 5% </span></p>
+<p><span>Amertume (IBU) 9 </span></p>
+<p><span>Donne 23 litres (environ 5 1/2 douzaine). Les quantités peuvent être limitées. Comme vous le savez, la bière de qualité commerciale Festa Brew est extrêmement facile à préparer. Juste verser et fermenter! Pas d'eau à ajouter. </span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/755197149279</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>3718</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221055528</id>
+    <published>2018-03-15T17:37:15-03:00</published>
+    <updated>2018-03-15T17:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-blonde-lager"/>
+    <title>Festa Brew - Blonde Lager</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_cbce78df-b10f-4657-90c0-f8b4f468c1e3.jpg?v=1521222241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A yellow coloured, crisp beer with a genuine lager yeast. This is a true all-malt lager brewed with no adjuncts. The yeast provided will ferment well at 9-15°C, but will provide good lager characteristics up to 24°C.</p>
+<p><br>23 Litres of wort | OG: 1.046 – 1.048, FG: 1.008 – 1.010, Yeast: Saflager S-23, IBUs: 11<br><br>*Festa Brew kits are available only to Nova Scotian retailers.</p>
+<h1>Festa Brew - Blonde Lager</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une bière dorée croustillante avec une véritable levure de bière blonde. Ceci est une vraie lager 100% malt brassée sans adjonction. La levure fournie fermentera bien à une température de 9 à 15 ° C, mais fournira de bonnes caractéristiques de bière blonde jusqu'à 24 ° C. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">23 litres de moût | OG: 1,046 - 1,048, FG: 1,008 - 1,010, <span>IBU: 11</span></span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">levure: Saflager S-23</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221055528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3716</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221022760</id>
+    <published>2018-03-15T17:37:15-03:00</published>
+    <updated>2018-03-15T17:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-brown-ale"/>
+    <title>Festa Brew - Brown Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_1ac97be4-9e7d-4f09-af5c-0b8efb0a16bc.jpg?v=1521222253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A traditional, medium-bodied English style Brown Ale. Pleasantly roasted, mid-bodied malt profile with low hop flavour and aroma and moderate hop bitterness. Slight yeast-derived fruitiness.</p>
+<p><br>23 Litres of wort | OG: 1.0496 – 1.0504, FG: 1.0116 – 1.0124, Yeast: Nottingham, IBUs: 15</p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span></p>
+<h1><span>Festa Brew - Brown Ale</span></h1>
+<p><span>Une bière brune à l'anglaise traditionnelle et moyennement corsée. Profil de malt agréablement torréfié, mi-corsé, à saveur et arôme de houblon faibles et amertume de houblon modérée. Léger fruité dérivé de levure. </span></p>
+<p><span>23 litres de moût | OG: 1,0496 - 1,0504, FG: 1,0116 - 1,0124, IBU: 15</span></p>
+<p><span>levure: Nottingham</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221022760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3710</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220957224</id>
+    <published>2018-03-15T17:37:15-03:00</published>
+    <updated>2018-03-15T17:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-continental-pilsner"/>
+    <title>Festa Brew - Continental Pilsner</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_d5a7860f-d786-4d83-aaee-c0ca6d05d20f.jpg?v=1521222264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A balanced, well rounded, golden European-style lager with a noticeable hop profile and all-malt character.<br><br>23 Litres of wort | OG: 1.0496-1.0504, FG: 1.0096 – 1.0104, Yeast: Saflager S-23, IBUs: 18<br><br>*Festa Brew kits are available only to Nova Scotian retailers.</p>
+<h1>Festa Brew - Continental Pilsner</h1>
+<p><span>Une bière blonde européenne équilibrée, bien arrondie, avec un profil de houblon remarquable et un caractère tout en malt. </span></p>
+<p><span>23 litres de moût | OG: 1,0496-1,0504, FG: 1,0096 - 1,0104, IBU: 18</span></p>
+<p><span>levure: Saflager S-23</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220957224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3715</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220924456</id>
+    <published>2018-03-15T17:37:15-03:00</published>
+    <updated>2018-03-15T17:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-cream-ale"/>
+    <title>Festa Brew - Cream Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_c3a6019e-b348-4b97-bfd4-879e4662c3ce.jpg?v=1521222274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A medium-bodied, slightly fruity, North American ale style. Deep golden colour with a delicate hop aroma and flavour. A smooth and easy drinking beer style.</p>
+<p><br>23 Litres of wort | OG: 1.0476 – 1.0484, FG: 1.0128 – 1.0136, Yeast: Safale US-56, IBUs: 13<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span></p>
+<h1><span>Festa Brew - Cream Ale</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une bière nord-américaine mi-corsée, légèrement fruitée. Couleur dorée profonde avec un arôme et une saveur de houblon délicats. Un style de bière lisse et facile à boire. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">23 litres de moût | OG: 1,0476 - 1,0484, FG: 1,0128 - 1,0136, <span>IBU: 13</span></span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">levure: Safale US-56</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">*</span><span lang="fr">Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220924456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3704</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220891688</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-double-oatmeal-stout"/>
+    <title>Festa Brew - Double Oatmeal Stout</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_07a670ae-5e6e-4c67-8ee1-234cc65287b1.jpg?v=1521222354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An opaque, full-bodied ebony ale. Moderate to high hop bitterness combines well with a pleasant roast malt character, subtle malt sweetness and slight hop flavour. The addition of two types of oats leads to a creamy, robust mouth-feel and full texture.</p>
+<p><br>23 Litres of wort | OG: 1.0545 – 1.0550, FG: 1.0196 – 1.0211, Yeast: Safbrew S-33, IBUs: 28<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span><br><br></p>
+<h1>Festa Brew - Double Oatmeal Stout</h1>
+<p><span>Une bière d'ébène opaque et corsée. L'amertume du houblon modérée à forte se combine bien avec un agréable caractère de malt grillé, une douceur subtile du malt et une légère saveur de houblon. L'ajout de deux types d'avoine donne une texture crémeuse et robuste à la bouche. </span></p>
+<p><span>23 litres de moût | OG: 1,0545 - 1,0550, FG: 1,0196 - 1,0211, IBU: 28</span></p>
+<p><span>levure: Safbrew S-33</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220891688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>3714</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220858920</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-dry"/>
+    <title>Festa Brew - Dry</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_e452df04-2e97-4531-8ed2-b7210da51a66.jpg?v=1521222363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A clean North American style dry lager. Light straw colour and low hop bitterness. Crisp finish.</p>
+<p><br>23 Litres of wort | OG: 1.0360-1.0368, Yeast: Saflager S-23, IBUs: 9<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span></p>
+<h1><span>Festa Brew - Dry</span></h1>
+<p><span>Une lager sèche de style nord-américain. Couleur paille claire et faible amertume de houblon. Finale nette. </span></p>
+<p><span>23 litres de moût | OG: 1.0360-1.0368, IBU: 9</span></p>
+<p><span>levure: </span><span>Saflager S-23</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220858920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3717</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220826152</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-pale-ale"/>
+    <title>Festa Brew - Pale Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_2131430f-d7f5-4c5d-a6f3-38c8250e17cb.jpg?v=1521224305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A deep golden coloured hoppy, fruity English style pale ale. Presents pleasant flavours and aromas of fresh finishing hops, which balance well with a bready malt profile and moderate body.</p>
+<p><br>23 Litres of wort | OG: 1.0500 – 1.0508, FG: 1.0124 – 1.0132, Yeast: Nottingham, IBUs: 25<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span><br><br></p>
+<h1>Festa Brew - Pale Ale</h1>
+<p><span>Une bière blonde pâle à la fois houblonnée et fruité à l'anglaise. Présente des saveurs agréables et des arômes de houblon de finition frais, qui s'équilibrent bien avec un profil de malt dur et un corps modéré. </span></p>
+<p><span>23 litres de moût | OG: 1,0500 - 1,0508, FG: 1,0124 - 1,0132, IBU: 25</span></p>
+<p><span>levure: Nottingham</span></p>
+<p><span>*</span>Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220826152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3706</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220760616</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-red-ale"/>
+    <title>Festa Brew - Red Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_f6e138b1-c29c-4370-8714-c5d32054d05b.jpg?v=1521224327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Irish style Red Ale. Attractive red-amber colour. Moderate malt body and pleasant mild sweetness. Moderate hop bitterness, mild hop flavour and low hop aroma. A step towards darker beers, without the roasted components.</p>
+<p><br>23 Litres of wort | OG: 1.0492 – 1.0500, FG: 1.0132 – 1.0144, Yeast: Safale S-04, IBUs: 13<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span></p>
+<h1><span>Festa Brew - Red Ale</span></h1>
+<p><span>Red Ale style irlandais. Couleur attrayante rouge ambrée. Corps de malt modéré et douceur douce agréable. Amertume modérée du houblon, saveur douce du houblon et faible arôme de houblon. Un pas vers des bières plus sombres, sans les composants grillés. </span></p>
+<p><span>23 litres de moût | OG: 1,0492 - 1,0500, FG: 1,0132 - 1,0144, IBU: 13 </span></p>
+<p><span>levure: Safale S-04</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220760616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3708</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220727848</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-west-coast-ipa"/>
+    <title>Festa Brew - West Coast IPA</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_f99425e1-318d-47dc-8d68-3b3e11af7130.jpg?v=1521224909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This former limited seasonal release became so popular, that it was added to the year round line up! Back by “hop-ular” demand!</p>
+<p>Hopped to the hilt with citrusy Cascade hops, yet not too bitter. Amber in colour, 6.5% alc, and enough rich malt for the perfect balance. <br><br>23 Litres of wort | OG: 1.058, FG: 1.014, Yeast: Safale US-05, IBUs: 42, colour: 14 L, Alc/vol: 6.5%<br><br></p>
+<meta charset="utf-8">
+<p><span>*Festa Brew kits are available only to Nova Scotian retailers.</span></p>
+<h1><span>Festa Brew - West Coast IPA</span></h1>
+<p><span>Cette ancienne version saisonnière limitée est devenue si populaire qu'elle a été ajoutée à la programmation toute l'année! </span></p>
+<p><span>Sauté au maximum avec du houblon Cascade aux agrumes, mais pas trop amer. De couleur ambre, 6,5% d'alcool et suffisamment de malt pour un équilibre parfait. </span></p>
+<p><span>23 litres de moût | OG: 1,058, FG: 1,014, IBU: 42, couleur: 14 L, Alc / vol: 6,5%</span></p>
+<p><span>levure: Safale US-05</span></p>
+<p><span>* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220727848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>3719</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479220695080</id>
+    <published>2018-03-15T17:37:14-03:00</published>
+    <updated>2018-03-15T17:37:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/festa-brew-wheat-beer"/>
+    <title>Festa Brew - Wheat Beer</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Festa Brew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/festa_brew_8c20f560-99bf-46fe-978a-e69e27bbae7d.jpg?v=1521224918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Festa Brew<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span></span>A clean North American style wheat beer. Light straw colour and low hop bitterness. Refreshing and thirst quenching.<br><br>23 Litres of wort | OG: 1.0460 – 1.0468, FG: 1.0120 – 1.0128, Yeast: Safale S-04, IBUs: 9<br><br>*Festa Brew kits are available only to Nova Scotian retailers.</p>
+<h1>Festa Brew - Wheat Beer</h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une bière de blé de style nord-américain. Couleur paille claire et faible amertume de houblon. Rafraîchissant et désaltérant. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">23 litres de moût | OG: 1.0460 - 1.0468, FG: 1.0120 - 1.0128,<span> IBU: 9</span> </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">levure: Safale S-04</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">* Les kits Festa Brew sont disponibles uniquement pour les détaillants néo-écossais.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Festa Brew Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479220695080</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>3702</s:sku>
+      <s:grams>28123</s:grams>
+    </s:variant>
+  </entry>
+</feed>

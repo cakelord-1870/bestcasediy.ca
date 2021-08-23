@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/keg-draught.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-06-07T12:08:58-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582176546918</id>
+    <published>2021-06-07T12:08:58-03:00</published>
+    <updated>2021-06-07T12:08:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-repair-kit"/>
+    <title>iTap Repair Kit</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74113_iTapRepairKit.jpg?v=1622059889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">A set of spare parts for iTap maintenance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582176546918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>74113</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582162522214</id>
+    <published>2021-06-07T12:08:36-03:00</published>
+    <updated>2021-06-07T12:08:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-g-connector"/>
+    <title>iTap G-Connector</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74111_iTapG-Connector.jpg?v=1622050907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">G-connector with a compensator to pour the drinks through a defoamer to a mug, connects to iTap or iTap 2.</span></p>
+<p><strong>ATTENTION</strong>: G-connector attaches only to a<span> </span><a href="https://boel.company/product/itap-clamp-lock-for-glass-bottles/">clamp lock for crown cap bottles</a><span> </span>and<span> </span><a href="https://boel.company/product/clamp-lock-for-pet/">clamp-lock for PET bottles</a>.</p>
+<p><meta charset="utf-8"><iframe class="youtube-player" width="980" height="552" src="https://www.youtube.com/embed/Ct6r9J7uTA8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
+<div data-mce-fragment="1" title="Page 1" class="page">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<ul data-mce-fragment="1"></ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582162522214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>74111</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582128640102</id>
+    <published>2021-06-07T12:06:50-03:00</published>
+    <updated>2021-06-07T12:06:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-for-crown-cap-bottles"/>
+    <title>iTap For Crown Cap Bottles</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74110_iTapforCrownBottles.jpg?v=1622044046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">A revolutionary device for drinks dispensing into glass bottles. </span></p>
+<div class="page" title="Page 1" data-mce-fragment="1">
+<div class="section" data-mce-fragment="1">
+<div class="layoutArea" data-mce-fragment="1">
+<div class="column" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">The counter pressure bottling method eliminates any contact between the beer and oxygen. As a result, your brew stays fresh and carbonated.</li>
+<li data-mce-fragment="1">Easy &amp; clean bottling: install the bottle, fill it, remove the bottle. No mess, no foam, no fuss.</li>
+<li data-mce-fragment="1">Fast filling: you can fill and cap (the capping devices are not included) 50-60 bottles in 1 hour.</li>
+<li data-mce-fragment="1">The quality/price ratio is impressive: you get a durable device with a 5-year warranty. It fits for both commercial breweries and homebrewers as well.</li>
+<li data-mce-fragment="1">Minimal drainage losses (only 1%), no foaming.</li>
+<li data-mce-fragment="1">Quick installation: even if you see an iTap for the first time, you can install it on your own in under 10 minutes. Easy use: CO2 filling with a button, fast filling.</li>
+<li data-mce-fragment="1">No cartridges or disposable parts.</li>
+<li data-mce-fragment="1">The drinks bottled with iTap stays fresh and remains its initial flavour up to 90-120 days.</li>
+<li data-mce-fragment="1">You can bottle any foamy drinks, including beer, cider, soda, etc.</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582128640102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>74110</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582168256614</id>
+    <published>2021-06-07T12:06:30-03:00</published>
+    <updated>2021-06-07T12:06:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-clamp-pet-bottles"/>
+    <title>iTap Clamp-lock for PET Bottles</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74112_iTapClampPETBottles.jpg?v=1622052329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">Counter pressure bottle filler is essential to selling beer to go.<span> </span></span><span class="s1">And the removable clamp-lock is designed for dispensing drinks into the PET bottles, for iTap devices.</span></p>
+<p>Also this clamp lock is used to attach<span> </span><a href="https://boel.company/product/g-connector-itap/">G-connector</a><span> </span>to an iTap to fill glasses from the same tap.</p>
+<p><span class="s1">Because of convenient installation, you can quickly switch from a clamp-lock for PET bottles to a glass bottles one, and vice versa. Thanks to eliminating any contact with oxygen, the counter-pressure bottle filler ensures the beer, cider or soft drinks stay carbonated. As a result, the drinks will stay fresh in the bottles and ready to enjoy! </span></p>
+<ul>
+<li class="li1"><span class="s1">Fits all iTap devices </span></li>
+<li class="li1"><span class="s1">Versatility: use the same tap and switch clamp locks for different bottles<br></span></li>
+<li class="li1"><span class="s1">Allows to expand the product packaging options</span></li>
+<li class="li1"><span class="s1">Produced from high-quality food-grade materials</span></li>
+<li class="li1"><span class="s1">No disposable removable parts</span></li>
+<li class="li1"><span class="s1">Easy and convenient use of counter-pressure bottle filler</span></li>
+<li class="li1"><span class="s1">5 years warranty service</span></li>
+</ul>
+<p><strong>You can maximize the bottling options just adding a clamp-lock for glass bottles to your counter-pressure bottling system.</strong></p>
+<p><strong><meta charset="utf-8"> <iframe class="youtube-player" width="980" height="552" src="https://www.youtube.com/embed/oEEoXd6Rh-A?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></strong></p>
+<div data-mce-fragment="1" title="Page 1" class="page">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<ul data-mce-fragment="1"></ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582168256614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>74112</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6572410536038</id>
+    <published>2021-05-04T15:17:35-03:00</published>
+    <updated>2021-05-04T15:17:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ball-keg-keg-level-indicator"/>
+    <title>Ball &amp; Keg - Keg Level Indicator</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Ball-And-Keg-Level-Indicator.jpg?v=1620147929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;"><iframe src="https://www.youtube.com/embed/FeHaBV1EkR4" title="YouTube video player" width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0"></iframe>Would you like to constantly monitor the liquid level in your homebrew keg? Have you ever had your "Corny Keg" go empty unexpectedly? Have you ever lifted or tilted your keg to determine how much liquid was left, only to stir up the sediment and ruin those last few glasses? Stop guessing and start monitoring your keg level continuously!</span><span style="font-weight: 400;">    </span><span style="font-weight: 400;">    </span><span style="font-weight: 400;">    </span><span style="font-weight: 400;">    </span></p>
+<p><span style="font-weight: 400;">The Ball and Keg Liquid Level Indicator is a revolutionary product that can be used to immediately eliminate the guesswork on any Cornelius style homebrew keg. The Ball and Keg is the first and only device that is designed to accurately and instantly provide continuous liquid level for your keg. It is simple to use, economical, and completely accurate.</span></p>
+<ul>
+<li>
+<span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;"></span><span style="font-weight: 400;">The float is 2" in diameter.</span>
+</li>
+<li><span style="font-weight: 400;">The indicator bead is 1/4" in diameter and bright orange.</span></li>
+<li><span style="font-weight: 400;">The float is made of FDA approved plastic.</span></li>
+<li><span style="font-weight: 400;">This is the same plastic used for many types of food and beverage containers.</span></li>
+<li><span style="font-weight: 400;">The float can be installed before carbonation and is designed for pressure up to 50 psi.</span></li>
+</ul>
+<h1 style="text-align: center;"><b>Ball &amp; Keg - Indicateur de niveau de fût</b></h1>
+<p><span style="font-weight: 400;">Souhaitez-vous surveiller en permanence le niveau de liquide dans votre fût? Avez-vous déjà vu votre fût se vider de manière inattendue ? Avez-vous déjà soulevé ou incliné votre fût pour déterminer la quantité de liquide qui restait, seulement pour remuer les sédiments et ruiner ces derniers verres ? Arrêtez de deviner et commencez à surveiller le niveau de votre fût correctement!</span></p>
+<p><span style="font-weight: 400;">L'indicateur de niveau de liquide </span><i><span style="font-weight: 400;">Ball and Keg</span></i><span style="font-weight: 400;"> est un produit révolutionnaire qui peut être utilisé pour éliminer immédiatement les conjectures sur n'importe quel fût de style Cornelius. Le </span><i><span style="font-weight: 400;">Ball and Keg</span></i><span style="font-weight: 400;"> est le premier et le seul appareil conçu pour fournir avec précision et instantanément un niveau de liquide continu pour votre fût. Il est simple à utiliser, économique et parfaitement précis.</span></p>
+<p><span style="font-weight: 400;">Le flotteur mesure 2" de diamètre.</span></p>
+<p><span style="font-weight: 400;">La perle indicatrice mesure 1/4" de diamètre et est orange vif.</span></p>
+<p><span style="font-weight: 400;">Le flotteur est en plastique approuvé par la FDA.</span></p>
+<p><span style="font-weight: 400;">Il s'agit du même plastique utilisé pour de nombreux types de contenants pour aliments</span></p>
+<p><span style="font-weight: 400;">Le flotteur peut être installé avant la carbonatation et est conçu pour une pression allant jusqu'à 50 lb/po2.</span></p>
+<h1><span><br></span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6572410536038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7264</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/5001702604902</id>
+    <published>2021-01-18T13:18:45-04:00</published>
+    <updated>2021-01-18T13:18:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/intertap-liquid-ball-lock-spout"/>
+    <title>Intertap Liquid Ball Lock Spout</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Keg King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/intertap_liquid_ball_lock_spout_1.jpg?v=1610387118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keg King<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Convert your NukaTap Tap into a ball lock post for absolute filling control with your bottle gun/counter-pressure filler or improvised growler attachments all without opening the fridge door!</span></p>
+<h1><span>Tap - Intertap, bec de Ball Lock<br></span></h1>
+<p><span>Transformez votre NukaTap en un poste de verrouillage à bille pour un contrôle absolu du remplissage avec votre pistolet à bouteille / remplisseur de contrepression ou accessoires de growler improvisés, le tout sans ouvrir la porte du réfrigérateur!</span></p>
+<p><span><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/5001702604902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>76031</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4295035322470</id>
+    <published>2021-01-18T13:18:26-04:00</published>
+    <updated>2021-01-18T13:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/tap-intertap-self-closing-tap-spring"/>
+    <title>Tap - Intertap, Self Closing Tap Spring</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Keg King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74161_INTERTAPSPRING.png?v=1572447537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keg King<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Both the Intertap™ SS and Intertap™ PC can be used with a Auto-Close Spring. By inserting the spring between the shank and tap body this will cause the tap to automatically close when you let go of the handle of the tap handle \n\nThis is perfect for customers who may not be diligent enough to remember to completely turn off the tap after each pour. Or for those with little kids or pesky cats that knock everything around!\n\n(Please Note: The spring is not compatible with the Intertap FC or FCGP Models)\n*Intertap, Shank, Tap Handle sold separately"}' data-sheets-userformat='{"2":577,"3":{"1":0},"9":0,"12":0}'>Both the Intertap™ SS and Intertap™ PC can be used with a Auto-Close Spring. By inserting the spring between the shank and tap body this will cause the tap to automatically close when you let go of the handle of the tap handle <br><br>This is perfect for customers who may not be diligent enough to remember to completely turn off the tap after each pour. Or for those with little kids or pesky cats that knock everything around!<br><br>(Please Note: The spring is not compatible with the Intertap FC or FCGP Models)<br>*Intertap, Shank, Tap Handle sold separately.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4295035322470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>74161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4989518086246</id>
+    <published>2021-01-07T12:41:35-04:00</published>
+    <updated>2021-01-07T12:41:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/kegland-series-x-kegerator-fridge-only"/>
+    <title>KegLand Series X - Kegerator Fridge Only</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/XFridgeOnly_6a45e740-9969-4811-b747-af83d3f75bdc.png?v=1608228758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><a data-encoded-tag-name="meta" data-encoded-tag-value="" data-encoded-attr-charset="dXRmLTg="></a>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span style="font-size: large;"><strong><span style="color: #ff0000;"></span></strong></span><strong>This Fridge Only Pack Includes:</strong><br></p>
+<span>2 x Locking Castor wheels<br>2 x Non-Locking Castor Wheels<br>1 x Internally Mounted Beer Glass Rack Holder<br>1 x Black Reinforced Plastic Drip Tray<br>1 x Wire Shelf<br>1 x 2.6kg Cylinder Bracket Holder</span><br>1 x Chrome Guard Rail<br>1 x Font/Recirculation fan<br><br><span style="font-size: medium;"><strong></strong></span><strong>Improved Features:</strong><br><span style="font-size: large;"><strong> <span style="color: #f0343b;"></span></strong></span><br>With our new and improved inbuilt Font Fan with toggle on/off function, the Series 4 Keg Master from Keg Land will surely not disappoint.<br>New circuit boards with temperature control, calibration and on-board memory functions as standard.<br>Increased compressor power while being approximately 20% more electrically efficient.<br><br><strong>Dimensions:</strong><br><br>- 600mm Wide<br>- 640mm Deep<br>- 840mm Height</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4989518086246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>74125</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4989516447846</id>
+    <published>2021-01-07T12:41:35-04:00</published>
+    <updated>2021-01-07T12:41:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/kegland-series-x-kegerator-with-quad-ss-intertap-tower"/>
+    <title>KegLand Series X - Kegerator (With Quadruple SS Intertap Tower )</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/XFridgeOnly_59a89bc8-a1b9-4342-a6e9-1cd9b8d97848.png?v=1608228525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This KegLand kegerator is the ideal solution for a simple short draw system for the home bar, small restaurant, cafes and bars. <br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">This new kegerator model is a big step up from the older Series 4 model.  This new Series X has several major advancements:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">10% more power efficient</li>
+<li data-mce-fragment="1">15% faster cooling and better cooling in hotter climates</li>
+<li data-mce-fragment="1">Thicker walls for improved insulation</li>
+<li data-mce-fragment="1">FITS 4 CORNY KEGS<br data-mce-fragment="1">
+</li>
+</ol>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Comes with a 1-year warranty.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">This Series X Quadruple Intertap SS package includes:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x KegLand Series X Fridge<br data-mce-fragment="1"></span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x NEW MK4 regulator (type 30 for CO2)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW EVA Barrier 4mm ID x 8mm OD Beer &amp;amp; Gas Hose, cut to appropriate lengths</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">4 x Genuine Intertap Stainless Steel taps with long black slender handles</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">4 x NEW duotight compatible Short Shanks with 6.5mm to 8mm duotight fitting</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x duotight push in tee (8mm OD). (to split your gas line with the simplicity of push ins.)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW 7 in 1 tap and cylinder tool</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless Steel 304 grade Triple Tap font and four mounting bolts.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Font Fan with toggle on/off</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">CO2 Cylinder Bracket Holder for 2.6kg cylinder or 450g Cylinder</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard Rail</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black Plastic Honeycomb Drip Tray</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Reinforced four-point anchored castor wheels</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless steel Door</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black reinforced plastic top</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x Locking Castor Wheels + bolts </span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Built in font fan with toggle on/off function and state of the art beer taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Circuit boards with temperature control, calibration and on-board memory functions.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard rail system to ensure your beer never slides off accidentally.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Includes state of the art forward sealing Stainless Intertap Taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Convenient glass holder and wire shelf if you wish to convert it back to a normal fridge.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4989516447846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>74129</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4989515694182</id>
+    <published>2021-01-07T12:41:34-04:00</published>
+    <updated>2021-01-07T12:41:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/copy-of-kegland-series-x-kegerator-with-double-ss-intertap-tower"/>
+    <title>KegLand Series X - Kegerator (With Triple SS Intertap Tower )</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/XFridgeOnly_03341f5a-80b1-42e0-9c6e-09768b5966b0.png?v=1608228090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This KegLand kegerator is the ideal solution for a simple short draw system for the home bar, small restaurant, cafes and bars. <br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">This new kegerator model is a big step up from the older Series 4 model.  This new Series X has several major advancements:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">10% more power efficient</li>
+<li data-mce-fragment="1">15% faster cooling and better cooling in hotter climates</li>
+<li data-mce-fragment="1">Thicker walls for improved insulation</li>
+<li data-mce-fragment="1">FITS 4 CORNY KEGS<br data-mce-fragment="1">
+</li>
+</ol>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Comes with a 1-year warranty.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">This Series X Triple Intertap SS package includes:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x KegLand Series X Fridge<br data-mce-fragment="1"></span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x NEW MK4 regulator (type 30 for CO2)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW EVA Barrier 4mm ID x 8mm OD Beer &amp;amp; Gas Hose, cut to appropriate lengths</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">3 x Genuine Intertap Stainless Steel taps with long black slender handles</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">3 x NEW duotight compatible Short Shanks with 6.5mm to 8mm duotight fitting</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x duotight push in tee (8mm OD). (to split your gas line with the simplicity of push ins.)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW 7 in 1 tap and cylinder tool</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless Steel 304 grade Triple Tap font and four mounting bolts.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Font Fan with toggle on/off</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">CO2 Cylinder Bracket Holder for 2.6kg cylinder or 450g Cylinder</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard Rail</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black Plastic Honeycomb Drip Tray</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Reinforced four-point anchored castor wheels</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless steel Door</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black reinforced plastic top</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x Locking Castor Wheels + bolts </span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Built in font fan with toggle on/off function and state of the art beer taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Circuit boards with temperature control, calibration and on-board memory functions.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard rail system to ensure your beer never slides off accidentally.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Includes state of the art forward sealing Stainless Intertap Taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Convenient glass holder and wire shelf if you wish to convert it back to a normal fridge.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4989515694182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>74128</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4989514350694</id>
+    <published>2021-01-07T12:41:34-04:00</published>
+    <updated>2021-01-07T12:41:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/kegland-series-x-kegerator-with-double-ss-intertap-tower"/>
+    <title>KegLand Series X - Kegerator (With Double SS Intertap Tower )</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/XFridgeOnly_583b8ae9-c6d3-4841-8d24-52199778d17c.png?v=1608228123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This KegLand kegerator is the ideal solution for a simple short draw system for the home bar, small restaurant, cafes and bars. <br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">This new kegerator model is a big step up from the older Series 4 model.  This new Series X has several major advancements:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">10% more power efficient</li>
+<li data-mce-fragment="1">15% faster cooling and better cooling in hotter climates</li>
+<li data-mce-fragment="1">Thicker walls for improved insulation</li>
+<li data-mce-fragment="1">FITS 4 CORNY KEGS<br data-mce-fragment="1">
+</li>
+</ol>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Comes with a 1-year warranty.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">This Series X Double Intertap SS package includes:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x KegLand Series X Fridge<br data-mce-fragment="1"></span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x NEW MK4 regulator (type 30 for CO2)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW EVA Barrier 4mm ID x 8mm OD Beer &amp;amp; Gas Hose, cut to appropriate lengths</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x Genuine Intertap Stainless Steel taps with long black slender handles</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x NEW duotight compatible Short Shanks with 6.5mm to 8mm duotight fitting</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x duotight push in tee (8mm OD). (to split your gas line with the simplicity of push ins.)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW 7 in 1 tap and cylinder tool</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless Steel 304 grade Double Tap font and four mounting bolts.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Font Fan with toggle on/off</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">CO2 Cylinder Bracket Holder for 2.6kg cylinder or 450g Cylinder</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard Rail</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black Plastic Honeycomb Drip Tray</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Reinforced four-point anchored castor wheels</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless steel Door</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black reinforced plastic top</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x Locking Castor Wheels + bolts </span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Built in font fan with toggle on/off function and state of the art beer taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Circuit boards with temperature control, calibration and on-board memory functions.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard rail system to ensure your beer never slides off accidentally.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Includes state of the art forward sealing Stainless Intertap Taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Convenient glass holder and wire shelf if you wish to convert it back to a normal fridge.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4989514350694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>74127</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4989513793638</id>
+    <published>2021-01-07T12:41:34-04:00</published>
+    <updated>2021-01-07T12:41:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/kegland-series-x-kegerator-with-single-ss-intertap-tower"/>
+    <title>KegLand Series X - Kegerator (With Single SS Intertap Tower )</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/XFridgeOnly.png?v=1608227664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This KegLand kegerator is the ideal solution for a simple short draw system for the home bar, small restaurant, cafes and bars. <br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">This new kegerator model is a big step up from the older Series 4 model.  This new Series X has several major advancements:</strong></p>
+<ol data-mce-fragment="1">
+<li data-mce-fragment="1">10% more power efficient</li>
+<li data-mce-fragment="1">15% faster cooling and better cooling in hotter climates</li>
+<li data-mce-fragment="1">Thicker walls for improved insulation</li>
+<li data-mce-fragment="1">FITS 4 CORNY KEGS<br data-mce-fragment="1">
+</li>
+</ol>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Comes with a 1-year warranty.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">This Series X Single Intertap SS package includes:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x KegLand Series X Fridge<br data-mce-fragment="1"></span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x NEW MK4 regulator (type 30 for CO2)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW EVA Barrier 4mm ID x 8mm OD Beer &amp;amp; Gas Hose, cut to appropriate lengths</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x Genuine Intertap Stainless Steel taps with long black slender handles</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x NEW duotight compatible Short Shanks with 6.5mm to 8mm duotight fitting</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 x duotight push in tee (8mm OD). (to split your gas line with the simplicity of push ins.)</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">NEW 7 in 1 tap and cylinder tool</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless Steel 304 grade Single Tap font and four mounting bolts.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Font Fan with toggle on/off</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">CO2 Cylinder Bracket Holder for 2.6kg cylinder or 450g Cylinder</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard Rail</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black Plastic Honeycomb Drip Tray</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Reinforced four-point anchored castor wheels</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Stainless steel Door</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Black reinforced plastic top</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">2 x Locking Castor Wheels + bolts </span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><br data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong><br data-mce-fragment="1"></span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Built in font fan with toggle on/off function and state of the art beer taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Circuit boards with temperature control, calibration and on-board memory functions.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Guard rail system to ensure your beer never slides off accidentally.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Includes state of the art forward sealing Stainless Intertap Taps.</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Convenient glass holder and wire shelf if you wish to convert it back to a normal fridge.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4989513793638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>74126</s:sku>
+      <s:grams>67585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4943100346470</id>
+    <published>2020-10-07T10:44:00-03:00</published>
+    <updated>2020-10-07T10:44:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bucket-blaster-keg-washer"/>
+    <title>Bucket Blaster Keg Washer</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7541_bucketblaster.jpg?v=1627302591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Bucket Blaster is a great way to get your kegs, fermenters, fermzilla, carboy's or other brewery gear clean while you attend to other, more enjoyable tasks, like brewing!</p>
+<p>Simply set up the keg washer basin with your cleaner or sanitizer, set a keg or carboy on over the jet nozzle, power up pump and let the keg washer do the work.</p>
+<p>This unit comes with a 15L bucket which doubles as a storage container when you are not using the system. This unit has a large 15L bucket making it much less likely for you to spill liquid on your floor.</p>
+<p>This system includes a 2000 liter per hour pump, the 15L bucket, a powerful jet nozzle, 3/8 EVABarrier tubing, a duotight tee piece, a grey and black ball lock disconnect and the stainless stand. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4943100346470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>7541</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4561451909222</id>
+    <published>2020-01-27T15:40:10-04:00</published>
+    <updated>2020-01-27T15:40:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/carbonater-cap"/>
+    <title>Carbonater Cap</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case DIY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/the_carbonator_draft_to_go_angle_one_1024x1024_0a1d8cc4-d537-412b-902b-a8282f6a2e2b.jpg?v=1580217598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case DIY<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Carbonates 'still beverages' &amp; preserves carbonated beverages. Carbonater can be used to inject CO2 in any beverage. Your imagination is the limit. Carbonate beer, soda &amp; juice or just plain water!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4561451909222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>7269</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/489226960936</id>
+    <published>2019-10-30T11:39:14-03:00</published>
+    <updated>2019-10-30T11:39:14-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/regulator-washer"/>
+    <title>KegLand Nylon Regulator Washer</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7633_NYLONREGWASHER.jpg?v=1572445258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement used to seal space between KegLand regulator and CO2 tank.</p>
+<h1>Régulateur - Rondelle</h1>
+<p><span>Remplacement utilisé pour sceller l'espace entre le régulateur et le réservoir de CO2.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/489226960936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>76343</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4331323031654</id>
+    <published>2019-10-30T11:34:18-03:00</published>
+    <updated>2019-10-30T11:34:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/regulator-gauge-high-pressure-0-3000-psi"/>
+    <title>Regulator Gauge - High Pressure (0-3000 PSI)</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/76342_HIGHPRESSUREGAUGE.jpg?v=1572446088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Replacement high pressure CO2 regulator gauge. 0-3000 PSI gauge guard. Brass construction with 1/4 NPT thread (to suit most regulators).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4331323031654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>76342</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4331309400166</id>
+    <published>2019-10-30T11:24:58-03:00</published>
+    <updated>2019-10-30T11:24:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/regulator-gauge-low-pressure-0-100-psi"/>
+    <title>Regulator Gauge - Low Pressure (0-100 PSI)</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/76341_LOWPRESSUREGAUGE.jpg?v=1572445629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Replacement low pressure CO2 regulator gauge. 0-100 PSI gauge guard. Brass construction with 1/4 NPT thread (to suit most regulators).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4331309400166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>76341</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4287771181158</id>
+    <published>2019-10-18T10:16:04-03:00</published>
+    <updated>2019-10-18T10:16:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/clamps-butterfly-1-id"/>
+    <title>Clamps - Butterfly 1&quot; ID</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/76145.jpg?v=1571676175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reusable screw clamps, 1" total ID</p>
+<h1><span></span></h1>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4287771181158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>76145</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4264585232486</id>
+    <published>2019-10-17T10:55:00-03:00</published>
+    <updated>2019-10-17T10:55:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/keg-new-ball-lock-pepsi-23-l"/>
+    <title>Keg - NEW Brushed Stainless Ball lock (Pepsi Style 23 L)</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7263_23L_KEG_2_grande_1fd3bc25-5e43-46fe-8dc5-c4dcc737c8d0.png?v=1571320473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style><span data-sheets-value='{"1":2,"2":"New brushed stainless steel 23 liter capacity ball lock kegs"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>New brushed stainless steel 23 liter capacity ball lock kegs. Kegs are stackable even when fitted with connections - fit more kegs in your fridge!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4264585232486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>7263</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4175430156390</id>
+    <published>2019-10-02T15:42:37-03:00</published>
+    <updated>2019-10-02T15:42:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/sanke-coupler-type-d"/>
+    <title>Sanke Coupler - Type D</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7291-SankeFitting.jpg?v=1622473544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Standard D sanke fitting for commercial kegs.</p>
+<h1></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4175430156390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>7291</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3924427079782</id>
+    <published>2019-08-07T13:14:02-03:00</published>
+    <updated>2019-08-07T13:14:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ss-brewtech-keg-washer"/>
+    <title>Ss Brewtech Keg Washer</title>
+    <s:type></s:type>
+    <s:vendor>Ss Brewtech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78473_SSHOMEKEGWASHER.jpg?v=1562327776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ss Brewtech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            289.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Ss Brewtech Keg WaSsher offers the homebrewer a convenient way to clean any classic Cornelius-style kegs (corny or other similar variants).  </p>
+<p>To operate, simply remove the keg’s lid, <span>tilt</span><span> and insert the spray ball attachment into the keg’s lid opening, and then rotate the keg to secure the lip against the Washer’s silicone baseplate seal. Secure the locknut and snug the entire assembly down.  Attach the two ball lock quick disconnect fittings to the gas-in and liquid-out posts ensuring there are no kinks in the silicone tube</span><span>. Lastly, turn your keg upside down and put the entire assembly into a standard 5-gallon bucket that contains 2 gallons of your preferred cleaning solution, then activate the pump. Now go grab a beer and relax while the Keg WaSsher does the rest.</span></p>
+<p><span>No need to disassemble or remove QD posts, dip tubes, or other fittings, all parts are cleaned in place. No more extra-long scrub brushes or elbow grease. Since we designed this washer to fit inside a 5-gallon bucket, you can easily clean kegs in batches by setting up a wash station with 3 </span><span>discrete</span><span> buckets to perform cleaning, fresh water rinse, and acid sanitizer cycles. All while leaving the washer attached to a single keg, just jump from one bucket to next until the keg is cleaned, sanitized and ready for use. Since the Keg WaSsher only requires 2 gallons of cleaning solution, the result is less chemical waste and less environmental impact than traditional cleaning methods.</span></p>
+<p><strong>Features:</strong></p>
+<meta charset="utf-8">
+<ul>
+<li>Hands free operation</li>
+<li>Chemical resistant submersible pump</li>
+<li>Attaches to common ball-lock Cornelius-style kegs w/ removable lids</li>
+<li>Powerful CIP spray ball</li>
+<li>Entire assembly fits in 5-gallon bucket</li>
+<li>Cleans inside of keg and ports simultaneously</li>
+<li>Easily attaches/detaches from kegs</li>
+<li>Perform clean, rinse, and sanitize steps all with the same unit</li>
+</ul>
+<p> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q4rLVjnS7pE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:tag>Ss Brewtech</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3924427079782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">289.99</s:price>
+      <s:sku>78473</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/1338825736294</id>
+    <published>2018-07-09T14:33:02-03:00</published>
+    <updated>2018-07-09T14:33:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/tap-intertap-ss-faucet"/>
+    <title>Tap - Intertap, SS Faucet Gen 2</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Keg King</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/kl00970_-_intertap_ss_stainless_steel__1.png?v=1531151073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Keg King<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Intertap SS is the golden standard of dispensing taps. The Intertap SS stands tallest among the rest. Having been tested for over 1 million pours with no leaks or breaks this tap means business!</p>
+<h1><span>Tap - Intertap, acier inoxydable Robinet Gen 2</span></h1>
+<p><span>L'Intertap SS est la norme d'or des robinets de distribution. L'Intertap SS est le plus grand parmi les autres. Après avoir été testé pour plus d'un million de déversements, sans fuite ni coupure.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/1338825736294</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>7416</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479229280296</id>
+    <published>2018-03-15T17:37:51-03:00</published>
+    <updated>2018-03-15T17:37:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/1-4-inch-swivel-fits-threaded-connectors"/>
+    <title>Connector - Swivel, Fits Threaded Keg Connectors (1/4&quot; ID)</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Beverage-Elements-Barb-Swivel_1024x1024_46c4c9bf-c623-4181-b197-f1e582aa24bb.jpg?v=1521476588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For making quick connections between gas/beer line and connectors.</p>
+<h1><span>Connecteur - pivotant, convient aux connecteurs à fût filetés (1/4 "ID)</span></h1>
+<p><span>Pour établir des connexions rapides entre la ligne de gaz / bière et les connecteurs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229280296</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7279</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479229181992</id>
+    <published>2018-03-15T17:37:50-03:00</published>
+    <updated>2018-03-15T17:37:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/2-way-gas-line-manifold-with-shut-off"/>
+    <title>Manifold - Gas, With Shut Off</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7276_2waymanifold.jpg?v=1627390995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            29.99 - 49.99
+            <a href="https://bestcasediy.ca/products/2-way-gas-line-manifold-with-shut-off">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This will allow you to run multiple kegs from one regulator, and give you the ability to control individual kegs.</p>
+<h1 class="tw-data-text tw-ta tw-text-medium" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Distributeur - Gaz, avec arrêt</span></h1>
+<p><span>Cela vous permettra d'utiliser plusieurs fûts à partir d'un seul régulateur et vous donnera la possibilité de contrôler des fûts individuels.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229181992</id>
+      <title>2 Way</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7276</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229181992</id>
+      <title>3 Way</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>7278</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229181992</id>
+      <title>4 Way</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>7274</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228756008</id>
+    <published>2018-03-15T17:37:49-03:00</published>
+    <updated>2018-03-15T17:37:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ball-lock-pepsi-kegs-post-o-rings"/>
+    <title>Keg - Replacement Post O Rings, Ball Lock (Pepsi)</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/pepsi_o.jpg?v=1521231850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            0.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement o-ring for ball lock keg post.</p>
+<h1>Keg - Oring de remplacement pour fût, Pepsi</h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228756008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.59</s:price>
+      <s:sku>7295</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/bottling.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-08-12T15:41:04-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228985384</id>
+    <published>2021-08-12T15:41:04-03:00</published>
+    <updated>2021-08-12T15:41:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/7-5-liter-wine-bags"/>
+    <title>Wine On Tap - Replacement Bags 3 Pack (7.5 L)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7204_WINEONTAPREPLACEMENTBAGS.jpg?v=1628793645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>These easy to use, pre-sterilized 7.5 L bags are compatible with the Wine-On-Tap bucket, which fits in the fridge or on the counter.</div>
+<div></div>
+<div></div>
+<div>Bagged wine stays fresh for 6 months to a year no matter when you drink the wine. Foil bags block more UV and have a double oxygen barrier to keep your wine fresh.</div>
+<div></div>
+<div></div>
+<div>Package includes 3 foil bags with a professional, no-drip tap that quickly snaps into place once you finish filling.<br><br>
+</div>
+<h1><span>Wine On Tap - Sacs de rechange, paquet de 3 (7,5 L)</span></h1>
+<p style="font-weight: 400;">Sacs à vin 7,5 L pour ‘’Wine-On-Tap’’ (Paquet de 3)</p>
+<p style="font-weight: 400;">Ces sacs en papier pré-stérilisés de 7,5 litres, faciles à utiliser, sont compatibles avec le seau ‘’Wine-On-Tap’’.</p>
+<p style="font-weight: 400;">Le vin reste frais pendant 6 mois à un an, peu importe le moment où vous le buvez. Les sachets en aluminium bloquent plus d'UV et ont une double barrière d'oxygène pour garder votre vin au frais.</p>
+<p style="font-weight: 400;">Le paquet comprend 3 sachets en aluminium avec un bec sans goutte qui se met rapidement en place une fois le remplissage terminé. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228985384</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>7204</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/1591562436710</id>
+    <published>2021-07-22T12:31:05-03:00</published>
+    <updated>2021-07-22T12:31:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/funnel-small-12-cm"/>
+    <title>Funnel - Small (12 cm)</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7119_Funnel-Small.jpg?v=1627047473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1"><span>Small food-grade plastic funnel for transferring liquids or topping up bottles/carboys.</span></div>
+<ul id="details" data-mce-fragment="1">
+<li data-mce-fragment="1">BPA Free.</li>
+<li data-mce-fragment="1">Smooth inner surface make them easy to clean and sanitize.</li>
+</ul>
+<h2 style="text-align: left;"><b>Entonnoir - Petit (12 cm)</b></h2>
+<p><span style="font-weight: 400;">Petit entonnoir en plastique de qualité alimentaire pour le transfert de liquides ou le remplissage de bouteilles/bonbonnes.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sans BPA.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Surface intérieure lisse les rend faciles à nettoyer et à désinfecter.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Wine Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/1591562436710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7119</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6612992884838</id>
+    <published>2021-07-22T12:30:50-03:00</published>
+    <updated>2021-07-22T12:30:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/funnel-large-25-cm"/>
+    <title>Funnel - Large (25 cm)</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7118_Funnel-Large.jpg?v=1627047364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1"><span>Large food-grade plastic funnel for transferring liquids or topping up bottles/carboys.</span></div>
+<ul id="details" data-mce-fragment="1">
+<li data-mce-fragment="1">BPA Free.</li>
+<li data-mce-fragment="1">Smooth inner surface make them easy to clean and sanitize.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:tag>Wine Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6612992884838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>7118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582176546918</id>
+    <published>2021-06-07T12:08:58-03:00</published>
+    <updated>2021-06-07T12:08:58-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-repair-kit"/>
+    <title>iTap Repair Kit</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74113_iTapRepairKit.jpg?v=1622059889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">A set of spare parts for iTap maintenance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582176546918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>74113</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582162522214</id>
+    <published>2021-06-07T12:08:36-03:00</published>
+    <updated>2021-06-07T12:08:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-g-connector"/>
+    <title>iTap G-Connector</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74111_iTapG-Connector.jpg?v=1622050907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">G-connector with a compensator to pour the drinks through a defoamer to a mug, connects to iTap or iTap 2.</span></p>
+<p><strong>ATTENTION</strong>: G-connector attaches only to a<span> </span><a href="https://boel.company/product/itap-clamp-lock-for-glass-bottles/">clamp lock for crown cap bottles</a><span> </span>and<span> </span><a href="https://boel.company/product/clamp-lock-for-pet/">clamp-lock for PET bottles</a>.</p>
+<p><meta charset="utf-8"><iframe class="youtube-player" width="980" height="552" src="https://www.youtube.com/embed/Ct6r9J7uTA8?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></p>
+<div data-mce-fragment="1" title="Page 1" class="page">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<ul data-mce-fragment="1"></ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582162522214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>74111</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582128640102</id>
+    <published>2021-06-07T12:06:50-03:00</published>
+    <updated>2021-06-07T12:06:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-for-crown-cap-bottles"/>
+    <title>iTap For Crown Cap Bottles</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74110_iTapforCrownBottles.jpg?v=1622044046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">A revolutionary device for drinks dispensing into glass bottles. </span></p>
+<div class="page" title="Page 1" data-mce-fragment="1">
+<div class="section" data-mce-fragment="1">
+<div class="layoutArea" data-mce-fragment="1">
+<div class="column" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">The counter pressure bottling method eliminates any contact between the beer and oxygen. As a result, your brew stays fresh and carbonated.</li>
+<li data-mce-fragment="1">Easy &amp; clean bottling: install the bottle, fill it, remove the bottle. No mess, no foam, no fuss.</li>
+<li data-mce-fragment="1">Fast filling: you can fill and cap (the capping devices are not included) 50-60 bottles in 1 hour.</li>
+<li data-mce-fragment="1">The quality/price ratio is impressive: you get a durable device with a 5-year warranty. It fits for both commercial breweries and homebrewers as well.</li>
+<li data-mce-fragment="1">Minimal drainage losses (only 1%), no foaming.</li>
+<li data-mce-fragment="1">Quick installation: even if you see an iTap for the first time, you can install it on your own in under 10 minutes. Easy use: CO2 filling with a button, fast filling.</li>
+<li data-mce-fragment="1">No cartridges or disposable parts.</li>
+<li data-mce-fragment="1">The drinks bottled with iTap stays fresh and remains its initial flavour up to 90-120 days.</li>
+<li data-mce-fragment="1">You can bottle any foamy drinks, including beer, cider, soda, etc.</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582128640102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>74110</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6582168256614</id>
+    <published>2021-06-07T12:06:30-03:00</published>
+    <updated>2021-06-07T12:06:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/itap-clamp-pet-bottles"/>
+    <title>iTap Clamp-lock for PET Bottles</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Boel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/74112_iTapClampPETBottles.jpg?v=1622052329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boel<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">Counter pressure bottle filler is essential to selling beer to go.<span> </span></span><span class="s1">And the removable clamp-lock is designed for dispensing drinks into the PET bottles, for iTap devices.</span></p>
+<p>Also this clamp lock is used to attach<span> </span><a href="https://boel.company/product/g-connector-itap/">G-connector</a><span> </span>to an iTap to fill glasses from the same tap.</p>
+<p><span class="s1">Because of convenient installation, you can quickly switch from a clamp-lock for PET bottles to a glass bottles one, and vice versa. Thanks to eliminating any contact with oxygen, the counter-pressure bottle filler ensures the beer, cider or soft drinks stay carbonated. As a result, the drinks will stay fresh in the bottles and ready to enjoy! </span></p>
+<ul>
+<li class="li1"><span class="s1">Fits all iTap devices </span></li>
+<li class="li1"><span class="s1">Versatility: use the same tap and switch clamp locks for different bottles<br></span></li>
+<li class="li1"><span class="s1">Allows to expand the product packaging options</span></li>
+<li class="li1"><span class="s1">Produced from high-quality food-grade materials</span></li>
+<li class="li1"><span class="s1">No disposable removable parts</span></li>
+<li class="li1"><span class="s1">Easy and convenient use of counter-pressure bottle filler</span></li>
+<li class="li1"><span class="s1">5 years warranty service</span></li>
+</ul>
+<p><strong>You can maximize the bottling options just adding a clamp-lock for glass bottles to your counter-pressure bottling system.</strong></p>
+<p><strong><meta charset="utf-8"> <iframe class="youtube-player" width="980" height="552" src="https://www.youtube.com/embed/oEEoXd6Rh-A?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></strong></p>
+<div data-mce-fragment="1" title="Page 1" class="page">
+<div data-mce-fragment="1" class="section">
+<div data-mce-fragment="1" class="layoutArea">
+<div data-mce-fragment="1" class="column">
+<ul data-mce-fragment="1"></ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Keg &amp; Draught</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6582168256614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>74112</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6586158022758</id>
+    <published>2021-06-03T09:57:45-03:00</published>
+    <updated>2021-06-03T09:57:45-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottles-500ml-clear-pressure-safe"/>
+    <title>Bottles - 500ml Clear Pressure Safe</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/78501-500mlClearbottles.jpg?v=1622724350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>500ml Clear pressure safe bottle. Great for seltzer or beer.<br></p>
+<p>Sold by the dozen.</p>
+<h2 itemprop="name">BOUTEILLES<br>
+</h2>
+<p>Vendu en caisse de 12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6586158022758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>78501</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4952537858150</id>
+    <published>2020-10-26T11:18:19-03:00</published>
+    <updated>2020-10-26T11:18:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/apour-wine-dispenser"/>
+    <title>aPour Wine Dispenser Fermtech</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/aPour-ProductImage.jpg?v=1603715919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A sleek new way to dispense your wine from bags. Designed to fit Fermtech's wine bags but also works great with 4.5L wine bags.<br></p>
+<p><strong>See demonstration videos <a href="https://www.fermtech.ca/index.php/wine-dispensing/apour">here.</a></strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Reduces bottling, corking, labeling.</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Reusable, portable dispenser is engineered to last.</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">The included Pressure Filler™ is designed to maximize volume and make filling a breeze.</li>
+</ul>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Kit Includes:</li>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1 x aPour Premium Wine Dispenser</li>
+<li data-mce-fragment="1">1 x Pressure Filler™</li>
+<li data-mce-fragment="1">1 x pre-sanitized Oxygen Barrier Bag with Deluxe Dispensing Tap (replacement bags available in packs of 3)</li>
+</ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4952537858150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>72021</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4949558689894</id>
+    <published>2020-10-14T11:46:27-03:00</published>
+    <updated>2020-10-14T11:46:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/hydrometer-1"/>
+    <title>Hydrometer</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>KegLand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7111_HYDROMETER.jpg?v=1602685456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KegLand<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Hydrometers are used to quickly measure the specify gravity or density of your beer or wine. The information correlates with the amount of sugar and thus allows you to determine how far along your fermentation is, and your alcohol content.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4949558689894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>7111</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4943092088934</id>
+    <published>2020-10-07T10:48:00-03:00</published>
+    <updated>2020-10-07T10:48:00-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/vitop-bag-filling-attachment"/>
+    <title>Vitop Bag Filling Attachment</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Unknown-Product-02.jpg?v=1602006891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Yes, you can remove the taps and fill them using a standard bottle filler. No problem at all. Home winemakers have been using this method for years to fill bags.</p>
+<p class="p1">On the other hand, this convenient attachment looks much more professional in a U-Vint situation and can even be sold to your customers as a more convenient gravity option using standard syphon equipment. Snaps on the tap spout for even easier filling.</p>
+<p class="p1"><strong>Fits standard Vitop taps.</strong></p>
+<h1 class="p1">Vitop Attachement pour sac à vin</h1>
+<p>Facilite le remplissage des sacs à vin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4943092088934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>72118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221383208</id>
+    <published>2020-01-29T11:26:20-04:00</published>
+    <updated>2020-01-29T11:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/ez-cap-washers"/>
+    <title>EZ Cap -  Replacement Washers</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7817_EZCAPWASHERREPLACEMENT.jpg?v=1537205965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            0.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement seal for flip top style bottles.</p>
+<h1><span>EZ Cap - écrous de rechange</span></h1>
+<p><span>Joint de remplacement pour bouteilles style flip-top.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221383208</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.19</s:price>
+      <s:sku>7817</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3949473726566</id>
+    <published>2019-08-23T08:37:15-03:00</published>
+    <updated>2019-08-23T08:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/sanitizer-dish-monster-cleaner"/>
+    <title>Sanitizer Dish - Monster Cleaner</title>
+    <s:type>Cleaning &amp; Sanitation</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7403_MONSTERCLEANER01.jpg?v=1566560247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Cleaning &amp; Sanitation<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>The Monster Cleaner is simply the best sanitizer you could think of. The Monster Cleaner allows for sanitization of all types of bottles. From PET beer, wine, and champagne bottles to Test Jars, Easy Siphons, Samplers, PET Carboys, Growlers, Gallon Jugs, and more!</p>
+<p>Easy to assemble, it is a breeze to use and clean. It also acts as a versatile addition to the top of the Bottle Drying Tree with no adaptor required. May also be used independently on any flat surface.</p>
+<p>Features:</p>
+<ul>
+<li>Comes with an adapter so the PET carboys will fit and can be sanitized (any container up to 55 mm in neck diameter).</li>
+<li>Will take all types of bottles (PET beer bottles, wine bottles, champagne bottles).</li>
+<li>Use the versatile adapter to easily sanitize a a variety of sizes and shapes, including Test Jars, Easy Siphons, Samplers and more.</li>
+<li>Will fit on top of the Bottle Drying Tree with no adapter required. Can also be used on any flat surface.</li>
+<li>Size is perfect to sanitize Growlers and Gallon Jugs.</li>
+<li>BPA free.</li>
+<li>Made with food grade materials.</li>
+</ul>
+<p><i>Not recommended to sanitize large glass carboys.</i></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Cleaning &amp; Sanitation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3949473726566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>7403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855298166886</id>
+    <published>2019-06-18T09:09:39-03:00</published>
+    <updated>2019-06-18T09:09:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/wine-poke-wine-dispenser-bag-pink"/>
+    <title>Wine Poke - Wine Dispenser Bag (Pink)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/72117_WinePokePink.jpg?v=1560859809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">The Wine Poke is perfect for both on-site and home winemakers! Simply fill the 4.5 L mylar bag with wine, put it inside your Wine Poke, position the nozzle, and fold down the flexible top, forming a loop with the rubber handle.</p>
+<p class="p3"><span class="s1">5 bags holds a whole 23 L batch!</span></p>
+<p class="p1">The Wine Poke is made with durable nylon and has a nonslip rubber base to keep it steady on any surface–countertops, the fridge, at a picnic, or on a sailboat!</p>
+<p class="p1">Can also be used to carry a wine bag from store bought boxed wine.</p>
+<h1 class="p1">
+<span>Wine Poke - Distributeur de vin (Rose</span><span>)</span>
+</h1>
+<p><span>Le Wine Poke est parfait pour les viticulteurs sur place et à domicile! Remplissez simplement le sac en mylar de 4,5 litres avec du vin, placez-le dans votre Wine Poke, positionnez la buse et pliez le dessus flexible en formant une boucle avec la poignée en caoutchouc.</span></p>
+<p><span>5 sacs peuvent contenir un lot complet de 23 litres!</span></p>
+<p><span>Le Wine Poke est fabriqué en nylon résistant et possède une base en caoutchouc antidérapante pour le maintenir stable sur tous les comptoirs de surface, le réfrigérateur, les pique-niques ou les voiliers!</span></p>
+<p><span>Peut également être utilisé pour porter un sac de vin dans une boîte de vin achetée en magasin.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855298166886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>72116</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3855297642598</id>
+    <published>2019-06-18T09:07:40-03:00</published>
+    <updated>2019-06-18T09:07:40-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/wine-poke-wine-dispenser-bag-sky-blue"/>
+    <title>Wine Poke - Wine Dispenser Bag (Sky Blue)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/72116_WinePokeSkyBlue.jpg?v=1560859725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">The Wine Poke is perfect for both on-site and home winemakers! Simply fill the 4.5 L mylar bag with wine, put it inside your Wine Poke, position the nozzle, and fold down the flexible top, forming a loop with the rubber handle.</p>
+<p class="p3"><span class="s1">5 bags holds a whole 23 L batch!</span></p>
+<p class="p1">The Wine Poke is made with durable nylon and has a nonslip rubber base to keep it steady on any surface–countertops, the fridge, at a picnic, or on a sailboat!</p>
+<p class="p1">Can also be used to carry a wine bag from store bought boxed wine.</p>
+<h1 class="p1">
+<span>Wine Poke - Distributeur de vin (B</span>leu Ciel<span>)</span>
+</h1>
+<p><span>Le Wine Poke est parfait pour les viticulteurs sur place et à domicile! Remplissez simplement le sac en mylar de 4,5 litres avec du vin, placez-le dans votre Wine Poke, positionnez la buse et pliez le dessus flexible en formant une boucle avec la poignée en caoutchouc.</span></p>
+<p><span>5 sacs peuvent contenir un lot complet de 23 litres!</span></p>
+<p><span>Le Wine Poke est fabriqué en nylon résistant et possède une base en caoutchouc antidérapante pour le maintenir stable sur tous les comptoirs de surface, le réfrigérateur, les pique-niques ou les voiliers!</span></p>
+<p><span>Peut également être utilisé pour porter un sac de vin dans une boîte de vin achetée en magasin.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3855297642598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>72117</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/1338827669606</id>
+    <published>2019-04-18T11:25:05-03:00</published>
+    <updated>2019-04-18T11:25:05-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottle-filler-beer-gun"/>
+    <title>Bottle Filler - Beer Gun</title>
+    <s:type>Equipment - Kegs &amp; Accessories</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/kl01229_-_bottle_filler_beer_gun.png?v=1531150606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Kegs &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Have a keg of beer, but want to fill some bottles to take with you to the game, beach, or friend's house? The BeerGun is a great way to fill bottles from a keg. Every part that comes into contact with your beer is stainless steel. This unit features a CO2 purge, which helps to prevent oxidation during filling. Includes tubing and a brush for cleaning.</span><br><br><span>These features, coupled with a CO2 jacketing tube for bottle purging and ergonomic valve actuators, makes filling bottles faster, intuitive, more accurate, and easier than ever! Because the Bottle Filler Beer Gun doesn't require a pressurizing stopper, you can fill a bottle of any depth without buying different stem lengths or adding plastic hose extensions. </span></p>
+<h1><span mce-data-marked="1">Beer Gun</span></h1>
+<p><span mce-data-marked="1"><span>La simplicité du principe de fût est appréciée de tous mais l'oxygénation et la mousse de l'embouteillage pour le transport est un inconvénient. Le BeerGun exempte de ce problème en purgeant une bouteille avec du CO</span><sub>2</sub><span> et en la remplissant avec un minimum de mousse ou de perte de carbonation. Le Beer Gun simplifie l'embouteillage par la pression d'une valve de purge et le tirage d'une gachette pour la bière!</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/1338827669606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>7421</s:sku>
+      <s:grams>740</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479229149224</id>
+    <published>2018-03-15T17:37:50-03:00</published>
+    <updated>2018-03-15T17:37:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/3-litre-semi-reusable-wine-bag"/>
+    <title>Wine-to-Go Bags (3 L)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Wine-to-Go-Bag1_grande_large_46793cbc-1f27-47d1-bf30-b20a00cb61a2.jpg?v=1521476589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Attractive Wine Bag dispensers. Great for cottages, boats, or people on the go! Free standing. Can be re-used. (Semi-reusable because the cap can be pried off with a butter knife carefully if desired.)</p>
+<h1>Wine-to-Go (3 L)</h1>
+<p><span>Attrayants distributeurs de sacs à vin. Idéal pour les chalets, les bateaux ou les gens en déplacement! Debout libre. Peut être réutilisé. (Semi-réutilisable car le capuchon peut être retiré avec un couteau à beurre avec soin, si vous le souhaitez.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229149224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>7206</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479229083688</id>
+    <published>2018-03-15T17:37:50-03:00</published>
+    <updated>2018-03-15T17:37:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/5-litre-semi-reusable-wine-bag"/>
+    <title>Wine-to-Go Bags (5 L)</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/Wine-to-Go-Bag1_grande_large_5f191caf-7947-4150-8276-9e643c1636f7.jpg?v=1521476589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Attractive Wine Bag dispensers. Great for cottages, boats, or people on the go! Free standing. Can be re-used. (</span><span>Semi-reusable because the cap can be pried off with a butter knife carefully if desired.)</span></p>
+<h1>Wine-to-Go (5 L)</h1>
+<p><span>Attrayants distributeurs de sacs à vin. Idéal pour les chalets, les bateaux ou les gens en déplacement! Debout libre. Peut être réutilisé. (Semi-réutilisable car le capuchon peut être retiré avec un couteau à beurre avec soin, si vous le souhaitez.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479229083688</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>7208</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228788776</id>
+    <published>2018-03-15T17:37:49-03:00</published>
+    <updated>2018-03-15T17:37:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/auto-syphon-clip-3-8"/>
+    <title>Siphon - Auto (Clip)</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/auto-siphon-clamp_1024x1024_f7439b29-a265-460b-8a8b-ce423232a340.jpg?v=1521476590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            4.99 - 5.99
+            <a href="https://bestcasediy.ca/products/auto-syphon-clip-3-8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This handy clip holds your auto siphon in place so you can avoid sucking up sediment.</p>
+<h1>Siphon - Auto (Clip)</h1>
+<p><span>Ce clip pratique maintient votre siphon automatique en place afin que vous puissiez éviter d'aspirer les sédiments.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228788776</id>
+      <title>Small</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>7121</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228788776</id>
+      <title>Large</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>7125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479228297256</id>
+    <published>2018-03-15T17:37:46-03:00</published>
+    <updated>2018-03-15T17:37:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/bottles-fliptop-brown-500ml"/>
+    <title>Bottles - Flip Top Beer Bottles</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/bottles_flip_top.jpg?v=1559142776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flip top beer bottles caps and washers included.</p>
+<p>Sold by the dozen. Brown available in 500ml and 750 ml, and Clear available in 750ml. </p>
+<h2 itemprop="name">BOUTEILLES AVEC BOUCHON PIVOTANT</h2>
+<p>Vendu en caisse de 12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479228297256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>7863</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479225053224</id>
+    <published>2018-03-15T17:37:32-03:00</published>
+    <updated>2018-03-15T17:37:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/regular-bottle-filler"/>
+    <title>Bottle Fillers</title>
+    <s:type>Equipment - Bottling</s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/bottle_filler_spring_loaded.jpg?v=1521204353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong>Equipment - Bottling<br>
+        <strong>Price: </strong>
+            3.99 - 4.99
+            <a href="https://bestcasediy.ca/products/regular-bottle-filler">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Auto shut off bottle fillers.</p>
+<h1>Remplisseur de bouteilles</h1>
+<p>S'arrêt automatiquement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479225053224</id>
+      <title>Small - 5/16&quot;</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7128</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479225053224</id>
+      <title>Large - 1/2&quot;</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>7129</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479225053224</id>
+      <title>Small - 5/16&quot; (Spring Loaded)</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7130</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479224987688</id>
+    <published>2018-03-15T17:37:32-03:00</published>
+    <updated>2018-03-15T17:37:32-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/regular-racking-clip-3-8"/>
+    <title>Siphon - Clips</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/racking_clip_red.jpg?v=1521303713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            2.99 - 3.99
+            <a href="https://bestcasediy.ca/products/regular-racking-clip-3-8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hold your racking tube in place to avoid transferring sediment.</p>
+<h1>Siphon - Clips</h1>
+<p> Tenez votre tube de soutirage en place pour éviter le transfert de sédiment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224987688</id>
+      <title>Small</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>7136</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479224987688</id>
+      <title>Large</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>7137</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223578664</id>
+    <published>2018-03-15T17:37:26-03:00</published>
+    <updated>2018-03-15T17:37:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/wine-on-tap"/>
+    <title>Wine On Tap</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7202_WINEONTAP02.jpg?v=1565189752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wine On Tap dispensing system. Great alternative to bottles!</p>
+<h1>Wine On Tap</h1>
+<p><span>Système de distribution Wine On Tap. Excellente alternative aux bouteilles!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223578664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>7202</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223513128</id>
+    <published>2018-03-15T17:37:26-03:00</published>
+    <updated>2018-03-15T17:37:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/wine-on-tap-replacement-retainer-ring"/>
+    <title>Wine On Tap - Replacement Spout/Retainer Ring</title>
+    <s:type></s:type>
+    <s:vendor>Best Case Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/7122_WINEONTAPRING.jpg?v=1565189820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best Case Wholesale<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement plate for holding wine on tap bags in place.</p>
+<h1><span>Wine On Tap - Bec de rechange / Anneau de retenue</span></h1>
+<p><span>Plaque de rechange pour maintenir le vin en place sur des sacs à clapets.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223513128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>7122</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479223152680</id>
+    <published>2018-03-15T17:37:24-03:00</published>
+    <updated>2018-03-15T17:37:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/auto-syphon-regular"/>
+    <title>Siphon - Auto</title>
+    <s:type>Equipment - Brewing</s:type>
+    <s:vendor>The Vintage Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/auto_siphon_large_copy_1024x1024_18d4fee1-f164-43a6-86f5-1d3d69ea1bfc.jpg?v=1521476612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Vintage Shop<br>
+        <strong>Type: </strong>Equipment - Brewing<br>
+        <strong>Price: </strong>
+            14.99 - 15.99
+            <a href="https://bestcasediy.ca/products/auto-syphon-regular">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This auto siphon pump starts a siphon with a single stroke in as little as an inch of liquid, eliminating the need to suck on the end of the tubing potentially contaminating your product.</p>
+<h1>Siphon - Auto</h1>
+<p><span>Cette pompe à siphon automatique démarre un siphon en un seul geste dans un pouce de liquide, éliminant ainsi le besoin de sucer l'extrémité du tuyau potentiellement contaminant votre produit.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bottling</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223152680</id>
+      <title>5/16&quot;</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>7104</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479223152680</id>
+      <title>1/2&quot;</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>7127</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/mangrove-jacks-beer-kits.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2021-05-19T14:46:25-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565296832614</id>
+    <published>2021-05-19T14:46:25-03:00</published>
+    <updated>2021-05-19T14:46:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-beer-enhancer-2"/>
+    <title>Mangrove Jack&apos;s Beer Enhancer 2</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/40023MJBeerEnhancer2.jpg?v=1618944577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Beer Enhancer 2 – best for boosting full-bodied beers!</p>
+<p data-mce-fragment="1">Mangrove Jack's Beer Enhancer 2 infuses a special blend of liquid malt extract, invert sugar syrup and glucose syrup. It has been carefully designed to be used with a range fuller bodied beer styles, such as IPAs, English and American Pale Ales, or any amber, red, or dark beer styles.</p>
+<p data-mce-fragment="1">Use as an alternative to approx. 1kg of dextrose in your brew to elevate the flavour, body, head retention and mouthfeel of your beer.</p>
+<h2 style="text-align: center;"><b>Rehausseur de bière Mangrove Jack's 2</b></h2>
+<p><span>Le meilleur pour booster les bières corsées!</span></p>
+<p><span>Infuse un mélange spécial d'extrait de malt liquide, de sirop de sucre inverti et de sirop de glucose. Soigneusement conçue pour être utilisée avec une gamme de styles de bière plus corsés, tels que les IPA, les Pale Ales anglaises et américaines, ou tout autre style de bière ambrée, rouge ou brune.</span></p>
+<p><span>Utiliser comme alternative à env. 1 kg de dextrose dans votre bière pour rehausser la saveur, le corps, la rétention de la tête et la sensation en bouche de votre bière.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565296832614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>40023</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/6565287166054</id>
+    <published>2021-05-19T14:46:22-03:00</published>
+    <updated>2021-05-19T14:46:22-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-beer-enhancer-1"/>
+    <title>Mangrove Jack&apos;s Beer Enhancer 1</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/40022MJBeerEnhancer1.jpg?v=1618942523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Beer Enhancer 1 – best for boosting light beers!</p>
+<p data-mce-fragment="1">Mangrove Jack's Beer Enhancer 1 infuses a special blend of liquid malt extract, invert sugar syrup and glucose syrup. It has been carefully designed to be used with a range lighter, drier beers, such as lagers and pilsners.</p>
+<p data-mce-fragment="1">Use as an alternative to approx. 1kg of dextrose in your brew to elevate the flavour, body, head retention and mouthfeel of your beer.</p>
+<h2 style="text-align: center;"><b>Rehausseur de bière Mangrove Jack's 1</b></h2>
+<p><span>Idéal pour booster les bières légères!</span></p>
+<p><span>Infuse un mélange spécial d'extrait de malt liquide, de sirop de sucre inverti et de sirop de glucose. Soigneusement conçue pour être utilisée avec une gamme de bières plus légères et plus sèches, telles que les lagers et les pilsners.</span></p>
+<p><span>Utiliser comme alternative à env. 1 kg de dextrose dans votre bière pour rehausser la saveur, le corps, la rétention de la tête et la sensation en bouche de votre bière.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/6565287166054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>40022</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4888775786598</id>
+    <published>2020-11-25T12:29:15-04:00</published>
+    <updated>2020-11-25T12:29:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-craft-series-raspberry-berliner-weisse-limited-release"/>
+    <title>Mangrove Jacks Craft Series Raspberry Berliner Weisse (Limited Release)</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/MJ_LMT_ED_RASP_WEIS_LR_1024x1024_7bb48d5a-8753-47f1-956c-483a3126352d.jpg?v=1595512705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This kit uses the Lemondrop hop and is a light, crisp and zingy drink with a pleasant tartness and salty finishing note. Very moreish!\n\nThe extract is pre soured before pasteurisation so there is no extra risk of contamination to your brewing equipment.\n\nABV Approx: 4.9%\nBitterness: 1/5\nIBU: 8 - 15\nMakes: 23 L\nColour: Pale Gold\nYeast: M21 Belgian Wit Yeast\nDry Hops: LemonDrop 20g\nBrewing Sugar Required: 1 kg Dextrose or Brew Enhancer"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Tangy raspberry notes with an undertone of wheat give this light, refreshing beer the perfect introduction. Expect a clean, tart sourness and a crisp, dry finish.<br><br>ABV Approx: 3.6%<br>Bitterness: 1/5<br>IBU: 4 - 8<br>Makes: 23 L<br>Colour: Dark Pink<br>Yeast: M20 Bavarian Yeast<br>Brewing Sugar Required: 1 kg Dextrose</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4888775786598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>3867</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/4612774199398</id>
+    <published>2020-02-19T13:47:23-04:00</published>
+    <updated>2020-02-19T13:47:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-craft-series-lemon-sour-limited-release"/>
+    <title>Mangrove Jacks Craft Series Lemon Sour (Limited Release)</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/10597.jpg?v=1582134471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"This kit uses the Lemondrop hop and is a light, crisp and zingy drink with a pleasant tartness and salty finishing note. Very moreish!\n\nThe extract is pre soured before pasteurisation so there is no extra risk of contamination to your brewing equipment.\n\nABV Approx: 4.9%\nBitterness: 1/5\nIBU: 8 - 15\nMakes: 23 L\nColour: Pale Gold\nYeast: M21 Belgian Wit Yeast\nDry Hops: LemonDrop 20g\nBrewing Sugar Required: 1 kg Dextrose or Brew Enhancer"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>This kit uses the Lemondrop hop and is a light, crisp and zingy drink with a pleasant tartness and salty finishing note. Very moreish!<br><br>The extract is pre soured before pasteurisation so there is no extra risk of contamination to your brewing equipment.<br><br>ABV Approx: 4.9%<br>Bitterness: 1/5<br>IBU: 8 - 15<br>Makes: 23 L<br>Colour: Pale Gold<br>Yeast: M21 Belgian Wit Yeast<br>Dry Hops: LemonDrop 20g<br>Brewing Sugar Required: 1 kg Dextrose or Brew Enhancer</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/4612774199398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>3866</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934665343078</id>
+    <published>2019-08-19T15:53:37-03:00</published>
+    <updated>2019-08-19T15:53:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-roasted-stout-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Roasted Stout + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3862_MJSTOUTDRYHOPS.jpg?v=1564161882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A black creamy stout, rich in dark chocolate and smooth fruitiness. Smooth and satisfying.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.9%</span></p>
+<p><span><strong>Bitterness:</strong> 4/5</span></p>
+<p><span><strong>IBU:</strong> 40-50</span></p>
+<p><span><strong>Colour:</strong> Black</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M42 New World Strong Ale</span></p>
+<p><span><strong>Dry Hops:</strong> Galena</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhancer.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934665343078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>3862</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934665212006</id>
+    <published>2019-08-19T15:53:37-03:00</published>
+    <updated>2019-08-19T15:53:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-pilsner-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Pilsner + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3861_MJPILSDRYHOPS.jpg?v=1564161861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A traditional Czech Pilsner with Saaz hops providing a spicy and mild hoppiness. Crisp and dry with a clean lingering bitterness that refreshes the palate.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.5%</span></p>
+<p><span><strong>Bitterness:</strong> 3/5</span></p>
+<p><span><strong>IBU:</strong> 32-36</span></p>
+<p><span><strong>Colour:</strong> Golden</span></p>
+<p><span><strong>Yeast:</strong> M54 Californian Lager</span></p>
+<p><span><strong>Dry Hops:</strong> Saaz 28g</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934665212006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3861</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934665080934</id>
+    <published>2019-08-19T15:53:37-03:00</published>
+    <updated>2019-08-19T15:53:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-irish-red-ale-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Irish Red Ale + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3860_MJIRISHREDDRYHOP.jpg?v=1564161792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Fruity with dark berry notes and hints of caramel. Goldings offers a muted earthy aroma to this full bodied, rich fruity ale with a subtle toffee finish.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.3%</span></p>
+<p><span><strong>Bitterness:</strong> 2/5</span></p>
+<p><span><strong>IBU:</strong> 18-24</span></p>
+<p><span><strong>Colour:</strong> Rich Copper</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M36 Liberty Bell Ale</span></p>
+<p><span><strong>Dry Hops:</strong> Goldings 20g</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1 kg Dextrose/Brew Enhancer or 1.2 kg Pure Malt Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934665080934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3860</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934664917094</id>
+    <published>2019-08-19T15:53:37-03:00</published>
+    <updated>2019-08-19T15:53:37-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-ipa-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - IPA + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3859_MJIPADRYHOPS.jpg?v=1564161752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Rich and malty with earthy floral notes and a hint of spice. This beer is the perfect balance of malty sweetness and refreshing bitterness.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.7%</span></p>
+<p><span><strong>Bitterness:</strong> 3/5</span></p>
+<p><span><strong>IBU:</strong> 35-45</span></p>
+<p><span><strong>Colour:</strong> Vibrant Gold</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M42 New World Strong Ale</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934664917094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3859</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934664687718</id>
+    <published>2019-08-19T15:53:36-03:00</published>
+    <updated>2019-08-19T15:53:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-helles-lager-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Helles Lager + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3864_MJHELLESDRYHOP.jpg?v=1564161713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A crisp and golden German helles with a twist. Light and malty with hints of vanilla bean and red fruits, this has been dry hopped with two New Zealand varieties, Wakatu and Pacific Gem to give it a floral, zesty lime and spicy aroma.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.4%</span></p>
+<p><span><strong>Bitterness:</strong> 2/5</span></p>
+<p><span><strong>IBU: </strong>18-34</span></p>
+<p><span><strong>Colour:</strong> Pale Gold</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M54 Californian Larger</span></p>
+<p><span><strong>Hops:</strong> Wakatu and Pacific Gem</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhance</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934664687718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3864</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934664523878</id>
+    <published>2019-08-19T15:53:36-03:00</published>
+    <updated>2019-08-19T15:53:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-chocolate-brown-ale"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Chocolate Brown Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3858_MJCHOCOLATEBROWN.jpg?v=1564161673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Sweet and malty in taste with rich fruit and brown sugar aroma. Leaves you with a delicious nutty aftertaste.</span></p>
+<p><span><strong>ABV Approx:</strong> 4%</span></p>
+<p><span><strong>Bitterness</strong>: 2/5</span></p>
+<p><span><strong>IBU:</strong> 26-34</span></p>
+<p><span><strong>Colour:</strong> Mahogany</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M15 Empire Ale</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934664523878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3858</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934664327270</id>
+    <published>2019-08-19T15:53:36-03:00</published>
+    <updated>2019-08-19T15:53:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-bavarian-wheat"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - Bavarian Wheat</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3857_MJBAVARIANWHEAT.jpg?v=1564161631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Deliciously smooth, light golden in colour. Full bodied with aromas of vanilla and banana and a lingering clove aftertaste.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.7%</span></p>
+<p><span><strong>Bitterness:</strong> 1/5</span></p>
+<p><span><strong>IBU:</strong> 12-18</span></p>
+<p><span><strong>Colour:</strong> Hazy Gold</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M20 Bavaria Wheat</span></p>
+<p><span><strong>Brewing Sugar Required:</strong> 1.2 kg Pure Liquid Malt Extract or 1 kg Dextrose/Brew Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934664327270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>3857</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934664163430</id>
+    <published>2019-08-19T15:53:36-03:00</published>
+    <updated>2019-08-19T15:53:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-american-pale-ale-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - American Pale Ale + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3863_MJPALEALEDRYHOPS.jpg?v=1564161592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>An American pale ale with a nod to the founders of craft brewing. This beer has a full malt character with hints of biscuit and a balanced bitterness. Dry hopped with Mosaic and Chinook hops to give it a punchy tropical fruit, yet earthy and grapefruit character.</span></p>
+<p><span><strong>ABV Approx:</strong> 4.4%</span></p>
+<p><span><strong>Bitterness:</strong> 2.5/5</span></p>
+<p><span><strong>IBU:</strong> 25-35</span></p>
+<p><span><strong>Colour:</strong> Burnished Gold</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><span><strong>Yeast:</strong> M15 Empire Ale﻿</span></p>
+<p><span><strong>Hops:</strong> Simcoe and Chinook Brewing</span></p>
+<p><span><strong>Sugar Required:</strong> 700 g Pure Liquid Malt Extract or 600 g Dextrose/Brew Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934664163430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>3863</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934663770214</id>
+    <published>2019-08-19T15:53:35-03:00</published>
+    <updated>2019-08-19T15:53:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-brew-pouch-american-ipa-dry-hops"/>
+    <title>Mangrove Jack&apos;s Craft Series Brew Pouch - American IPA + Dry Hops</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3856_MJIPADRYHOPS.jpg?v=1564161533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Crisp and dry, bursting with tropical fruit aromas. Great balance between complex fruit and malt tones, followed by an intense bitterness.</span></p>
+<p><span><strong>ABV Approx:</strong> 5.6%</span></p>
+<p><span><strong>Bitterness</strong>: 4.5/5</span></p>
+<p><span><strong>IBU:</strong> 48-56 Colour: Vibrant Gold</span></p>
+<p><span><strong>Makes:</strong> 23 L</span></p>
+<p><strong>Y</strong><span><strong>east:</strong> M44 US West Coast 10g</span></p>
+<p><span><strong>Hops:</strong> Simcoe, Citra and Ekuanot</span></p>
+<p><span><strong>Brewing Sugar Required:</strong>1 kg Dextrose/Brew Enhancer or 1.2 kg Pure Malt Enhancer</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934663770214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>3856</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934667735142</id>
+    <published>2019-08-19T15:50:57-03:00</published>
+    <updated>2019-08-19T15:50:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-new-zealand-brewers-series-pilsner"/>
+    <title>Mangrove Jack&apos;s New Zealand Brewer&apos;s Series - Pilsner</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3855_NZSERIESPILSNER.jpg?v=1564162322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A clean piIsner with a gentle bitterness and refreshing dry finish.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast.</span></p>
+<p><span>Makes 23 L.</span></p>
+<h2>Mangrove Jack's New Zealand Brewer's Series - Pilsner</h2>
+<p><span>Un piIsner propre avec une amertume douce et une finition sèche rafraîchissante.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>Donne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934667735142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3855</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934667440230</id>
+    <published>2019-08-19T15:50:56-03:00</published>
+    <updated>2019-08-19T15:50:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-new-zealand-brewers-series-pale-ale"/>
+    <title>Mangrove Jack&apos;s New Zealand Brewer&apos;s Series - Pale Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3854_NZSERIESPALEALE_82921241-1d69-4a1c-b551-852519815322.jpg?v=1564162268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A delicious pale ale with a fruit and malt character, balanced with a light bitterness.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast. <br></span><span><br>Makes 23 L.</span></p>
+<h2>Mangrove Jack's New Zealand Brewer's Series - Pale Ale</h2>
+<p><span>Une délicieuse bière blonde au caractère de fruit et de malt, équilibrée avec une légère amertume.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>Donne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934667440230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3854</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934667112550</id>
+    <published>2019-08-19T15:50:56-03:00</published>
+    <updated>2019-08-19T15:50:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-new-zealand-brewers-series-golden-ale"/>
+    <title>Mangrove Jack&apos;s New Zealand Brewer&apos;s Series - Golden Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3853_NZSERIESGOLDENALE.jpg?v=1564162230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A clear golden ale with subtle malt and fruit undertones, finished with a pleasing bitterness.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast.</span></p>
+<p><span>Makes 23 L.</span></p>
+<h2>Mangrove Jack's New Zealand Brewer's Series - Golden Ale</h2>
+<p><span>Une bière dorée claire avec de subtiles nuances de malt et de fruits, terminée par une agréable amertume.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>D</span><span>onne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934667112550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3853</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934666948710</id>
+    <published>2019-08-19T15:50:56-03:00</published>
+    <updated>2019-08-19T15:50:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-new-zealand-brewers-series-american-pale-ale"/>
+    <title>Mangrove Jack&apos;s New Zealand Brewer&apos;s Series - American Pale Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3854_NZSERIESPALEALE.jpg?v=1564162189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A well balanced American pale ale, with a delicious malt character and satisfying bitterness.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast.</span></p>
+<p><span>Makes 23 L.</span></p>
+<h2>Mangrove Jack's New Zealand Brewer's Series - American Pale Ale</h2>
+<p><span>Une bière américaine bien équilibrée, avec un délicieux caractère de malt et une amertume satisfaisante.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>Donne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934666948710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3852</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934666653798</id>
+    <published>2019-08-19T15:50:56-03:00</published>
+    <updated>2019-08-19T15:50:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-australian-brewers-series-gold-lager"/>
+    <title>Mangrove Jack&apos;s Australian Brewer&apos;s Series - Gold Lager</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3851_MJAUSSIEGOLDLAGER.jpg?v=1564162127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A refreshing, easy drinking Golden Lager with a balanced smooth flavour, complemented by a mild bitterness.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast.</span></p>
+<p><span>Makes 23 L.</span></p>
+<h2>Mangrove Jack's Australian Brewer's Series - Gold Lager</h2>
+<p><span>Une Golden Lager rafraîchissante et facile à boire avec une saveur douce et équilibrée, complétée par une légère amertume.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>Donne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934666653798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3851</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934665834598</id>
+    <published>2019-08-19T15:50:55-03:00</published>
+    <updated>2019-08-19T15:50:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-australian-brewers-series-blonde-dry"/>
+    <title>Mangrove Jack&apos;s Australian Brewer&apos;s Series - Blonde Dry</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3850_MJAUSSIEBLONDEDRY.jpg?v=1564162056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A light coloured, crisp tasting, dry style Lager. </span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast. </span></p>
+<p><span>Makes 23 L.</span></p>
+<h2>Mangrove Jack's Australian Brewer's Series - Blonde Dry</h2>
+<meta charset="utf-8">
+<p><span>Une blonde de couleur claire, au goût croquant et au style sec. </span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span> Donne 23 L.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934665834598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3850</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/3934665670758</id>
+    <published>2019-08-19T15:50:55-03:00</published>
+    <updated>2019-08-19T15:50:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/mangrove-jacks-australian-brewers-series-bitter"/>
+    <title>Mangrove Jack&apos;s Australian Brewer&apos;s Series - Bitter</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Mangrove Jack&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/3849_MJAUSSIEBITTER.jpg?v=1564161930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mangrove Jack&#39;s<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A hoppy distinctive Lager style beer with a crisp bitter taste to really satisfy a thirst.</span></p>
+<p><span>Contains 1.7 kg of premium liquid malt extract and style specific yeast.</span></p>
+<p><span>Makes 23 L</span></p>
+<h2>Mangrove Jack's Australian Brewer's Series - Bitter</h2>
+<p><span>Une bière houblonnée de style Lager avec un goût amer et croquant qui satisfait réellement la soif.</span></p>
+<p><span>Contient 1,7 kg d'extrait liquide de malt de première qualité et de levure spécifique.</span></p>
+<p><span>Donne 23 L</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mangrove Jack&apos;s Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/3934665670758</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3849</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

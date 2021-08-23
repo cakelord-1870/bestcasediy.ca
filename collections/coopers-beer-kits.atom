@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bestcasediy.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bestcasediy.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bestcasediy.ca/collections/coopers-beer-kits.atom"/>
+  <title>Best Case DIY</title>
+  <updated>2020-10-16T13:08:56-03:00</updated>
+  <author>
+    <name>Best Case DIY</name>
+  </author>
+  <entry>
+    <id>https://bestcasediy.ca/products/755179520095</id>
+    <published>2020-10-16T13:08:56-03:00</published>
+    <updated>2020-10-16T13:08:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-devil-half-ruby-porter"/>
+    <title>Coopers - Devil Half Ruby Porter</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_devils_half_ruby_porter_f105c6ed-192c-4c02-8d67-45a531f92459.jpg?v=1602864525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>In 1862, Coopers brewery operations were located close to an area known as the Devil’s Half Acre. This rather intimidating name stemmed from the somewhat menacing people that frequented the neighbourhood. As such, it had a reputation for being a place to steer clear of at night.</p>
+<p>This devilish brew is inspired by the shady characters of the Devil’s Half Acre. As black as the sinister night, this full bodied Porter has ruby hints, delicious chocolate toffee malt character, moderate bitterness with fruity hop notes and a rich creamy head. It’s sure to bring out your dark side.</p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Devil Half Ruby Porter</span></h1>
+<p><span class="slider"><span>Cette infusion diabolique s’inspire des personnages loufoques de Devil’s Half Acre. Aussi noir que la nuit sinistre, ce Porter corsé a des notes de rubis, un délicieux caractère de malt au chocolat, une amertume modérée avec des notes de houblon fruité et une tête crémeuse et riche. C’est sûr de faire ressortir votre côté obscur. </span></span></p>
+<p><span class="slider"><span>Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/755179520095</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3232</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479227772968</id>
+    <published>2018-03-15T17:37:44-03:00</published>
+    <updated>2018-03-15T17:37:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-australian-pale-ale"/>
+    <title>Coopers - Australian Pale Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_australian_pale_ale.jpg?v=1521213884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="slider"><span id="brewS2" class="slider">Due to popular demand our master brewers have developed a beer kit in the style of the famous COOPERS ORIGINAL PALE ALE which is considered an Australian icon. The finest 2-row barley, hops and specially selected yeast combine to produce a beer with fruity and floral characters, balanced with a crisp bitterness and compelling flavour perfect for every occasion. </span></span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Australian Pale Ale</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">A la demande générale, nos maîtres brasseurs ont mis au point un kit de bière inspiré du célèbre COOPERS ORIGINAL PALE ALE, considéré comme une icône australienne. L'orge à deux rangs, le houblon et la levure spécialement sélectionnée se combinent pour produire une bière aux caractères fruités et floraux, équilibrée avec une amertume vive et une saveur irrésistible, parfaite pour toutes les occasions. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479227772968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3228</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479227740200</id>
+    <published>2018-03-15T17:37:44-03:00</published>
+    <updated>2018-03-15T17:37:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-english-bitter"/>
+    <title>Coopers - English Bitter</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_english_bitter_13564e0e-78e9-4152-a2f8-7409a173f87a.jpg?v=1521214207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider"><span id="brewS2" class="slider">Coopers English Bitter is a brown copper colour with red hues and a creamy head. It displays a pleasing floral aroma with a blend of toasty/sweet malt flavours finishing with a firm bitter finish. It may be served slightly less chilled, if desired. </span></span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - English Bitter</span></h1>
+<p><span class="slider"><span>Coopers English Bitter a une couleur marron cuivrée avec des reflets rouges et une tête crémeuse. Elle présente un arôme floral agréable avec un mélange d'arômes de malt grillé / sucré se terminant par une finale ferme et amère. Elle peut être servie un peu moins froide, si désiré. </span></span></p>
+<p><span class="slider"><span>Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479227740200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3210</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479222104104</id>
+    <published>2018-03-15T17:37:20-03:00</published>
+    <updated>2018-03-15T17:37:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-canadian-blonde"/>
+    <title>Coopers - Canadian Blonde</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_canadian_blonde_128f3e1a-7e5a-441d-83fa-734f34ecf474.jpg?v=1521214122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider">Light yellow-gold colour with a tightly packed white head, floral nose with a hint of malt, medium bodied palate with delicate hopping and a slightly bitter finish. The most discerning draught drinker will appreciate this beer.</span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Canadian Blonde</span></h1>
+<p><span class="slider"><span>Couleur or jaune clair à tête blanche serrée, nez floral avec un goût de malt, bouche moyennement corsée avec des sauts délicats et une finale légèrement amère. </span></span></p>
+<p><span class="slider"><span>Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479222104104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3204</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479222038568</id>
+    <published>2018-03-15T17:37:19-03:00</published>
+    <updated>2018-03-15T17:37:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-classic-dark"/>
+    <title>Coopers - Classic Dark</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_dark_ale_363a7eb1-b18f-4909-ac25-114c0e0e8660.jpg?v=1521214152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider">Rich mahogany colour and a creamy head. Roasted malt aromas with a hint of chocolate, generous mouthfeel dominated by roasted malt flavours, sufficient hop bitterness to give balance and a dry finish. A favourite amongst dark beer drinkers.</span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Classic Dark</span></h1>
+<p><span class="slider"><span>Couleur acajou riche et une tête crémeuse. Arômes de malt torréfié avec une pointe de chocolat, bouche généreuse dominée par des arômes de malt torréfié, amertume de houblon suffisante pour donner de l'équilibre et une finale sèche. Un favori parmi les buveurs de bière foncée. </span></span></p>
+<p><span class="slider"><span>Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479222038568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3214</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221973032</id>
+    <published>2018-03-15T17:37:19-03:00</published>
+    <updated>2018-03-15T17:37:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-draught"/>
+    <title>Coopers - Draught</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_draught_b064870c-a92f-48b1-9676-92ccee251b39.jpg?v=1521214172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider">Light yellow-gold colour with a tightly packed white head, floral nose with a hint of malt, medium bodied palate with delicate hopping and a slightly bitter finish. The most discerning draught drinker will appreciate this beer</span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Draught</span></h1>
+<p><span class="slider"><span>Couleur or jaune clair à tête blanche serrée, nez floral avec une pointe de malt, bouche moyennement corsée avec des sauts délicats et une finale légèrement amère. Le buveur de bière a pression le plus perspicace appréciera cette bière </span></span></p>
+<p><span class="slider"><span>Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221973032</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3202</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221940264</id>
+    <published>2018-03-15T17:37:19-03:00</published>
+    <updated>2018-03-15T17:37:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-european-lager"/>
+    <title>Coopers - European Lager</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_european_lager_1f42e4ab-a009-41fc-96bd-8692bdad4d23.jpg?v=1521214229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coopers European Lager captures the style of the finest quality lagers exported from Northern Europe.</p>
+<p>Serve well chilled in a tall, narrow glass with a generous head of 5cm or so and savour the herbaceous hop aroma and crisp finish.</p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - European Lager</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Coopers European Lager capture le style des lagers de la meilleure qualité exportées d'Europe du Nord. Servir bien frais dans un grand verre étroit avec une tête généreuse d'environ 5 cm et savourer l'arôme de houblon herbacé et sa finale vive. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221940264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3226</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221907496</id>
+    <published>2018-03-15T17:37:19-03:00</published>
+    <updated>2018-03-15T17:37:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-india-pale-ale"/>
+    <title>Coopers - India Pale Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_ipa_47ed2b46-00fa-43af-8180-fc7c78fec84f.jpg?v=1521214258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Early records of “Cooper and Sons” producing India Pale Ale can be found in the South Australian Advertiser, dated February 1868.</p>
+<p>Thomas Coopers IPA (India Pale Ale) produces a beer with all the hallmarks of a genuine IPA from the “mother land”. A strong, robust ale with malt characters and very high hopping levels.</p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - India Pale Ale</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Les premiers enregistrements de “Cooper and Sons” produisant India Pale Ale sont disponibles dans le South Australian Advertiser, daté de février 1868. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Coopers IPA  fabrique une bière avec toutes les caractéristiques d'une véritable IPA de la «Motherland». Une bière forte et robuste avec des caractères de malt et des niveaux de sauts très élevés. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221907496</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3218</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221874728</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-lager"/>
+    <title>Coopers - Lager</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_lager_337a5f8b-2d2b-4dbc-a0d3-a26a9444369b.jpg?v=1521214272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider">Straw colour with golden hues and a lacy white head. Light floral aromas follow through on a light to medium bodied palate with subtle malt and hop flavours and a clean finish. An Australian Lager style with plenty of character.</span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Lager</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Couleur paille avec des reflets dorés et une tête blanche en dentelle. Des arômes floraux légers se succèdent sur une bouche légère à moyenne, avec des saveurs subtiles de malt et de houblon et une finale nette. Un style australien avec beaucoup de caractère. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221874728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3206</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221841960</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-mexican-cerveza"/>
+    <title>Coopers - Mexican Cerveza</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_mexican_cerveza_c8498da1-ebfe-4009-b648-7a9fea97c78b.jpg?v=1521214281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mexico is known for its arid lands, dusty conditions and oppressive heat. So it’s not surprising that the people of Mexico are expert at quenching a thirst.</p>
+<p>Coopers Mexican Cerveza emulates the style of the finest quality beers exported from Mexico. This premium beer is light in style with a fresh clean taste, ideally served ice-cold with a wedge of lime or lemon.</p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Mexican Cerveza</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Le Mexique est connu pour ses terres arides, ses conditions poussiéreuses et sa chaleur accablante. Il n’est donc pas surprenant que les Mexicains soient des experts pour étancher leur soif. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Les Coopers Mexican Cerveza imitent le style des bières de première qualité exportées du Mexique. Cette bière de qualité est légère avec un goût frais et propre, idéalement servie glacée avec un morceau de lime.</span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221841960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3224</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221809192</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-pilsner"/>
+    <title>Coopers - Pilsner</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_pilsner_7efe301f-17b1-4595-bc96-a60482defeff.jpg?v=1521214321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pale straw coloured beer with a bold, spicy Saaz hop aroma. Crisp and dry with cleansing bitterness.</p>
+<p>Thomas Coopers Pilsner is made from premium 2 - row pale malt and barley, bittering hops and a generous amount of aromatic Saaz hops. Fermentation with the true lager yeast, supplied, at temperatures below 20c will produce an excellent example of the pilsener style. </p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Pilsner</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une bière de couleur paille pâle avec un arôme audacieux et épicé de Saaz hop. Croustillant et sec avec une amertume purifiante. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Coopers Pilsner est fabriqué à partir de malt pâle et d’orge de qualité supérieure à 2 rangs, de houblon amer et d’une généreuse quantité de houblon Saaz aromatique. La fermentation avec la vraie levure de bière blonde, fournie à des températures inférieures à 20 ° C, produira un excellent exemple du style pilsener. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221809192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3216</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221776424</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-real-ale"/>
+    <title>Coopers - Real Ale</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_real_ale_58dba0bf-1c2b-4f3a-a830-4fffc63f02b3.jpg?v=1521214341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider">Bright golden colour with a strong head. Pleasant blend of fruit and malt on the nose with generous mouthfeel and a moderately bitter finish. A good example of a Traditional Ale.</span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Real Ale</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Couleur dorée brillante avec une tête forte. Mélange agréable de fruits et de malt au nez avec une bouche généreuse et une finale moyennement amère. Un bon exemple d'une bière traditionnelle. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221776424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3208</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221743656</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-stout"/>
+    <title>Coopers - Stout</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_stout_d7b13fea-616b-49db-81a8-67d664773483.jpg?v=1521214378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="brewS1" class="slider"><span id="brewS2" class="slider">Dark brown colour with a persistent head resembling espresso creamer, a blend of coffee, chocolate and grain aromas, exceptional mouth feel and dark malt characteristics, the combination of malt tannins and hop bitterness results in a dry finish. Can be consumed young or cellared for a number of years with excellent results.</span></span></p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Stout</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">De couleur marron foncé avec une tête persistante ressemblant à de la crème à expresso, un mélange d'arômes de café, de chocolat et de grain, une sensation en bouche exceptionnelle et des caractéristiques de malt sombre, la combinaison de tanins de malt et d'amertume de houblon donne une finition sèche. Peut être consommé jeune ou en cave pendant plusieurs années avec d'excellents résultats. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221743656</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3212</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479221710888</id>
+    <published>2018-03-15T17:37:18-03:00</published>
+    <updated>2018-03-15T17:37:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-wheat-beer"/>
+    <title>Coopers - Wheat Beer</title>
+    <s:type>Kits - Beer</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_hefe_wheat_24cf08f4-cd48-4572-9c94-0c8c28bb1255.jpg?v=1521214387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Kits - Beer<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pale, cloudy beer, refreshingly spritzy and tart with a delicious creamy frothiness.</p>
+<p>Thomas Coopers Wheat Beer is made from premium malted wheat, pale malted barley and selected hops. Wheat beers are a great summer refresher, low in bitterness and considered by many as the “champagne” of the beer world. </p>
+<p><span class="slider">Requires an additional 1kg (2.2lbs) corn sugar or 1.36kg (3Lbs) malt extract.</span></p>
+<h1><span class="slider">Coopers - Wheat Beer</span></h1>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" id="tw-target-text" dir="ltr"><span lang="fr">Une bière pâle, rafraîchissante et acidulée avec une délicieuse mousse crémeuse. La bière de blé Coopers est élaborée à partir de blé malté de qualité supérieure, d'orge maltée claire et de houblon sélectionné. Les bières de blé constituent un excellent rafraîchissement d'été, faible en amertume et considéré par beaucoup comme le «champagne» du monde de la bière. </span></p>
+<p class="tw-data-text tw-ta tw-text-small" data-placeholder="Translation" dir="ltr"><span lang="fr">Requis 1 kg (2,2 lb) de sucre de maïs ou 1,36 kg (3 lb) d'extrait de malt supplémentaire.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479221710888</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>3222</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bestcasediy.ca/products/479214764072</id>
+    <published>2018-03-15T17:36:48-03:00</published>
+    <updated>2018-03-15T17:36:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://bestcasediy.ca/products/coopers-starter-kit"/>
+    <title>Starter Kit - Coopers</title>
+    <s:type>Equipment - Fermenting</s:type>
+    <s:vendor>Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2278/3341/products/coopers_starter_kit.jpg?v=1521214364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coopers<br>
+        <strong>Type: </strong>Equipment - Fermenting<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Coopers DIY Beer Brew Kit includes everything you need to make 23 litres of great tasting beer. The patented fermenter, hydrometer specifically designed for beer and the bottling valve makes brewing even easier and quicker. It's the easiest and most rewarding DIY project you'll ever do!</span></p>
+<p>   <b><span> </span> <span> </span></b><b>Complete Starter equipment package with Beer Kit:</b></p>
+<ul>
+<li>1 x 34L Fermenting Vessel &amp; Lid (makes 23L of beer)</li>
+<li>1 x Krausen Kollar</li>
+<li>1 x Coopers Snap Tap</li>
+<li>2 x Lid Clips</li>
+<li>1 x Durable Hydrometer &amp; Measuring Flask</li>
+<li>1 x Mixing Spoon</li>
+<li>1 x Adhesive Thermometer Strip</li>
+<li>1 x Bottling Valve</li>
+<li>30 x 740ml PET Bottles &amp; Caps</li>
+<li>1 x 1.7kg Original Series Lager Brewing Extract</li>
+<li>1 x 1kg Brew Enhancer 1</li>
+<li>1 x 250g Carbonation Drops</li>
+</ul>
+<h1>Coopers - Kit de bière</h1>
+<p>Le kit de bière DIY de Coopers contient tout ce dont vous avez besoin pour faire 23 litres (6 gallons) de bonne bière facilement et rapidement. C'est le projet le plus facile et le plus gratifiant que vous aurez fait!</p>
+<p> Inclut :</p>
+<ul>
+<li>Cuve de fermentation</li>
+<li>Robinet et vanne de remplissage</li>
+<li>Hydromètre</li>
+<li>Carton d'étapes du brasseur</li>
+<li>Marqueur effaçable</li>
+<li>Bière Lager concentrée</li>
+<li>Brew Enhancer 1 (améliorateur de bière)</li>
+<li>Cuillère à mélanger</li>
+<li>30 bouteilles et bouchons</li>
+<li>Thermomètre en bande</li>
+<li>Dragées de carbonation</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coopers Beer Kits</s:tag>
+    <s:tag>Fermentation</s:tag>
+    <s:variant>
+      <id>https://bestcasediy.ca/products/479214764072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>7024</s:sku>
+      <s:grams>17500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
